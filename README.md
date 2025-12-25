@@ -7,6 +7,8 @@ This is intended for use with https://obsidian.md/.  A free note taking applicat
 
 You can view a (slightly buggy) web based version of this vault at https://my.flowershow.app/@slidedrum/Blue-Prince-Notes/
 
+You can view the GitHub source here: https://github.com/slidedrum/Blue-Prince-Notes
+
 Of course you could also just view it inside of GitHub directly, but then you won't get the fancy image imbeds and really nice links.
 
 # Caveats
