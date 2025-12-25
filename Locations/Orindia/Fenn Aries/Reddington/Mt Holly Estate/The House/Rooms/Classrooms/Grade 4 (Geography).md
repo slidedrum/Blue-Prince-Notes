@@ -1,0 +1,106 @@
+ #location #room/blue #classrooms
+- I think this class is trying to teach me the names and locations of the 8 realm.  And to associate them with their respective sigils
+- But this class only goes over 7 of the 8 realms?  Why?  Am I missing something? #question 
+- How am I supposed to discern the connection between realms and shapes from this class? #question 
+- I should bring a [[Magnifying glass]] here
+- The 7 realms it goes over are:
+	- [[Arch Aries]]
+	- [[Orinda Aries]]
+	- [[Eraja]]
+	- [[Nuance]]
+	- [[Mora Jai]]
+	- [[Verra]]
+	- [[Corarica]]
+
+-  ![[Pasted image 20251210091948.png]]
+	- The unlabeled symbol is for [[Angel Tower]] as seen in [[A Sightseer's Guide To Reddington#^38e4db]]
+- ![[Pasted image 20251210091925.png]]
+	- This map is called "[[Ettsphere]] - 3rd era"
+	- Names in the main map:
+		- [[Nuance]]
+		- [[Orinda Aries]]
+		- [[Arch Aries]]
+		- [[Eraja]]
+		- [[Orindia]]
+		- [[innsei]]
+		- [[ejssei]]
+		- [[orrsei]]
+		- [[Ferther Nuance]]
+	- On the top we see two groups of people, one seemingly more "developed" than the other. They seem to be offering each other something?
+	- On the bottom left, we see "The Outer Circle" we can see the names of the planets: ours is "Mora" and starting at the top, clockwise they all are: ^e60974
+		- [[Fennmora]]
+		- [[Mora]]
+		- [[Dauja (planet)|Dauja]]
+		- [[Mamora]]
+		- [[Veia]] ^7e9874
+	- On the left hand side we see several things 
+		- someone looking through a telescope similar to the one found in [[The Observatory]]
+		- someone holding up a paper with the star sign "diamonds minor" and some other stuff I can't make out (yet?) He is also holding a compass (the symbol for drafting rooms)
+		- someone looking through a microscope similar to the one found in [[The Lab]]
+		- Someone flying a balloon with some metal on it?
+		- We see a sundial (maybe related to [[Apple Orchard#^6a1dc1]]?)
+	- On the top left, we see "The seeker of signs" it has 7 realms with [[Corarica]] in the center.
+	- On the top right, we see "The Devoted Circle" 
+		- Directly under the text we see the sigil for [[Orinda Aries]]
+		- Under the sigil we see a depiction of [[Oris - First King Of Orinda Aries]] and his 3 kids the [[Sibling Monarchs]]
+		- It depicts the two moons of [[Mora]].  with rogue orbiting devoted, and devoted orbiting [[Mora]].
+			- [[The Devoted Moon]]
+			- [[The Rogue Moon]]
+	- On the bottom right we see "The three of Tides" It shows  the "[[isles of orresei]]"
+	- on the bottom we see two moons facing a sleeping sun.   ^e95c26
+		- The left moon is labeled "Isseclipse" and the right moon is labeled "inneclipse"
+		- On the left we see the [[Tomb Statue Puzzle|angel]] of farming. and on the right we see the [[Tomb Statue Puzzle|angel]] of cleaning?
+- ![[Pasted image 20251210091929.png]]
+	- This map is called: "[[Orrsphere]] - 3rd era"
+	- In the central map the named places are:
+		- [[Moraven]]
+		- [[Mora Jai]]
+		- [[Verra]]
+		- [[Corarica]]
+		- [[The Great Tress]]
+		- [[Ajsei]]
+		- [[Seija]]
+	- On the top left we have "The North Circle"
+		- It depicts the northern face of [[Mora]]
+		- In the center is the letter "i"
+		- Dotted lines go through the ocean, these lines match others I've seen in other places.  Are they trade routes maybe?
+	- On the bottom left we have "The South Key"
+		- It depicts the southern face of [[Mora]]
+		- In the center we see an infinity symbol
+		- On the sides we see the sigils of [[Eraja]] [[Corarica]] [[Verra]] and [[Nuance]] over where they would be from this prospective.
+		- We see dotted lines across the oceans similar to the ones in other places, possibly trade routes?
+	- On the top right we see "The Spiral of Stars"
+		- It depicts our solar system similar to [[Grade 4 (Geography)#^e60974|the outer circle]]
+		- There is also a line of stars(?) that matches a note found in [[Her Ladyship's Chamber#^b8e28f]]
+	- On the bottom right we see "The Sacred Circle"
+		- It depicts some kind of structure that kind of looks like a turtle shell?
+		- It has numbers on it, and some of the parts have solid lines, some have dotted lines.
+		- It has something to do with angles.
+			- Angles 90, 58, 46, and 8 can be seen.
+		- I can also see the words "rot" and "tor"
+		- I'm fairly confident there is #MoreToExploreHere 
+	- On the bottom we see 6 monks(?)  in black robes holding boxes. 
+		- The monks are flanking a sun in the center, contrast the one from the [[Grade 4 (Geography)#^e95c26|other map]] this sun is awake.
+		- They seem to match either the boxes in [[The Parlor]] or the cursed box from [[The Curse Of BlackBridge]]
+		- There are some symbols behind them, I have seen them before, not sure where.  nor do I have any clue what they mean.
+	- On the left of the image we see the sigil for [[Corarica]] 5 times, 
+		- starting light at the top and getting progressively darker.
+		- It ends with a mountain with a flag on top.
+		- The mountain seems to have a path on it with different stops.  
+		- The stop at the base of the mountain seems to be more important.
+	- On the top of the image we see a blindfolded woman
+		- She is chained to a bat in **her** right hand, and a bird in **her** left hand.
+		- The two animals are above flat top brick pyramids?
+		- This whole scene takes place in the clouds.
+	- On the right side of the image, we see a large tree flanked by two towers.
+		- There are two figures Infront of the towers, the towers are from [[Mora Jai]]
+			- Because they match the miniature seen in [[Sanctum Door 6]]
+		- There is a path from the tree heading south
+		- Along the end of the path are baskets of fruit.
+	- 
+- ![[Pasted image 20251210092242.png]]
+- ![[Geography realm answer key]]
+- ![[Pasted image 20251210092246.png]]
+- ![[Pasted image 20251210092251.png]]
+- ![[Pasted image 20251210092302.png]]
+- ![[Pasted image 20251210092306.png]]

@@ -1,0 +1,27 @@
+#room/purple #location #room/gem/1 #Room/Dead-End #Room/unusual #room/resource 
+- ![[Pasted image 20251214054939.png]]
+- This room has one key for every servant room in the house when drafted
+- Can you ring bells if their rooms are drafted? #question Probably not?
+- If I [[Call it a day]] in here, I get half the [[steps]] [[Tomorrow]] but I start with 1 [[Ivory Dice]] according to [[Her Ladyship's Sleep Diary#^9ffcd9]]
+- Bedroom of [[Hartley Ruota]]
+- [[Green - 12 Major Keys]] memo found on an ironing board (This might be false?)
+	- ![[Pasted image 20251210033710.png]]
+	- According to one of the pictures in the [[The Darkroom]] all memos in [[Hartley Ruota|Hartley]]'s room are always false. 
+- ![[Pasted image 20251210090835.png]]
+- Note from [[Baron Herbert.S. Sinclair]] to [[Hartley Ruota]](Who? #question )
+	- ![[Pasted image 20251210090915.png]]
+		- [[Hartley Ruota]], 
+		- I know we spoke often of this day and I don't think  there's anything I can say of the past 40 years  that I haven't already attempted to tell you  innumerous times in the past, half-stated gratitude always interrupted with tactful and polite repudiations from you. I had always known this final letter could give me the perfect opportunity to finally express myself uninterrupted by you and unfettered by social graces, but I don't feel the inclination to say aloud what has always been unsaid between us.  
+		- With my passing, I release you from your post and service to the Sinclair family and implore you to live the remainder of your years on your own terms, as scary and unfamiliar of a concept as that may be to you. Besides, I think a more junior valet would be better situated to meet the needs of young master [[Simon P. Jones|Simon]]. To that end, if you wish you may stay on long enough to oversee the training and establishment of your successor in their post, but as soon as he or she has the lay of the land, my instructions for you to quit must be satisfied.
+	- ![[Pasted image 20251210090920.png]]
+		- Ignoring what I imagine your objections might be after reading this, I have decided to leave the [[Lake House in Trinsdale]] to you and your family. My lawyers have all the details of the gift and will be contacting you shortly about the particulars. For the past four decades, you have served willingly as the subject ( and victim ) to my many whims, games and riddles and so rest assured, unlike my nephew, you will not be put to yet another challenge to prove yourself worthy in this matter. The house is yours without strings or stipulations.  
+		- I had for a time gleefully entertained the notion of employing [[Mrs Anne Babbage|Anne]] as the house manager of your new residence but I knew the humor of such a prank would be entirely lost on you, to say nothing of her!  Until we meet again my friend,
+	- ![[Pasted image 20251213004616.png]] ^9c7577
+		- Mr. [[Hartley Ruota|Ruota]],  ^c5f8ac
+		- [[Mrs Anne Babbage|Mrs. Babbage]] has told me that you will be overseeing network maintenance over the next few weeks while I will be gone and I apologize in advance for the extra workload. I believe I will be back in [[Reddington]] by the middle of February but even that is not a certainty. Either way, I do not anticipate there will be any major issues while I am gone as the difficulties we were having last month with the terminal connections seems to be resolved.   ^ff80df
+		- If there is an emergency and you find yourself having to enter the central server site, I have set you up with a temporary admin key to allow you access to the network administrator controls.  
+		- ADMIN KEY : First four letters of your last name, followed by first initial. (The first and fifth character should be capitalized.)   ^2a9cf8
+		- If you have any questions, please let me know in the next few days before my departure,  
+		- -[[Randolph Moore|Randolph]]
+		- References [[The Black Bridge Grotto]]
+- "A cold empty room, devoid of ornamentation and personal effects. This suspiciously humble bedroom belonged to the Baron's personal valet, Hartley Ruota, who had unchallenged access to even the most clandestine areas of the estate."

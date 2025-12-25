@@ -1,0 +1,8 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251219174418.png]]
+	- [[Simon P. Jones|Simon]],  
+	- I can't think of any reason you'd need to access the [[BlackBridge Terminal|Server Administrator]] controls before I return, but your father has mentioned your interest in computers so I have a feeling you may be a bit more hands-on than your great uncle.  
+	- You'll find the Admin Terminal in [[The Black Bridge Grotto|Blackbridge Grotto]], a small cavern sealed (much like the story) off of the [[east drive]]. I believe I've previously explained how to [[Experiment Letter 3 (Lab Power Puzzle)|restore power]] to [[The Black Bridge Grotto|the grotto]] in one of my earlier letters. However, keep in mind that accessing [[BlackBridge Terminal|the terminal]] requires an ADMIN KEY.  
+	- Unfortunately, I won't be able to set one up for you until I return, but your ADMIN KEY will eventually be JoneS (first four letters of your family name) or if you prefer we could use a pseudonym. I'm sure we'll discuss it in greater detail when I return.  
+	- -[[Randolph Moore|Randolph]]

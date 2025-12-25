@@ -1,0 +1,2 @@
+![[Pasted image 20251221152623.png]]
+You may CALL IT A DAY at any time. This will end the current day and reset the rooms on the estate, your inventory and your [[steps]].  When you run out of [[steps]], you will be forced to CALL IT A DAY.

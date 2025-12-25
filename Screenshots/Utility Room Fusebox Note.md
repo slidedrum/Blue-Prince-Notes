@@ -1,0 +1,10 @@
+- Found in [[The Mail Room]]
+- Used in [[The Utility Closet - Breaker Box]]
+- Unlocks [[Gemstone Cave]]
+- ![[Pasted image 20251209202353.png]]
+	- [[The Utility Closet - Breaker Box|Ultility Room Fusebox]] 
+	- Indicator settings
+	- Press any button above to activate blue
+	- press a blue indicator next to a red indicator to activate purple
+	- Five purple indicators are needed to activate the sixth.
+	- More detailed instructions will be sent by electronic mail to the address client has provided.

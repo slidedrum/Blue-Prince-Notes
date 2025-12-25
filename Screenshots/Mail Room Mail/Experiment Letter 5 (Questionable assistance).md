@@ -1,0 +1,10 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251217073522.png]]
+	- Simon,  
+	- Let me know if I'm writing to you too much, I've never been too good at gauging where the line of  impropriety is and for all I know, maybe the help I'm offering you with these letters is unwanted. Maybe you are perfectly fine without my help.  
+	- It's been a bit a moral quandary for me as I've written these, as I am fairly certain your [[Baron Herbert.S. Sinclair|uncle]] didn't want us to "assist" you on your quest ... still if it was that important, I have to believe he'd have the foresight to specifically instruct us not to interfere, nothing ever deterred him from that level of supervision in the past and after working alongside him for over a decade, I like to at least imagine that we were friends and that I knew him well. In  conclusion, I think he would have found the level of help I have offered well within the acceptable range.
+- ![[Pasted image 20251217073528.png]]
+	- I haven't spoken too much about [[Baron Herbert.S. Sinclair|him]] since his departure, and I know you didn't know him that well, but as soon as you're ready I'm going to have plenty of stories to tell. He was a fearless businessman with the greatest respect for invention. Of all the laboratories I've worked in, I can tell you [[The Lab|Mount Holly]] was a gem ... and I'm hoping that we can continue that work once you've taken up the reins.  
+	- But I won't get ahead of myself. You still have to find the [[Room 46|forty-sixth room]].  
+	- -[[Randolph Moore|Randolph]]

@@ -1,0 +1,3 @@
+- found in a white fire chest
+- "The next three green memos you find in this room will all be true."
+- ![[Pasted image 20251220172635.png]]

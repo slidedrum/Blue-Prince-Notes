@@ -1,0 +1,11 @@
+#Room/Orrange #west #location #room/door/3 #room/standard 
+- ![[Pasted image 20251214055545.png]]
+- A variant of [[The Hallway]] that only spawns on the west side of the house.
+- The slightly more common Sister room to [[The East Wing Hall]]
+- ![[Pasted image 20251210053637.png]]
+	- STAFF NOTICE 
+	- June 15th, 1983  
+	- Out of respect for the late Lady Clara Epsen, the West Wing will be closed until further notice. While the floorplans associated with this wing have not been removed from the pool, we ask that staff members refrain from drafting them during this period of mourning.  
+	- Likewise, any sta 
+	- may draft sou
+- "The west wing of the estate has been closed since the death of Lady Epsen. It is unsurprising therefore, that this hallway in its neglected state features boarded windows and dust smothered furniture."

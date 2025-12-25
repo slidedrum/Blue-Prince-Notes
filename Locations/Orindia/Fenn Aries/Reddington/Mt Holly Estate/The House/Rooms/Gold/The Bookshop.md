@@ -1,0 +1,21 @@
+#location #room/gold #book #room/gem/1 #room/rare #room/doors/2/corner 
+
+- ![[Pasted image 20251214062909.png]]
+- Only draftable from [[The Library]]
+- You can buy more books here.  Pick them up at the [[The Library]]
+	 - [x] [[History Of Orindia (First Edition)]] (50)
+	 - [x] [[A New Clue]] (50)
+	 - [x] [[The Curse Of BlackBridge]] (40)
+	 - [x] [[Realm and Rune]] (20)
+	 - [x] [[Drafting Strategy Vol 4]] (8)
+	 - [x] [[Drafting Strategy Vol 5]] (8)
+- I can't remember how, but there was a way to add new books to the bookstore.
+- There is a newspaper clipping on the wall talking about [[A New Clue]]
+	 - ![[Pasted image 20251210082319.png]]
+		 - [[Reddington Herald]]
+		 - "[[A New Clue]]" Sold out in hours
+		 - It should come as no surprise that the latest book from local author [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]] is breaking literary records and making headlines even in absentia. The release of her new book, "[[A New Clue]]", comes only fourteen months after the distressful report of the author's mysterious and [[Museum Heist|unexplained disappearance]]. 
+		 - Her [[Ruffington Red Publishing|current publisher]] has issued a statement debunking the conspiracy theories surrounding the book's recent announcement stating "The writing of the book was completed and well into the editing stages many months before \[the disappearance\]." In addition, the publisher has revealed that all of the proceeds from first edition sales of "[[A New Clue]]" will be going to [[LASTING HOPE]], a non-profit organization that aims to provide resources and intel in the investigations of missing persons. Still, the timing and conveniently mysterious title of [[Marion Marigold - Mary Matthew Epsen|Marigold]]'s third book has left many cynics denouncing the book and her disappearance as a cheap publicity stunt. [[Det. Bon Margle|Detective Bon Margle]], who many theorize may have been the inspiration for "[[A New Clue]]", was quoted only saying that the book was "unintentionally accurate." 
+		 - Regardless of their opinions, fans, pundits and cynics alike were standing together, elbow to elbow in bookshop queues this morning eager to get their hands on what may very likely be the last words ever published by the missing author.
+- ![[Pasted image 20251209095206.png]]
+- "This cozy little bookstore is often tucked away in the more secluded corners of the estate, giving guests little opportunity to appreciate the curated selection of equally rare books it offers. Titles purchased in the Bookshop will be automatically added to the Library's book request form, which fittingly, is the only room in which this rare floorplan can be drawn."

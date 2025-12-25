@@ -1,0 +1,3 @@
+- "Certain rooms, like mechanical rooms, are more likely to contain security doors."
+- Found to the left of the item table under some logs.
+- ![[Pasted image 20251224225517.png]]

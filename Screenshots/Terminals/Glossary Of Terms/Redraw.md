@@ -1,0 +1,2 @@
+![[Pasted image 20251222094749.png]]
+Some rooms and items allow you to throw back the first three options drawn from the drafting pool for a fresh set of potential rooms. This is known as drawing new floorplans.

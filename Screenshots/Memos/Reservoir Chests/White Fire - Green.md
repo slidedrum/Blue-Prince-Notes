@@ -1,0 +1,3 @@
+- "Green memos are lies."
+- ![[Pasted image 20251217105108.png]]
+- ![[Pasted image 20251217105113.png]]

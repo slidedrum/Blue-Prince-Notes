@@ -1,0 +1,10 @@
+- A series of books about drafting your house.
+- [[Drafting Strategy Vol 1]]
+- [[Drafting Strategy Vol 2]]
+- [[Drafting Strategy Vol 3]]
+- [[Drafting Strategy Vol 4]] (From [[The Bookshop]])
+- [[Drafting Strategy Vol 5]] (From [[The Bookshop]])
+- Also known as "Architects' Digest" As seen in small lettering in the title
+- Possibly unrelated to anything, but these seem to be the only books with page numbers!  This is potentially notable because of one of the puzzles involving page numbers in [[A New Clue]]
+- Who are they written and published by? #question Maybe [[Synka]]?
+- They are dated by month, not year.  did they all come out in a single year?

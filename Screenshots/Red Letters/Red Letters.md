@@ -1,0 +1,9 @@
+- There are 8 letters in total.
+- These letters were stolen by [[Denny Revane]] and held for ransom.  See [[Room 46#^102e7a]]
+- They are written by various people.
+- They are all evidence of [[Baron Herbert.S. Sinclair]] wrongdoing. 
+- These letters are used as blackmail.
+- According to the [[Freezer chest]] [[Baron Herbert.S. Sinclair]] still denies any responsibility for [[Marigold's Disappearance]]
+- [[The Great Alzara]] claims that I will only ever find 7 of the 8 letters.
+- This is supported by the fact that the letter in the [[Apple Orchard]] appears to be [[Apple Orchard#^fa245d|stolen]]!
+- [[Red Letter 4 (Dad)]]'s "4" is [[Red Letter 4 (Dad)#^367200|circled]] for some reason.  Why? #question 

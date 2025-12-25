@@ -1,0 +1,3 @@
+- "There is only one location in the estate where every room in the [[Drafting Pool]] can be drafted"
+- Found on the celling on the left side of the room.
+- ![[Pasted image 20251224212232.png]]

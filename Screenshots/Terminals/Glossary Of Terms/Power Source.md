@@ -1,0 +1,2 @@
+![[Pasted image 20251222094548.png]]
+The estate's BOILER ROOM is known as a POWER SOURCE because it provides steam power to various rooms in the house. Steam power is conveyed room-to-room via ducts that run across the ceiling, and power can be transported across great distances as long as you continue to string together rooms that contain power ducts.

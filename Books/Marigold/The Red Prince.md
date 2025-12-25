@@ -1,0 +1,62 @@
+#book #Marylin-Maragold 
+- Book written by [[Marion Marigold - Mary Matthew Epsen]]
+- Was this her first book?  Can't remember, order is known.  Probably says in [[Archive Newspapers]]? #question 
+- Said to be based on [[Simon P. Jones]]? #question (as seen in the [[Archive Newspapers#^84145d|Archive Newspapers]])
+- Version found in [[The Master Bedroom]]
+- ![[Pasted image 20251217060825.png]]
+	- To my encouraging uncle, who opened many doors for me.
+	- Ever grateful, Mary.
+	- PS: They made me change the ending of course as you predicted 
+	- The Red Prince
+	- By [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]]
+- Seen as a [[Archive Newspapers#^84145d|critique of the royal party]]
+- ![[Pasted image 20251210074044.png]]
+	- There was a red prince,
+	- Who sat on a red throne.
+	- He had a red crown made of rubies,
+	- And a red castle made of stone.
+- ![[Pasted image 20251210074047.png]]
+	- The prince had a love,
+	- For all things red.
+	- "It's the only *true* color"
+	- The prince often said.
+- ![[Pasted image 20251210074051.png]]
+	- He could not stand the sight,
+	- Of a canary or a crow.
+	- He could not stand the white,
+	- Of a swan in the snow.
+- ![[Pasted image 20251210074054.png]]
+	- And he never looked up...
+	- For for of the view.
+	- He had heard that the sky,
+	- Was not a red hue!
+- ![[Pasted image 20251210074058.png]]
+	- So he always had a book,
+	- To turn his eyes down.
+	- If he was ever outside,
+	- When the clouds weren't arround.
+- ![[Pasted image 20251210074101.png]]
+	- And do you know which book,
+	- The prince always had?
+	- The one that made him happy,
+	- Whenever he was sad?
+- ![[Pasted image 20251210074104.png]]
+	- A story he had read
+	- In the bath and the bed,
+	- And maybe you can guess,
+	- With the clues we have said.
+- ![[Pasted image 20251210074108.png]]
+	- It was the story of a boy,
+	- Who also wore red!
+	- And he looked like our prince,
+	- From his toes to his head.
+- ![[Pasted image 20251210074112.png]]
+	- And as you my read,er
+	- Might already assume;
+	- This book is quite near you,
+	- In fact, in the same room!
+- ![[Pasted image 20251210074117.png]]
+	- A story about you,
+	- If it needs to be said.
+	- About a red prince and his book.
+	- The red book, we just read.

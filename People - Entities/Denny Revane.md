@@ -1,0 +1,12 @@
+#person 
+- Groundskeeper of the [[House]].
+- [[The Hovel#^2fa485|fired]] by [[Mrs Anne Babbage]] in 1992 (probably on 2.1.92, or shortly after)
+- Lived in [[The Hovel]]
+- had an [[The Freezer#^821ace|admin key]] for the [[The Black Bridge Grotto]] (disabled when he was fired)
+- Found [[Room 46]] and wrote the [[Room 46#^102e7a|threat]] note in the drawer.
+- He also wrote [[Red Letter 1 (Worth Laude)]] and [[Red Letter 8 (X-Denny)]], he is "X" 
+- Was up to some shady shit, did he participate in the [[Museum Heist]]?
+	- I don't think so.  The shady shit was finding 46 and fucking blackmailing [[Baron Herbert.S. Sinclair]]
+- Was making [[The Trading Post#^ff14cd|moonshine]] with [[Christoph]] 
+- He might be [[Bo Lee|LeeB]] in the [[BlackBridge Terminal]]
+- He was the one who suggested the location for [[The Black Bridge Grotto]] see [[The Freezer#^9db5c8]]

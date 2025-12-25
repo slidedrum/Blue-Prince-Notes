@@ -1,0 +1,6 @@
+- Not to be confused with [[Oris (Town)]]
+- His name is Oris
+- He was the first king of [[Orinda Aries]]
+- Before he was a king, he was a merchant lord with one aim, expansion
+	- Hard evidence for this is scarce, but known
+	- See [[History Of Orindia (First Edition)#^019254|History Of Orindia (First Edition)]]

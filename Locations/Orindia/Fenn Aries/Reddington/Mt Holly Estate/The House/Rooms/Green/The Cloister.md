@@ -1,0 +1,21 @@
+#room/green #location #room/upgraded #room/doors/4 #puzzle/unsolved #Room/unusual #room/gem/3
+- ![[Pasted image 20251214061117.png]]
+- One of only 2 [[Green Room]] that can be drafted in the center of the house (the other is [[The Courtyard]])
+- Originally did nothing before upgrading?  Was just a 4 door green room?
+- After upgrading: If you draft a [[The Kitchen]], [[The Pantry]] or [[The Furnace]] from this room, permanently buff the main course in the [[The Dining Room]] by +5 [[steps]]
+- There are always dirt piles in the center.  See [[The Solarium|the note in the solarium]] for how to get to the center.
+- In the center of the room is a Chef Statue matching that in the [[Tomb Statue Puzzle]]
+- ![[Pasted image 20251210102535.png]]
+	- Originally it was of [[Orinda]].  
+	- Then it was changed to a statue of [[Rynna]]
+	- Then when I upgraded it it changed to a statue of [[Joya]]
+	- as seen in [[The Tomb]] statues, and [[The Chapel]] stain glass windows.
+- Once inside the center, there are letters on the back that say "C X /n E T"
+	- I'm pretty sure this is related to the letters I found in [[The Precipice#^d20cff]] ^d10b76
+	- Part of the [[Letters puzzle]] ^1345de
+	- ![[Pasted image 20251215231039.png]]
+	- ![[Pasted image 20251215231113.png]]
+		- [[Robert Nogula|Mr. Nogula]], 
+		- If you are reading this, it seems the day has finally come, and the Cloister is at long last getting some much-overdue maintenance. I have left you a literal token of appreciation to serve as positive reinforcement, which should grant you a bit of extra spending money each day while working on the estate. We have learned from our dealings with your predecessor that it is much cheaper in the long run to be generous. 
+		- -[[Mrs Anne Babbage|Mrs. Babbage]]
+- "A covered walk and colonnade surround an enclosed and seemingly inaccessible garden. A statue of 6Joya, the Paragon of Cuisine, has been emplaced here as a celebration of the exceptional work of Chef DeCamp and the kitchen staff, whose delicious dishes never fail to get you back on your feet."

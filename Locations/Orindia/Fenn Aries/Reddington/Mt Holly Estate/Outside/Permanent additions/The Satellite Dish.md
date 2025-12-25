@@ -1,0 +1,4 @@
+- ![[Pasted image 20251220203506.png]]
+- The Satellite Dish 
+- Has been **permanently** unlocked and added to your campsite.
+- New experimental data packets can now be uploaded to the laboratory from SYNKA and inbound electronic mail and communications from offsite will no longer be blocked.

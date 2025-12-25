@@ -1,0 +1,14 @@
+#location #underground #puzzle #Puzzle/solved 
+- Sigil for [[Fenn Aries]]
+	- ![[Pasted image 20251215052707.png]]
+- Letter on the counter:
+	- To [[Baron Herbert.S. Sinclair]]
+	- from [[Baron Herbert.S. Sinclair]]
+	- Mentions [[Mrs Anne Babbage]]
+	- ![[Pasted image 20251210102641.png]] ^d0d503
+		- The Royal Museum of the Grand [[City Of Fenn]]
+		- I am actually writing this last postcard sitting at my desk at home. I suppose I should put forth the extra effort and drop it in the mail for consistency, but I am tempted do save the postmaster a trip as it will just wind up here once again do join the other seven, which I am pleased to report were all wailing for me on my desk safe as can be. Flipping through them has reminded me of the many friends I made and lessons learned along the way, and as I look back one truth shines brighter than the others: Air travel is much better than sea travel. ^6ed429
+		- P.S. Remind [[Mrs Anne Babbage|Anne]] to replace the books I lost.
+- ![[Pasted image 20251210102645.png]]
+	- Pictured: [[The Royal Museum of Fenn]]
+- ![[Puzzle Box - Fenn Aries Variation]]

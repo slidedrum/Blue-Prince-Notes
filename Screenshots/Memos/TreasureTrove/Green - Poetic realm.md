@@ -1,0 +1,3 @@
+- Found in a blue moon chest
+- "Fenn Aries borders a poetic realm."
+- ![[Pasted image 20251218173605.png]]

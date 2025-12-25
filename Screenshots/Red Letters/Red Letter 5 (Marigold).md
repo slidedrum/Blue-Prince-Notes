@@ -1,0 +1,13 @@
+- Found in [[The Drafting Studio]] min safe
+- ![[Pasted image 20251218201943.png]]
+- ![[Pasted image 20251218201954.png]]
+	- November 8
+	- Uncle,    
+	- In a few hours, we are departing. As planned, we will be facing the old mountainy funnels to the worth. We'll go as far as we can by trolley, until the rails give out. Then we'll proceed on foot until we reach the Southern Border. I've never been as excited, nervous, and heartbroken. I may never know if I've made the right decisions, hut I've made the ones I felt my father might have nodded in approval at. 
+	- I'm leaving [[The Safehouse - Royal Station#^fdc140|a message]] for [[Simon P. Jones|Simon]] here in [[The Safehouse - Royal Station|the Safehouse]], this unhallowed cavern that we have called hone for the last year. If something should happen to me, please, guide him to this place. Try to show him what these lost days were all for.
+- ![[Pasted image 20251218201958.png]]
+	- Explain to [[Simon P. Jones|him]], if you can, the intersection between foolishness and doctrine. The thin wire we stood upon, above the world, holding hands and throwing stones.  
+	- Holding hands and throwing stones.  
+	- In those days, we were guilty of everything.  
+	- as always,
+	- [[Marion Marigold - Mary Matthew Epsen|Mary]]

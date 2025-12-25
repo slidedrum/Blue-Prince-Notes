@@ -1,0 +1,11 @@
+#location #not-visitable 
+- Located in [[Reddington]]
+- At the base of [[Mt. Perma]]
+- Former home of [[Lord William Epsin]]
+- Was the family home of the Epsin's since before the third era
+- After [[Lord William Epsin]] died, his son [[Lionel Epsen]] left and never returned.
+- [[Lord Epsen's Daughter]] stayed and maintained the place until 1951
+- after she left became a historic house museum 
+- Designated a National Historic Landmark in 1972
+- Likely built by the [[Oris - First King Of Orinda Aries|First King Of Orinda Aries]] when [[Reddington]] was it's capital. (I thought Reddington was the former capital of [[Fenn Aries]]?  Are they the same?  Was it the capital of both? #question )
+- Date built is disputed (see [[A Sightseer's Guide To Reddington]])

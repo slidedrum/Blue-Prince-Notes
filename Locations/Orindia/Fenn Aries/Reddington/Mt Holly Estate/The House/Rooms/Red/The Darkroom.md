@@ -1,0 +1,42 @@
+#room/red #vents/passthrough #location #room/standard #room/doors/3 
+- ![[Pasted image 20251214064304.png]]
+- When drafting from this room with the lights out, won't be able to see the rooms.  Can still see [[Gems|gem]] cost and [[Vents]] power from [[The Boiler Room]]
+- Lights will turn out instantly upon entering the room
+- Lights can be turned back on from the [[The Utility Closet - Breaker Box]]
+	- You don't need to go into the darkroom to flip the lights back on
+	- You DO need to have the darkroom drafted to flip the lights back on
+	- Flipping the lights without it drafted does nothing
+	- Flipping the lights with it drafted but before entering the darkroom will work
+- Once lights are back on contains several things: Am I missing any? #question
+	- a picture of [[Apple Orchard]] gate tree before it was cut down.  
+		- I want to view this with the [[Magnifying glass]] to see if it has the [[Apple Orchard code]]
+		- ![[Pasted image 20251210051846.png]]
+			- ![[Pasted image 20251213030001.png]]
+				- [[Apple Orchard code]] 1128 ^997a3a
+	- ![[Pasted image 20251210052045.png]]
+		- print notes  
+		- [[Baron Herbert.S. Sinclair|H.S.]] has requested yet another print of [[Lady Clara Epsen|her Ladyship]], assume for one of her rooms in the West Wing, as well as an enlarged print of the enclosed photograph.  
+		- He said the last development was too dark so keep an eye on that.
+		- Mentions [[Baron Herbert.S. Sinclair]] and an enlarged version of the gate phot.  If the [[Magnifying glass]] isn't enough to read what it says, that larger version probably is
+		- On the west wing for her ladyship
+			- Is [[The Master Bedroom]]on the west wing?
+	- ![[Pasted image 20251213030124.png]]
+		- Pictured [[Lady Clara Epsen]]
+	- ![[Pasted image 20251213030132.png]]
+	- ![[Pasted image 20251213030138.png]]
+		- Pictured [[Baron Herbert.S. Sinclair]]
+	- ![[Pasted image 20251213030144.png]]
+		- Pictured 2 maids, not sure who.
+	- ![[Pasted image 20251213030214.png]]
+		- pictured memo: "Green memos found in [[Hartley Ruota|Hartley]]'s room are always false" ^d76f31
+		- [[Hartley Ruota]] lived in [[The Servant's Quarters]]
+		- Not sure who these people are.
+	- ![[Pasted image 20251213030220.png]]
+	- ![[Pasted image 20251213030319.png]]
+	- ![[Pasted image 20251213030324.png]]
+	- ![[Pasted image 20251213030714.png]]
+		- Pretty sure this is [[Mrs Anne Babbage]]
+	- ![[Pasted image 20251213030722.png]]
+	- ![[Pasted image 20251213030727.png]]
+	- ![[Pasted image 20251213030828.png]]
+- "A room dedicated to photo processing, development and print-making. This room is outfitted with safelights which provide red illumination to which the photographic material is insensitive. However, due to a faulty installation the safelights often overload their circuit capacity and blow a fuse."

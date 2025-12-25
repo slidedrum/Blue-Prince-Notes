@@ -1,0 +1,12 @@
+- Seen in [[The Root Cellar]]
+- According to [[Red Letter 1 (Worth Laude)]] [[Baron Thomas Sinclair]] has more than the two kids shown here.  They had 7 total.
+- Mt Holly Family tree ![[Pasted image 20251210084456.png]]
+	- [[Marion Marigold - Mary Matthew Epsen]]
+	- [[Simon H. Sinclair]]
+	- [[Lady Clara Epsen]]
+	- [[Baron Herbert.S. Sinclair]]
+	- [[Lionel Epsen]]
+	- [[Lady Ashlynn]]
+	- [[Lord William Epsin]]
+	- [[Baron Thomas Sinclair]]
+	- [[Baroness Auravei]]

@@ -1,0 +1,3 @@
+- "The box containing allowance tokens is white."
+- ![[Pasted image 20251217110542.png]]
+- ![[Pasted image 20251217110605.png]]

@@ -1,0 +1,11 @@
+#location #room/purple #room/resource #room/objective  #Room/Dead-End #room/upgraded #room/common 
+- ![[Pasted image 20251214054421.png]]
+- Why is this room marked with #room/objective ??? #question 
+- Gives +10 [[steps]] upon entry
+- has 1 item spawn
+- ![[Pasted image 20251210043335.png]]
+	- [[Baron Herbert.S. Sinclair|Sinclair]],  
+	- Just wanted to write you a quick note thanking you for the weekend. I had a thrilling time on the hunt with [[Lord Evanson]], whose peculiar personality somewhat made up for your own absence.  
+	- I also got to appreciate your new game in [[The Billiard Room]]. (It's been ages since I've seen the billiard room in the house, I was beginning to suspect you retired the floorplan.) It was well worth the wait though, as I always enjoy your mathematical puzzles and appreciated that I didn't need to know the rules of darts to play your variation.  Hoping your health improves shortly,
+	- KL (who? #question )
+- "A small bedroom maintained and kept available for accommodating weekend guests and impromptu visitors who find themselves compelled to stay the night."

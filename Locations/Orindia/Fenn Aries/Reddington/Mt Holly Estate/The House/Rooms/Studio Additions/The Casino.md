@@ -1,0 +1,12 @@
+#room/gold #room/resource #location #room/addition #Room/unusual #room/gem/2 
+- ![[Pasted image 20251214065719.png]]
+- This room lets you gamble (duh)
+- This room has slots with up to 3 re-rolls
+	- if you bring a [[Broken Lever]] item you can fix a special machine with 5 re-rolls
+- There is also a 1 time use roulette table where you can bet 5/20/100 [[Coins]].  50% chance of getting something, prizes include:
+	- Keys
+	- Gems
+	- 2x free spin
+	- coins
+	- more? #question 
+- "The Mount Holly Casino offers an intimate and exciting setting for wagers of any scale, and guests may be surprised to discover how much strategy is involved in these machines, which are traditionally only thought of as games of chance. A buy-in of two gems is required for admittance into this exclusive room."

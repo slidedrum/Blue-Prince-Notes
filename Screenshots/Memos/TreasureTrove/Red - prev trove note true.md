@@ -1,0 +1,5 @@
+- The previous note was [[Green - True Treasure 1]]
+- Found in the [[The Treasure Trove]]
+- ![[Pasted image 20251213082636.png]]
+- Found in a white "fire" box
+	- ![[Pasted image 20251213082703.png]]

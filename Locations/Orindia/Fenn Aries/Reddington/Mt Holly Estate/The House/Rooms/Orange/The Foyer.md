@@ -1,0 +1,13 @@
+#Room/Orrange #location #room/doors/2/straight #room/gem/2 #Room/unusual 
+- ![[Pasted image 20251214060121.png]]
+- When drafted, all hallways are unlocked.  this includes already drafted rooms, and rooms you draft later
+	- This includes [[Keycard Door]] even without a [[Security Keycard]] or disabling power from [[The Utility Closet - Breaker Box]]
+- Pairs well with the [[The Great Hall]] and it's 7 locked doors
+- This room  has 6 statues 
+	- [[Lord William Epsin]] ![[Pasted image 20251210083737.png]]
+	- [[Baron Thomas Sinclair]] ![[Pasted image 20251210083742.png]]
+	- [[Major Nicolas Ken]](who? #question )![[Pasted image 20251210083747.png]]
+	- [[Je Ari Yenna]](Who? #question )![[Pasted image 20251210083751.png]]
+	- [[Baron Edwin Sinclair]]![[Pasted image 20251210083757.png]]
+	- [[Count Isaac Gates]](Who? #question )![[Pasted image 20251210083801.png]]
+- "The grand baroque hall of Mt. Holly is impressive to behold. This ornamented passage is flanked with marble pillars and features bust statues of the more prominent figures of the Sinclair family legacy."

@@ -1,0 +1,3 @@
+- "The pink boxes do not contain any prizes."
+- ![[Pasted image 20251217110350.png]]
+- ![[Pasted image 20251217110355.png]]

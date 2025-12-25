@@ -1,0 +1,13 @@
+ - Found in [[The Study]]
+ - ![[Pasted image 20251218203711.png]]
+	 - December 8th
+	 - [[Marion Marigold - Mary Matthew Epsen|M]],
+	 - Be prepared for our plans to be set in motion in 4 month or two. It's all lining up and all of our hard work is about to come to fruition. l have just learned that several members of [[The Royal Museum of Fenn|the Museum]]'s guard are sympathetic to our cause. We suspect two more to be pure opportunists whose loyalty extends only to their coin purse.  Your [[Baron Herbert.S. Sinclair|uncle]] has already agreed to let us use [[House|Mount. Holly]]'s "flexible" floorplan for a trial run, assuming the [[Red Room|redprint]] we have secured of the museum's 'Closed Exhibit is in fact accurate and up-to-date.
+ - ![[Pasted image 20251218203716.png]]
+	 - We should begin these trials without delay once yov arrive. If you can within the next two months fabricate some fiction that might alleviate us of the presence of the servant staff.  
+	 - Until we meet on the shore of white sands, 
+	 - [[Caleb Manning|Caleb]]
+ - ![[Pasted image 20251218203732.png]]
+	 - Pictured [[The Closed Exhibit]]
+ - ![[Pasted image 20251218203810.png]]
+	 - Pictured, some floorplan?

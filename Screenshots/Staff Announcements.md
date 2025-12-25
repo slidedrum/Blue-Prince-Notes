@@ -1,0 +1,99 @@
+- ![[Pasted image 20251220213343.png]]
+	- Sunday, November 7th  
+	- I don't think anyone else has access to this network this month except you, Simon, so if you're reading this, just know we're all rooting for you!  
+	- -Your friends in faithful service
+- ![[Pasted image 20251220213350.png]]
+	- Monday, November 8th  
+	- Hey Simon! 
+	- How was your first day on the estate? Hopefully, you're not having too much trouble drafting rooms, as it can be  a bit overwhelming! (I'm normally in charge of drafting the rooms for the day each morning, so I know how it goes!)  
+	- -Anne Babbage
+- ![[Pasted image 20251220213359.png]]
+	- Tuesday, November 9th  
+	- Just to let everyone know, the estate has been cut off from outside communications (Sinclair's instructions). So, I  don't think Simon's going to be seeing anything posted here for the time being.  
+	- -Moore
+- ![[Pasted image 20251220213406.png]]
+	- Wednesday, November 10th  
+	- Now you tell me. 
+	- And I'm guessing that means the electronic mail accounts are disabled as well?  
+	- -Anne Babbage
+- ![[Pasted image 20251220213422.png]]
+	- Thursday, November 11th
+	- Yes, he should only be able to access data currently on the system so if he does figure out the network password, he should be able to read any emails that were on the system on November 6th, as that is when satellite communications were shut down.  
+	- -Moore
+- ![[Pasted image 20251220213445.png]]
+	- -Monday, November 22nd
+	- I'm getting anxious, does anyone have any updates on  Simon's progress?  
+	- -Kimberly Thompson
+- ![[Pasted image 20251220213453.png]]
+	- Tuesday, November 23rd
+	- No, no real word on his progress yet, but it's very hard  to say without access to the network from here. I'm monitoring a few things from the offices in Synka but it doesn't really paint a picture of what's happening over there. Your guess is as good as mine. 
+	- -Moore
+- ![[Pasted image 20251220213513.png]]
+	- Monday, December 6th  
+	- It's been a month now, does anyone know when we are  expected to return to work? I know we don't have much  information at this time about what's happening on the estate, but my sister is planning a trip in a week and  it'd be nice to know if this "indefinite" leave has any expected end date?
+	- Thanks, Bridgette
+- ![[Pasted image 20251220213535.png]]
+	- Monday, December 6th 
+	- It's been a month now, does anyone know when we are  expected to return to work? I know we don't have much  information at this time about what's happening on the estate, but my sister is planning a trip in a week and it'd be nice to know if this "indefinite" leave has any expected end date?
+	- Thanks, Bridgette
+- ![[Pasted image 20251220213604.png]]
+	- Tuesday, December 7th
+	- Hey Bridgette,  
+	- Thanks for checking in. It's a bit complicated but the  short answer is no, we don't really know when we will be going back to work, so by all means, take that trip and have fun! These indefinite furloughs only happen once in a  career.  
+	- -Anne Babbage
+- ![[Pasted image 20251220213608.png]]
+	- Thursday, December 9th 
+	- Yes, and I'd like to add that even if Simon has found Room 46, he will very likely want some additional time alone on the estate to adjust before he summons us back to resume work. 
+	- If I were placing bets, I would say it's going to at least be another month, maybe longer.  
+	- -Moore
+- ![[Pasted image 20251220213706.png]]
+	- Saturday, December 25th  
+	- Merry Christmas Simon! Or as Her Ladyship used to call your mother, 'Mary Christmas!
+	- We wanted to let you know that we've left some presents for you in the BOUDOIR today. Hopefully, next year we'll be able to celebrate this day together!  
+	- -Your friends in faithful service
+- ![[Pasted image 20251220213814.png]]
+	- Saturday, January 1st, 1994
+	- Farewell 1993, Hello 1994.  The future is looking up and we're all looking forward to getting back to work.  
+	- Happy New Year Simon!
+- ![[Pasted image 20251220213904.png]]
+	- Monday, January 10th, 1994  
+	- A few nights ago, I saw Florealis in the sky, which is incredibly auspicious since tomorrow marks the beginning of [[Mora Jai]]'s Winter Harvest and the celebration of the third paragon, [[Ajeran Angels#^e8b9c6|Rynna]].  
+	- (The farmers of [[Mora Jai]] always refer to the angels by their natural order, a preference Herbert adopted in his final years after his trip there)   ^2f1e55
+	- -Anne
+- ![[Pasted image 20251220213923.png]]
+	- Friday, January 28th, 1994  
+	- Simon,  If my records are accurate, then today is your birthday! I left a cupcake for you in the kitchen while I was setting up this morning. It's not much but I hope you like it!
+	- Many happy returns, and I hope today is a success for you.  
+	- -Anne
+		- [[Simon P. Jones|My]] birthday is Jan 28th! ^bf451b
+- ![[Pasted image 20251220214040.png]]
+	- Thursday, April 7th, 1994
+	- Land sakes alive! I'll be blowed. I have absolutely no idea  how he's done it, but it appears Simon has somehow reestablished satellite connection from the estate,  assuming this isn't a glitch. Either way, now that we have  a connection again, I'll be able to check network activity logs and find out what happened.
+- ![[Pasted image 20251220214102.png]]
+	- Friday, April 8th, 1994 
+	- I can confirm that this morning, as I was driving up to the estate to reset the house, I did see that the satellite was up. So, it appears the young master does, in fact, have complete mastery of the house.  
+	- -[[Anne Babbage]]
+- ![[Pasted image 20251224195629.png]]
+	- Saturday, April 9th, 1994  
+	- Yay! I'm going to guess that means he's likely already reached [[ROOM 46]] then! I knew he would pull it off, I just knew it!  Congratulations [[Simon P. Jones|Simon]] !!!  
+	- -[[Kimberly Thompson]]
+- ![[Pasted image 20251224195731.png]]
+	- Sunday, April 10th, 1994  
+	- [[Kimberly Thompson|Kimberly]], I can't confirm with any certainty that he's reached [[Room 46]] yet, but from the activity I can see on  the [[network]], I'd be very surprised if he hasn't.  So, congratulations are in order from me as well [[Simon P. Jones|Simon]]. I too knew you would pull it off.  
+	- -[[Randolph Moore]]
+- ![[Pasted image 20251224195834.png]]
+	- Tuesday, April 12th, 1994  
+	- If we want to try to communicate with [[Simon P. Jones|Simon]], is it better to post here or to send him [[Shared Terminal#^ce0f2b|emails]]?  
+	- -[[Kimberly Thompson]]
+- ![[Pasted image 20251224203431.png]]
+	- Wednesday, April 13th, 1994  
+	- I think the [[Staff Announcements|announcement board]] here is slightly more convenient as it's a way for the entire staff to contribute, without us doubling down on information or bombarding [[Simon P. Jones|Simon]] with dozens of holiday well wishes.  
+	- -[[Randolph Moore]]
+- ![[Pasted image 20251224213705.png]]
+	- Friday, April 15th, 1994  
+	- Simon, now that you have a [[The Satellite Dish|satellite connection]], you should be able to connect to [[SYNKA]] to download some new experimental data packets for [[the lab]]. We've been working on a lot of interesting and innovative [[Lab Experiments|experiments]] here, and it would be great if you could try them out for us and provide us with some valuable data.  
+	- -[[Randolph Moore|Moore]]
+- ![[Pasted image 20251224233003.png]]
+	- Monday, April 18th, 1994  
+	- [[Simon P. Jones|Simon]], I was having lunch the other day with [[Hartley Ruota]], who was your uncle's valet and has been on the estate longer than anyone else. He told me that if you [[CALL IT A DAY]] in some [[Bedroom|bedrooms]], there are beneficial effects. I assume [[The Servant's Quarters|his own room]] might be among that number. Sounds like it might be worth checking out.  
+	- -[[Randolph Moore|Randolph]]

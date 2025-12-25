@@ -1,0 +1,10 @@
+#book #drafting-Strategy 
+- Found in [[The Dormitory]]
+- See [[Room Types]]
+- ![[Pasted image 20251217080708.png]]
+- ![[Pasted image 20251217080711.png]]
+- ![[Pasted image 20251217080723.png]]
+- ![[Pasted image 20251217080726.png]]
+- ![[Pasted image 20251217080730.png]]
+- ![[Pasted image 20251217080734.png]]
+- ![[Pasted image 20251217080737.png]]

@@ -1,0 +1,17 @@
+#room/outer #terminal #location #Room/Dead-End #room/blue #Room/unusual 
+- ![[Pasted image 20251214070745.png]]
+- The next 3 [[Red Room]] today will have no negative effect.
+- This is a safety bunker to hide in if things go bad.
+- ![[Pasted image 20251215040949.png]]
+	- Remain where you are for now. Given that the  [[Redguard|Red Guard]] is due tomorrow, we've agreed with  your plan and have disabled remote access to  the other terminals and have sealed the  network mainframe.  
+	- Regardless of the danger, I am still not  willing to risk removing SHELTER from the  draft pool while the three of you are down  there. Our best bet is to sit tight and hope  for a little bit of luck. ^fea0ad
+		- This note mentions only 3 people.  Another thing mentioned 4 people, were there 2 groups hiding here at different times? #question 
+- It has a time-lock safe, likely one of the the [[8 Safes]] 
+	- It had [[Red Letters|Red Letter]] number 7
+- On the #terminal you can check [[radiation levels]]
+	- [[Radiation levels]] will increase when you use an [[experiment]] in [[The Lab]]
+	- When [[radiation levels]] are too high, all doors unlock.
+		- Does NOT include [[The Antechamber]]
+		- Is this the only effect? #question 
+		- ![[Pasted image 20251215042935.png]]
+- - "An underground bunker located away from the main house. This fallout shelter was designed specifically for air raids and features thick walls made from lead and other materials intended to block radiation. A computer terminal within has been connected to the house's network system should an emergency necessitate remote access."

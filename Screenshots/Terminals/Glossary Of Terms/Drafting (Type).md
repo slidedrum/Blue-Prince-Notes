@@ -1,0 +1,2 @@
+![[Pasted image 20251222092726.png]]
+Certain rooms can affect the drafting pool and the drafting process. This type of room is fittingly known as a "DRAFTING ROOM" and are noted on their floorplans by the compass symbol.

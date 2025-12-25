@@ -1,0 +1,13 @@
+#room/green #vents/powered #location #room/gem/1 #room/drafting #Room/Dead-End #room/standard 
+- ![[Pasted image 20251214061722.png]]
+- Reduces the rarity of other [[Green Room]] in your draft pool making them more common.  
+- Like most [[Green Room]] this can only be drafted on the east or we wing of the house.
+- This room can only be drafted from the north or south side.
+- This room contains a [[Weak Wall]] ![[Pasted image 20251215045301.png]]
+	- Behind it is [[The Original Gardener's Logbook]]
+	- once broken, makes it a #room/doors/2/corner 
+- Pairs well with [[The Terrace]] (removes gem cost)
+- This room has one of [[The Antechamber]] levers, but it's broken.  Requires [[Broken Lever]] item to fix.  Opens Western door.
+- When powered turns on sprinklers and I think causes gem flowers to bloom.
+- Contains green page 5 of the [[Song Lyrics]] puzzle
+- This room is always warm as its glass walls and roof help to retain the sun's rays. The gardener should be pleased that the long-neglected flower beds have finally been blessed with the glistening gift from the sprinklers installed above.

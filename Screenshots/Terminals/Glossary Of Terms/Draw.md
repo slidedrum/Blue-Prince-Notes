@@ -1,0 +1,2 @@
+![[Pasted image 20251222092846.png]]
+Drawing is the initial pulling of the three floorplans from the draft pool at the beginning of drafting.  To illustrate the difference between drawing and drafting, remember that "Three floorplans are drawn, but only *one* is drafted."

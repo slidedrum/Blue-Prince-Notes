@@ -1,0 +1,2 @@
+![[Pasted image 20251222094408.png]]
+These rooms are often heavy in mechanics and often contain control systems that can interact with other elements on the estate. These rooms are marked by the symbol of a gear.

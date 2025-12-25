@@ -1,0 +1,12 @@
+#location #room/gold #location #room/addition #room/rare #room/doors/3 
+- ![[Pasted image 20251214063740.png]]
+- Unlocked after reaching [[Room 46]]
+- Allows you to buy permanent unlocks for the [[House]]
+	- [[Mt. Holly Tee]]
+	- [[The Lunch Box]]
+	- [[Swim Trunks]]
+	- [[Dirigiblocks]]
+	- [[Swim Bird Plush]]
+	- [[Blue Tents]]
+	- [[Cursed Coffers]]
+- "Thank you for visiting Mount Holly. We hope you enjoyed your stay here!"

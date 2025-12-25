@@ -1,0 +1,45 @@
+#book 
+ - ![[Pasted image 20251220185608.png]]
+ - ![[Pasted image 20251220185624.png]]
+ - ![[Pasted image 20251220185700.png]]
+	 - ~~find two~~
+	 - ~~For clues come together, like a pair of new shoes.
+	 - Changed how many memos are visible.
+- ![[Pasted image 20251220190644.png]]
+	- "Of the evidence shown to god only known," was completely re-worked
+- ![[Pasted image 20251220190951.png]]
+	- Why is "Every space" circled?
+	- Why swap out the king for a rook?
+	- He has a face!
+	- Keep left was made smaller.
+	- The brick pillar was added in the final version.
+	- [[The secret passage]] has [[Letters puzzle|funky letters]]??
+- ![[Pasted image 20251220191555.png]]
+	- Why is there a blue X under 'beds'
+	- She kept the word nook.
+	- Business woman was changed to maid
+	- Apple banana and orange, when combined give 10 steps.  That could mean station 10, tanner fork.  Would make sense (at least as much sense as this fucking game can make)  
+- ![[Pasted image 20251220192517.png]]
+	- Originally wrote "so" changed to "and" and in the final version, changed back.
+	- The books are anagrams.
+	- Tender Cipher -> The Red Prince -> red
+	- Uncle Awe -> A New Clue -> Purple
+	- Draft The Sixes -> The Fixed Stars - >Blue
+	- Lunar Renamed -> Realm And Rune -> Green
+	- See [[A New Clue#^aafd32]]
+- ![[Pasted image 20251220194005.png]]
+	- [[The Music room#^564985]] Was moved ^f798ea
+	- He lost his glasses?
+	- Her face is not erased?
+- ![[Pasted image 20251220194346.png]]
+	- Big moon was removed. ^671818
+	- Margle as in [[Det. Bon Margle]]?  The one investigating her disappearance? How do they fit into this? Is that the main character of the book?
+- ![[Pasted image 20251220194809.png]]
+	- quotes were added to "A man obsessed, and cuckoo too"
+- ![[Pasted image 20251220194945.png]]
+	- Again rook was swapped for king this time.
+	- New paintings were added
+	- "seen all the signs" were changed
+- ![[Pasted image 20251220195126.png]]
+	- Now in view points to notes?
+	- 

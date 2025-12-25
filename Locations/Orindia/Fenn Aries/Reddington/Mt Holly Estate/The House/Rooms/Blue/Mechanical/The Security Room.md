@@ -1,0 +1,28 @@
+#location #room/mechanical #room/blue #vents/passthrough #room/gem/1 #room/common #room/34 #room/doors/3 #terminal 
+- ![[Pasted image 20251214045832.png]]
+- This room lets you access a [[Terminal]]
+	- You can see the [[House]] inventory, all items/interactables
+	- You can change [[Keycard Door|Security Door]] settings
+		- Security level low/med/high
+		- Offline mode locked/unlocked
+		- Pairs well with [[The Utility Closet - Breaker Box]] to allow opening [[Keycard Door]] without a keycard
+	- The password to get onto the network is "Swansong"
+- ![[Pasted image 20251213062705.png]]
+	- Blue memos = True
+	- Red Memos = Lies
+	- Unless written by hand
+- The note containing the network password is on the board.  Crossed out, can be read with [[Magnifying glass]] also found in [[The Commissary]]
+- ![[Pasted image 20251210043203.png]]
+	- STAFF NOTICE  
+	- Effective the first week of December, Payroll for all Live-out and Seasonal Staff will be managed electronically. As your attendance will no longer be registered at morning roll call, it is doubly important that you do not fail to clock in (and out) at one of the Electronic Computer terminals on the Estate. 
+	- Two of these terminals can be found at Security (where the punch-clock used to be and in the Laboratory.  
+	- Any questions or concerns regarding this process should be directed as always to our House Manager Mrs. Babbage.  
+	- TERMINAL PASSWORD: ~~SWANSONG~~
+- ![[Pasted image 20251210045716.png]]
+	- see [[The Safehouse - Royal Station]]
+- ![[Pasted image 20251213062738.png]]
+	- UNTIL FURTHER NOTICE, THE ANTECHAMBER HAS BEEN 'UNLOCKED' AND ACCESS LEVERS ARE NO LONGER REQUIRED TO GRANT ENTRY
+- ![[Pasted image 20251213062746.png]]
+	- KEYCARD ACCESS SECURITY DOORS  ARE MORE LIKELY TO APPEAR IN THE  HIGHER RANKS OF THE ESTATE.  LIKEWISE, AS A REDUNDANT SECURITY  MEASURE, NORMAL DOORS IN THE  ESTATE WILL ALSO BE MORE LIKELY TO  BE LOCKED AS YOU PROGRESS NORTH.
+- See ![[Security Email]]
+- "A control room with state of the art surveillance equipment, inventory system, and access control via an electronic computer [[terminal]]. This room is where the estate's patrol guards kick up their feet and thank their stars they are living in a modern era."

@@ -1,0 +1,4 @@
+- Found in a black moon box in the [[The Treasure Trove]]
+	- This would be a race condition, so it means nothing?
+- "Boxes marked with moon always contain false statements."
+- ![[Pasted image 20251215071405.png]]

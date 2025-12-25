@@ -1,0 +1,14 @@
+#puzzle #puzzle/inprogress
+- There are 8 safes somewhere in the estate.
+- Known locations:
+	 - [[The Office]] ([[Red Letter 8 (X-Denny)]])
+	 - [[The Boudoir]] ([[Red Letter 4 (Dad)]])
+	 - [[The Shelter]] ([[Red Letter 7 (Courtney)]])
+	 - [[The Study]] ([[Red Letter 2 (Caleb)]])
+	 - [[The Drawing room]]
+	 - [[The Drafting Studio]] ([[Red Letter 5 (Marigold)]])
+- Small gates
+	- [[Apple Orchard code]] (stolen)
+	- [[The Rotating Gear Room#^953517|Upstairs in the rotating gear room word padlock]] ([[Red Letter 1 (Worth Laude)]])
+- The [[Drawing Puzzle]] implies that the codes for all of these are dates.  but what dates?
+- [[The Conference Room]] has a [[Red Memos|Red Memo]] that says one of the safe codes is 9083.  It's red so it's false

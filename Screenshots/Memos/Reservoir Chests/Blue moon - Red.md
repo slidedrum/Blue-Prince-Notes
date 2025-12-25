@@ -1,0 +1,4 @@
+- "The box containing allowance tokens is marked by 'fire'"
+- This chest is in the water (see [[White Sun - Blue]])
+- ![[Pasted image 20251217104712.png]]
+- ![[Pasted image 20251217104717.png]]

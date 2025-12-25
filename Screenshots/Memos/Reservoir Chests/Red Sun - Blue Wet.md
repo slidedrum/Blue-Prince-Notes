@@ -1,0 +1,4 @@
+- "The sanctum key is not in a box in the water."
+- This box is in the water.
+- ![[Pasted image 20251217110202.png]]
+- ![[Pasted image 20251217110206.png]]

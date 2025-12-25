@@ -1,0 +1,65 @@
+See [[The Royal Museum of Fenn]]
+See [[Museum Heist]]
+![[Pasted image 20251219134348.png]]
+- This is an overall plan for robbing [[The Royal Museum of Fenn]]
+- Colored labels:
+	- A: Art/Exhibit
+	- F: Free access
+	- G: Gardens
+	- P: Parking
+	- R: Restricted
+	- S: Shops
+	- T: Ticket Entry
+- A/R: Closed Exhibits: ^3d9ad9
+	- Both [[The Royal Museum of Fenn|Leerson Hall]] and the Main Concourse feature a number of quote '[[The Closed Exhibit|Closed Exhibits]]' which are reserved for an upper tier of elite patronage and are not currently open to the public for admission.
+- G/F: Garden Pathway
+	- Enjoy a leisurely stroll on one of our many winding garden pathways, which can be accessed from both a west and south entry and are free to use without ticket purchase.
+- S: Museum Station Cafe
+	- Further west, [[The Royal Museum of Fenn|the Royal Museum]]'s dedicated and now [[Fenn Central Station|defunct train station]] sits and has been converted into a restaurant for our patrons to enjoy after visiting the museum.
+- A/T: Museum - Main Concourse
+	- Ascend the historic steps and be a part of history. The Royal Museum's Main Concourse, built on the former estate of [[Prince Leerson]], has served as the realm's central hub of art and culture for over 100 years.
+- A/T: Public Exhibits
+	- One ticket grants you access to all of the Royal Museum's Public Exhibits, most of which celebrate a legacy of artists and paintings showcasing the royal color red.
+- G: [[General Teskin - King Teskin|Teskin]] Monument
+	- A monument of the victorious [[General Teskin - King Teskin|King Teskin]], adorned with sword, shield and wings. Made to commemorate the end of [[the War of the Fifth Era]].
+- G/F: Museum Grounds
+	- Open to the general public, the museum grounds host a variety of verdure as well as a number of sculpted pieces of contemporary art.  
+	- We ask that guests please confine their exploration to the pathways.
+		- This implies that there is stuff hidden?
+- G: Moonside Courtyard
+	- Quietly hidden on the west end of the grounds, tucked away from the bustle of the guided museum crowds.
+- A/R: Leerson Hall
+	- The restored original home of [[Prince Leerson]], donated to the City of Fenn upon his death, now serves as the Royal Museum's beautiful West Annex.
+
+- Other names seen:
+	- Teskin Park
+	- King's grotto
+	- South Pathway
+	- Museum Grounds ^5e681e
+	- East Extension
+	- South pathway
+	- Museum Entrance ^673950
+	- East Grounds
+
+- Left side indoor map:
+	- Guard House
+	- Portilo
+	- Closed Exhibit
+	- Portrait room
+	- Leerson Gallery
+	- Staff
+
+- There are many hand written notes in RED.
+	- [[Museum Heist Map#^3d9ad9|Closed Exhibits]] is circled
+	- "As cool as this would be it's too easy to track (literally)"
+	- Decoy car drawn Infront of [[Museum Heist Map#^673950|Museum Entrance]]
+	- [[Mr. Phillip White|White]], [[Farro|Farro]], [[Marion Marigold - Mary Matthew Epsen|marigold]] at [[Museum Heist Map#^5e681e|Museum Grounds]] at 1:05
+	- [[Caleb Manning|manning]] in [[East Grounds]] at 1:10
+	- Forced Entry at 1:24 pointing toward Staff room.  Two figures, not named.  Likely [[Farro|Farro]] and [[Marion Marigold - Mary Matthew Epsen|marigold]]
+	- White at 1:24 pointing toward the guard house door.
+	- Two red guards are shown in the staff room.  See [[The Closed Exhibit#^40d195]]
+	- Security doors labeled
+	- "Security system controls" labeled behind the wall of closed exhibit. 
+		- This is a hint for how to get the paper crown in [[The Closed Exhibit]]
+	- Escape route through king's grotto leading to getaway car at 1:36.
+	- The statue in the park is colored in red.  

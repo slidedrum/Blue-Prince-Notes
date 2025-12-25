@@ -1,0 +1,16 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- #need-screenshot without mini map
+- ![[Pasted image 20251219173608.png]]
+	- [[Simon P. Jones|Simon]], 
+	- If I'm going to be mentioning members of the staff perhaps I should give you a brief introduction,  
+	- [[Mrs Anne Babbage|MRS. ANNE BABBAGE]] - House Manager, My Boss  
+	- [[Kirk Darren|KIRK DARREN]] - Head of Security  
+	- [[Randolph Moore]] - Lead Lab Technician, Network Admin,  Humble author of these letters  
+	- [[Kimberly Thompson|KIMBERLY THOMPSON]] - Lab Assistant and helpful sidekick  
+	- [[Chef DeCamp|CHEF DeCAMP]] - Head of Kitchen, maker of tasty meals  
+	- [[Hartley Ruota|HARTLEY RUOTA]] - The Baron's Personal Valet (retiring)  
+	- [[Christoph|CHRISTOPH]] - The Chauffeur  
+	- [[Robert Nogula|ROBERT NOGULA]] - The New Groundskeeper  
+	- There are a handful of other names among the various live-out and seasonal service staff, but due to their infrequent mention, I thought it best to omit them from this cursory introduction.  
+	- -[[Randolph Moore|Randolph]]

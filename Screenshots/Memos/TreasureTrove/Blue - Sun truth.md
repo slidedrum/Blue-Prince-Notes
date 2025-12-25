@@ -1,0 +1,3 @@
+- Found in a black sun box
+- "All boxes marked by SUN contain memos that are true."
+- ![[Pasted image 20251215231733.png]]

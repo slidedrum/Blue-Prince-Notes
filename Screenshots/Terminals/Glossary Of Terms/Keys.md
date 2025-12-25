@@ -1,0 +1,2 @@
+![[Pasted image 20251222094109.png]]
+Keys are a common resource used to open up locked doors on the estate.  There are also some unique Special Keys that can unlock special doors or rooms that only appear in specific locations in the house.

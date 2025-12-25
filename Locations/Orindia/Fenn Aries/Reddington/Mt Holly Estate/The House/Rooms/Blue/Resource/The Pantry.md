@@ -1,0 +1,12 @@
+#location #room/blue #room/food #room/21 #room/common #room/resource 
+- ![[Pasted image 20251214042936.png]]
+- There are 4 [[coins]], and 1 [[food]] item guaranteed in this room.
+- There is a note that says the house has five apples, five bananas, and five oranges, each restores some steps
+	- ![[Pasted image 20251213102934.png]]
+		- [[Bridgette]]
+		- PLEASE PICK UP SOME MORE FRUIT BEFORE FRIDAY AS  WE HAVE JUST BEEN INFORMED  THAT WE MAY HAVE AN EXTRA  GUEST EXPLORING THE HOUSE  NEXT WEEK. FIFTY ! STEPS  SHOULD BE MORE THAN ENOUGH  SO I THINK AN EVEN SPREAD  WOULD BE IDEAL:  
+		- FIVE APPLES
+		- FIVE BANANAS  
+		- FIVE ORANGES  
+		- THE ENCLOSED AMOUNT SHOULD  COVER EXPENSES BUT PLEASE  BRING BACK ANT CHANGE FROM  THE ORDER AND LEAVE IT IN THE  PANTRY.
+- "A well stocked pantry is always the true test of a large estate, and keeping Mt. Holly's wide gamut of ingredients and supplies stocked has always been one of the primary priorities of the house staff."

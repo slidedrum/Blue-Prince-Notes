@@ -1,0 +1,20 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251219174038.png]]
+	- Dear [[Simon P. Jones|Simon]],  
+	- As I've been running out of ideas of my own, yesterday I asked [[Kirk Darren]] if he had any additional security advice I could pass on and to my surprise he gave me an envelope and directed me to include it in my next correspondence to you. I did not ask him what it contained, so I'll be very curious to hear from you after this is all over and find out whether or not it was of any use.  
+	- Until next time,  
+	- [[Randolph Moore|Randolph]]
+- ![[Pasted image 20251219174144.png]]
+	- Unused Memos
+- ![[Pasted image 20251219174151.png]]
+	- Safe Code 4368
+- ![[Pasted image 20251219174158.png]]
+	- The Numbers 6, 7 and 9 do not appear in any of the fixed combinations of [[8 Safes|the safes]] on the estate.
+- ![[Pasted image 20251219174215.png]]
+	- Safe Code: 1213
+- ![[Pasted image 20251219174221.png]]
+	- Safe code D8 
+	- Hand written
+- ![[Pasted image 20251219174232.png]]
+	- There is a safe on rank 10

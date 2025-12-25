@@ -1,0 +1,22 @@
+#Puzzle/solved 
+- Located in [[The Tomb]] And [[The Chapel]]
+- See [[Ajeran Angels]]
+- There are statues in [[The Tomb]] that match the stain glass windows in [[The Chapel]]
+- The windows are numbered, pull the arms of the corresponding statues in the correct order, and open up the door from [[The Tomb]] to [[The Underground]] (See [[Underground Map]])
+
+ - ![[Pasted image 20251210071200.png]]
+	 - Pictured:
+		 - 4. [[Ajeran Angels#^253013|Chimney sweep Angel]] - Name: [[Veia]]
+		 - 1. [[Ajeran Angels#^e8b9c6|Gardner angel]] - Name: [[Rynna]]  
+ - ![[Pasted image 20251210071203.png]]
+	 - Pictured:
+		 - 3. [[Ajeran Angels#^869060|Farmer Angel ]]- Name: [[Dauja (angel)]]
+		 - 6. [[Ajeran Angels#^dcc562|Jockey Angel]] - Name: [[Lydia]]
+ - ![[Pasted image 20251210071207.png]]
+	 - Pictured:
+		 - 5. [[Ajeran Angels#^811eec|Maid Angel]] - Name: [[Mila]]
+		 - 2. [[Ajeran Angels#^37f862|Cooking angel]] - Name: [[Joya]]
+ - ![[Pasted image 20251210071212.png]]
+	 - Pictured: [[Ajeran Angels#^c4fad8|Queen Angel]] - Name: [[Orinda]] 
+- NOT pictured: [[Ajeran Angels#^1a9efa|Angel of Death]] - [[Draxus]]
+	- Instead found in [[The Catacombs]]

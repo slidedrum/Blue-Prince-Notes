@@ -1,0 +1,2 @@
+![[Pasted image 20251222092628.png]]
+Occasionally, you may find piles of dirt on the estate. These 'dig spots', often found in Green Rooms, can be dug up with the help of a SHOVEL and may contain hidden items.

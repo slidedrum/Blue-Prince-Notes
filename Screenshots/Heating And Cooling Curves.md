@@ -1,0 +1,10 @@
+- Found in [[The Lab]]
+- ![[Pasted image 20251210031950.png]]
+		- Heating and cooling curves
+		- H2O melting point at 0.1ppt - 0.5ppt
+		- Room temp 20c
+		- Complete thaw 17c
+		- Melting points 0c
+		- Ice -10c
+		- \[test 205\] at Atmospheric Pressure 93kpa in Mt. Holly [[The Freezer|Freezer]]
+		- Lab Technitian: [[Randolph Moore|Randolph M.]]

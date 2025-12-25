@@ -1,0 +1,31 @@
+#puzzle #Puzzle/solved 
+ - After digging near [[The Campsite]] I have found [[The Conservatory]]!
+ - Bold words in song lyrics create a sentence
+ - There are probably multiple songs, I've seen a Blue, and a Brown song.
+ - The sentence so far reads:
+	  - "First Words On The ==Sheets== Are True Message"
+ - However this doesn't seem to make sense, as the first words on each sheet of paper read the following.  Could "sheets" be referring to something else?  Surely not? #question 
+	 - "Find Among The white Trees Under Two Stones"
+ - This doesn't seem like the right answer.  I must be missing something.
+ - Maybe [[The Music room#^564985|the other sheet]] in the [[The Music room]] is relevant?
+
+- [[The Music room]]
+	- ![[Pasted image 20251209094611.png]]
+		- Find here within these ==first== words sung. The key you seek  in  major tongue, But half the sheets are missing from. The four  you hold the rest far flung, A half note held is quite the pun.
+	- ![[Pasted image 20251209094614.png]]
+		- Among this scattered symphony, A message hidden beneath the keys, In bold ==words== sung by you and me.  A fractured note, an urgent plea, in bold words sung, I do repeat.
+	- ![[Pasted image 20251209094619.png]]
+		- The ones of you who oft assume.  That you alone can solve this tune, are likely going to get your due.  And all the rage that will ensue, While working ==on== this simple clue.
+	- ![[Pasted image 20251209094623.png]]
+		- White pages lined with melodies.  Do hide the words we've come to seek.  And from our choice among all these, We write down one that seems to be, ==The== loudest type with ink that bleeds.
+- [[The Greenhouse]]
+	- ![[Pasted image 20251209094628.png]]
+		- Trees found inside will never shade, The gems that shine in night and rain, The clue you hold can not be paid, With gems nor coin, so toss away, These ==sheets== you find a worthy trade.
+- [[The Ballroom]]
+	- ![[Pasted image 20251209094632.png]]
+		- Under these stars, the dance is held.  And to the floor we ==are== compelled, The gowns glide on and music swells.  Ans at the end the clock strikes twelve, What that means only time can tell.
+	- ![[Pasted image 20251209094637.png]]
+		- Two remain for one last dance, And spin again around clock hands, And as they turn, a second chance.  To rise above the falling sands.  The ==true== time lost in past romance.
+- [[The Workshop]]
+	- ![[Pasted image 20251209094642.png]]
+		- Stones cut by hand, and letters wrought.  Do spell our secrets carved from thought, A ==message== read is often lost.  Among the bold words, spoken soft, The note is read, the letter is not.

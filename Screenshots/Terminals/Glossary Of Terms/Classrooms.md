@@ -1,0 +1,10 @@
+- Classrooms are always drawn in order from grade 1-8
+- Each classroom teaches something new
+- Classrooms cost 1 gem
+- Classrooms usually contain 1 apple on the teachers desk
+- Classrooms let you re-roll 8 times while drafting from them
+- There is a final exam at grade 8
+- You can add 8 classrooms to your daily draft pool by drafting the [[The Schoolhouse]] as your [[Outer Room|Outer room]]
+- You can permanently add a classroom to your draft pool from the [[The Drafting Studio]] room
+	- Does this add all 8?  Probably not?
+	- According to [[Drafting Strategy Vol 2]] there is a 9th classroom!

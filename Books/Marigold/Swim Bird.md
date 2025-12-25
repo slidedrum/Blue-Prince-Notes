@@ -1,0 +1,63 @@
+#book #Marylin-Maragold 
+ - Written by [[Marion Marigold - Mary Matthew Epsen]]
+- ![[Pasted image 20251210062347.png]]
+	- Swim Bird
+	- By [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]]
+	- Published by [[Ruffington Red Publishing]]
+	- 1985
+	- Checked out by:
+		- [[Baron Herbert.S. Sinclair]]
+		- [[Mrs Peterson]]
+		- [[Simon P. Jones]]
+		- [[Mrs Anne Babbage]]
+		- [[Det. Bon Margle]]
+- ![[Pasted image 20251210062351.png]]
+	- I am a **DARE BIRD!**
+	- A daring a brave bird!
+	- Diving so deep bird,
+	- A ride on the wave bird!
+- ![[Pasted image 20251210062356.png]]
+	- There is not a **dare** 
+	- I would not do.
+	- There is not a depth
+	- I would not dive to.
+- ![[Pasted image 20251210062404.png]]
+	- However, my friends
+	- Are not very open
+	- To the idea that I like
+	- the sky less than the ocean.
+- ![[Pasted image 20251210062410.png]]
+	- Bird in the sky, 
+	- Not in the sea!
+	- That is what they say
+	- when looking at me.
+- ![[Pasted image 20251210062415.png]]
+	- You are not sea bird.
+	- You are not swim bird.
+	- If you are friend bird,
+	- Fly in the wind, bird.
+- ![[Pasted image 20251210062419.png]]
+	- And shouldn't you always 
+	- Listen to friends?
+	- For they know me best,
+	- Or so they pretend.
+- ![[Pasted image 20251210062427.png]]
+	- So I **dare** not dive,
+	- and I **dare** not swim.
+	- And I **dare** not step foot
+	- in the ocean again.
+- ![[Pasted image 20251210062432.png]]
+	- And I **dare** not smile,
+	- and I **dare** not laugh.
+	- For they will do it for me,
+	- and on my behalf.
+- ![[Pasted image 20251210062439.png]]
+	- And I **dare** not dream,
+	- and I **dare** not speak
+	- For maybe my friends,
+	- Won't like the real me.
+- ![[Pasted image 20251210062443.png]]
+	- And I will say goodbye
+	- to my dreams and the sea
+	- And wonder why daring
+	- feels just like defeat.

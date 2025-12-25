@@ -1,0 +1,8 @@
+- See [[BlackBridge Admin Logs]]
+- In [[The Black Bridge Grotto]] once you access the terminal, there are admin logs that go over many happenings in the house.
+- If you log in with one of the delisted keys you can see some redacted messages from the owners of said keys.
+	- "LeeB" [[Bo Lee]]
+	- "ProvC" ???
+	- "HounU" ???
+- These redacted messages mention "taking care of" [[Marion Marigold - Mary Matthew Epsen]].  I assume they mean kill? I had previously assumed that her disappearance was because of hiding from the [[Museum Heist]] (supported by the letter she wrote to me that was left there.)
+- However the note found in [[The Closed Exhibit]] from [[Farro]] says that they did pull it off.

@@ -1,0 +1,3 @@
+- "The chess board in this room contains a portmanteau."
+- Found in the far left corner under some books.
+- ![[Pasted image 20251224231143.png]]

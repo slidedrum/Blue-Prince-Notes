@@ -1,0 +1,2 @@
+![[Pasted image 20251221151618.png]]
+Additions are rooms that are added to the [[draft pool]].  Most additions are removed from the [[draft pool]] at the end of each day. However, some additions are [[permanent]] such as those found in [[the DRAFTING STUDIO]].

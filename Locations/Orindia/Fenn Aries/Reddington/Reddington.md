@@ -1,0 +1,24 @@
+#location #not-visitable 
+- Former capital of [[Fenn Aries]]
+- Mountainous region
+- Highest mountain is [[Mount Holly]], second highest is [[Mt. Perma]]
+- Local newspaper: [[Reddington Herald]].
+- Special flower [[Ilex X Meservae]]
+	- In [[House|Mount Holly estate house]] sigil
+- Royals defeated in 86 in [[The War Of The Fifth Era]] See [[Locked Archive Newspapers]]
+- There is a safehouse for "LeeB" and the others in [[BlackBridge Admin Logs#^4d725d]] here in Reddington.  
+	- Possibly the old schoolhouse?  
+	- Is "the old schoolhouse" [[The Schoolhouse]]?  or is [[Mount Holly schoolhouse]] a different place? #question 
+- [[A Sightseer's Guide To Reddington#^783b34|Map of the area]]![[Pasted image 20251210074954.png]]
+	- [[Trinsdale Lake]]
+	- [[Angel Tower]]
+	- [[Mt. Perma]]
+	- [[Aries River]]
+	- [[Hundred Bells Tea Room]]
+	- [[Featherfall Keep]]
+	- [[Reddington]]
+	- [[Burrow's End]]
+	- [[Reddington Mainway Station Bazaar]]
+	- [[Reddington Botanical Gardens]]
+	- [[Mount Holly]]
+	- [[Tanner Fork]]

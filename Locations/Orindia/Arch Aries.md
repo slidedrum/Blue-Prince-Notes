@@ -1,0 +1,11 @@
+#location #not-visitable #realm 
+- The Core: Mountain
+- Transportation: Train
+- Weather: Stormy
+- Motes: Industrial
+- Color: Yellow
+- [[Sanctum Door 3]]
+- Land of the northern storms ([[History Of Orindia (First Edition)#^21b0d8]])
+- Located in [[Orindia]]
+- Northern most realm.
+- One of the 3 original realms owned by the [[Sibling Monarchs]]

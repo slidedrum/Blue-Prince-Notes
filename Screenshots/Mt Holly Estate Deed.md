@@ -1,0 +1,18 @@
+- ![[Pasted image 20251220174411.png]]
+	- Certified Copy
+	- Property DEED
+	- [[Lord Arthur Clementine]]
+	- to
+	- [[Baroness Auravei|Lady Auravei of Trinsdale]]
+	- Anew Finclark, Stationers, [[Reddington]], [[Fenn Aries]]
+	- Satisfied of record: 05131912
+- ![[Pasted image 20251220174420.png]]
+	- Know all men by these presents, 
+	- that [[LORD ARTHUR CLEMENTINE]], rightful owner of the land that rests in the northern range of the [[Reddington]] Mountains, doth grant and convey to the bearer of this document, [[Baroness Auravei|LADY AURAVEI OF TRINSDALE]], the land, forest, and waters of the sheer cliffs that rest in the northern shadow of the "[[Mount Holly|holly leaf mountain]]", with all the rights, privileges, and appurtenances thereunto belonging.  
+	- Boundaries 
+	- The property of [[MOUNT HOLLY]], consists of dense woods, flanked by cliff walls, irrigated by mountain spring streams and punctuated by several runoff waterfalls. This area is sheltered between the summit's northern slope and saddle, spanning across 80 ODD ACRES of land. The property is situated south-west of Reddington, bounded on the south by steep crags, and abutting the east by the high-road to [[Tanner Fork]].  ^6b8c02
+	- Covenants 
+	- I, [[LORD ARTHUR CLEMENTINE]], covenant, promise and agree with [[Baroness Auravei|LADY AURAVEI]], her heirs and assigns, that I am lawfully seized and possessed of the said premises, that the same are free and clear of all encumbrances, that I have good right to sell and convey the same to the said [[Baroness Auravei|Lady Auravei]], her heirs and assigns, and that I will warrant and defend the same against all lawful claims and demands whatsoever. 
+	- In hand and seal, I make my mark in the grand year of [[Fenn Aries]],
+	- Nineteen Hundred and Twelve 
+	- [[Lord Arthur Clementine]]

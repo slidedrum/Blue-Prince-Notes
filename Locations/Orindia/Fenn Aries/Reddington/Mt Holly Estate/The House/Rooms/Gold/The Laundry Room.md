@@ -1,0 +1,11 @@
+#room/gold #vents/powered #location #Room/Dead-End #room/gem/1 #room/rare
+- ![[Pasted image 20251214062811.png]]
+- allows you to exchange resource items for one an other for a small cost
+	- [[Gems]] for [[Coins]]
+	- [[Keys]] for [[Gems]]
+	- [[Keys]] for [[Coins]]
+- When powered allows you to swap more fancy items ^fa5ec0
+	- [[Stars]] for [[Allowance]]
+	- [[steps]] for [[Gems]]
+	- [[Ivory Dice]] for [[Keys]]
+- "A standard hub of domestic toil complete with washers, dryers and a state of the art steampowered unit leveraging the newly installed steam ducts leading from the boiler room. Despite its innocent appearance, this inconspicuous space is rumored to launder more than just linen."

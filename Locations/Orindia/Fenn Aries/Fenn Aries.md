@@ -1,0 +1,15 @@
+#location #not-visitable #realm 
+- The Core: Pentagon
+- Transportation: Roads
+- Weather: Foggy
+- Motes: Marial
+- Color: Red
+- [[Sanctum Door 2]]
+- Previously called [[Orinda Aries]]
+- The name was changed after the fall of [[Desilets]] in [[The War Of The Fifth Era]]
+- This is where the game takes place.
+- See [[History Of Orindia (First Edition)]]
+- Current government perusing the old kings [[Desilets]] who are currently hiding in [[Eraja]]
+- [[Baron Herbert.S. Sinclair]] does not support the current government.  Want's things to go back to the way they where with [[Orinda Aries]] and [[King Desilets III]]
+- after the name change in [[The War Of The Fifth Era]] the first king was [[General Teskin - King Teskin]]
+- [[The Red Prince]] is about Fenn Aries and the new government.  

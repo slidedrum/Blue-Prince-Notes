@@ -1,0 +1,22 @@
+- Found in [[The Rotating Gear Room]] upstairs, behind the word padlock
+- From [[Worth Laude]] (who? #question )
+- This is blackmail asking [[Baron Herbert.S. Sinclair]] for money/business/investment.
+- Mentions
+	- [[Baron Thomas Sinclair]]
+	- [[Reddington]] Mountains
+	- Mentions [[Scripts & Rudford Mining Company]]
+- ![[Pasted image 20251210103647.png]]
+- ![[Pasted image 20251210103653.png]]
+	- May 8th 
+	- Dear [[Baron Herbert.S. Sinclair|Baron Sinclair]],  
+	- To begin, my name is [[Mr. Worth Laude|Worth Laude]]. [[Worth Laude's father|My father]] used to work for your father, The Right Honorable [[Baron Thomas Sinclair]], Between the years of 1915 and 1918. The Former having died last mouth, at the advanced old age of eighty-nine, may he sleep in soot and ash. He left Behind [[Baroness Auravei|his widow]], seven children and thirty -odd grandchildren. I write to you today, however, not to inform you of these family affairs of little consequence, But to tell you a little bit about [[Worth Laude's father|my father]].  He lived his life, towering above us, in solemn silence like many members of his and your father's generation. He never spoke of the work he did in the mountains of [[Reddington]], or the famous estate in which he was stationed. He never spoke of [[Baron Thomas Sinclair|the Baron]]. Not once. I tell you this only to relate that he never betrayed the confidence your father placed in him. The secrets he kept for [[sinclair family|your family]], he took with him underground.
+- ![[Pasted image 20251210103658.png]]
+	- [[Worth Laude's father|His]] elderly comrades and colleagues from his [[Scripts & Rudford Mining Company|old mining outfit]] proved, however, to be not nearly as discreet and considered with their words.
+	- During the wake, fueled by a seemingly endless supply of spirits, these venerable gentlemen embarked on a journey down memory lane, recounting as much of the good old days as they could dredge up. While such reminiscences might typically be dismissed as the fanciful ramblings of age, the volume and specificity of their accounts lend a certain credence to their words.  
+	- Now, [[Mr. Worth Laude|me]], I am not a presumptive man. I don't presume these stories to be true. I don't presume your house is host to secrets of this magnitude. Yet ... I find myself irresistibly drawn to the idea of sharing these tales, true or not. They seem, after all, stories worthy of being heard.
+- ![[Pasted image 20251210103703.png]]
+	- I wonder if my current abundance of idle time fuels this urge. Perhaps, I have too much time on my hands. Perhaps, if one were to engage me in some worthwhile and profitable enterprise, my eagerness to pass the time by telling stories would be curbed.  
+	- I eagerly await a response from your Lord ship,  
+	- - [[Mr. Worth Laude]]
+- ![[Pasted image 20251210103707.png]]
+	- We're not blind to the iron of blackmailing you for a blackmail letter - and we're not proud to join the endless procession of those who have knocked on your mailbox looking for a handout.  Particularly so, when our methods lack the refined sophistication and class that this author so effortless wields.

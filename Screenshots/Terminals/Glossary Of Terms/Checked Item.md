@@ -1,0 +1,2 @@
+![[Pasted image 20251221152716.png]]
+If, on your estate, you have [[drafting|drafted]] a [[The Coat Check|COAT CHECK]], you may use it to check an [[Items]]. This will allow you to retrieve that [[Items]] on any day you have a [[The Coat Check|COAT CHECK]] on your estate.

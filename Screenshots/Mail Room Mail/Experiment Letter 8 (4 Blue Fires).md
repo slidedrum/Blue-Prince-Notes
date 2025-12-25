@@ -1,0 +1,11 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251217144249.png]]
+	- Simon, 
+	- Following up on the map I created outlining the STEAM POWER duct system, I thought it would be helpful to provide you with a corresponding map for GAS POWER, which is an outdated system that currently is only utilized outside the house in locations on the grounds.  
+	- Pictured: Diagram of [[4 Blue Fires]] 
+		- Top [[Apple Orchard]]
+		- Left: [[The Hovel]]  
+		- Right: [[The Schoolhouse]]
+		- Bottom: [[Gemstone Cave]]  
+	- Hope this helps, -Randolph

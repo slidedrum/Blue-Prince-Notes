@@ -1,0 +1,17 @@
+#terminal 
+- When in [[The Security Room]] you can access this [[Terminal]]
+- It has 4 options:
+	- View Estate Inventory
+		- Shows all current [[Items]]/[[world objects]] in the current layout.
+	- Keycard System
+		- Lets you change [[Security Keycard]] settings
+		- Security level: low/med/high
+			- Should be low when you can't open [[Keycard Door]] and high when you can.
+		- Offline Mode: Locked/Unlocked
+			- Paired with [[The Utility Closet - Breaker Box]] allows you to open [[Keycard Door]] without a [[Security Keycard]]
+			- Should always be set to unlocked, I have not found a single reason to keep it locked.
+	- Login To Network
+		- Allows you to see the standard network options with the password "Swansong"
+		- See [[Shared Terminal]]
+	- Exit
+		- Closes the window

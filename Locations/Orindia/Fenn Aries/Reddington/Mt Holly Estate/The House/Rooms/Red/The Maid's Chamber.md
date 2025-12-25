@@ -1,0 +1,15 @@
+#room/red #room/prismatic #location #room/purple #room/doors/2/corner #Room/unusual 
+- ![[Pasted image 20251214064043.png]]
+- Less likely to find items after this room is drafted
+- This room is both [[Red Room|red]] and [[Blue Rooms|blue]] thus making it one of the [[Prismatic Rooms]]
+- ![[Pasted image 20251210051226.png]]
+	- Pictured:
+	- The house employees?  Names? Who is sitting in the chair?  Probably [[Mrs Anne Babbage]]
+- ![[Pasted image 20251210051447.png]]
+	- STAFF NOTICE  
+	- The day we all dreaded has finally arrived. It is with unprecedented sadness that we inform you of the death of our benefactor, employer and master, the Baron of Mount Holly, [[Baron Herbert.S. Sinclair|H. S. Sinclair]]. Any staff who have an interest in attending services may contact [[Mrs Anne Babbage|Mrs. Babbage]] for details.  
+	- In following the instructions left by [[Baron Herbert.S. Sinclair|the Baron]] himself, effective immediately, all work at Mt. Holly is suspended. All live-in Staff will have one month paid leave and must vacate the premises by Friday, November 6th.  
+	- -[[Mrs Anne Babbage|Mrs. Babbage]]
+- ![[Pasted image 20251216144639.png]]
+	- One of the [[Tomb Statue Puzzle]] named "Mila"
+- "A typical example of the accommodations for the live- in staff on the estate. It appears this particular bedroom belongs to one of the maids."

@@ -1,0 +1,4 @@
+- Found in a white fire chest
+- "It never rains in [[Arch Aries]]"
+- ![[Pasted image 20251218183619.png]]
+- This is a lie

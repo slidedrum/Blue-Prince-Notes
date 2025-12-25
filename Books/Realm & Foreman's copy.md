@@ -1,0 +1,23 @@
+#book 
+- Found in [[The Precipice]] 
+- For a complete version, see [[Realm and Rune]]
+- The only difference (Besides the torn pages) is that "red" is crossed out on the last page
+- ![[Pasted image 20251213055257.png]]
+	- Foreman's Copy
+	- Do not remove from site.
+	- Realm & ==Rune==
+	- Sigils of the past and pr==esent==
+	- Written by [[Prof. R. Willard]]
+	- [[Fenn Aries]]
+	- Published by [[Robert Bird & Sons]]
+	- 1905
+- ![[Pasted image 20251213055301.png]]
+- ![[Pasted image 20251213055304.png]]
+- ![[Pasted image 20251213055309.png]]
+- ![[Pasted image 20251213055320.png]]
+- ![[Pasted image 20251213055326.png]]
+- ![[Pasted image 20251213055330.png]]
+- ![[Pasted image 20251213055335.png]]
+- ![[Pasted image 20251213055339.png]]
+- ![[Pasted image 20251213055342.png]]
+	- Why is red crossed out? ^f02326

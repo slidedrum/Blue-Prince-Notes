@@ -1,0 +1,24 @@
+#room/outer #location #BlackBridge #room/blue #Room/Dead-End #Room/unusual 
+- ![[Pasted image 20251214070919.png]]
+- You can donate money to the shrine to get temp blessings
+- The more money you give, the better the blessing and the longer it lasts
+	- Though it doesn't seem to scale that much?
+	- 
+- Possible blessings: (As seen in [[Drafting Strategy Vol 5]])
+	- Tinkerer
+		- Whenever you draft a mechanical room, trigger your current experiment
+	- Berry Picker
+		- While drafting, instead of picking a floorplan, you can pick a berry.  If you do, draft a random floorplan from your draft pool disregarding rarity.
+	- Chef
+		- For each different type of spread you do today, add an extra dish to the [[The Dining Room]]
+	- Gardener
+		- Add 8 [[The Courtyard|Courtyards]] to today's draft pool.
+	- General
+		- After you draft a red room if you have at least 5 different ranks containing red rooms, gain 5 [[Gems]]
+	- Monk
+		- If you call it a day in a room on your estate, you will draw that room while drafting from the grounds the following day. #question 
+	- Dancer
+		- While drafting, you may pay 1 gem to spin floorplans.
+	- High Roller
+		- Each time you draft a shop, gain an ivory die.  Gain 10 gold whenever you roll an ivory die.
+- "A sacred silence permeates this candlelit cavern, whose flickering lights add to the holy aura shining down upon a meditative statue. His stone hands present forth a stone bowl to the devout pilgrim who may wish to make an offering of gold."

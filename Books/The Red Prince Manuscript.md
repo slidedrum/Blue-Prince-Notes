@@ -1,0 +1,37 @@
+- #book 
+- Found in [[The Catacombs]] after solving the [[46 Map Puzzle]] and [[Manuscript puzzle]]
+- This is not about [[Simon P. Jones]] like claimed in the [[Archive Newspapers]].  It's about [[Fenn Aries]] and their stubbornness? 
+- ![[Pasted image 20251220182605.png]]
+- ![[Pasted image 20251220182620.png]]
+- ![[Pasted image 20251220182631.png]]
+	- ~~once~~ is this important?
+	- He had a red crown ==made== of rubies,
+	- New candlestick added
+	- Guards became statues
+	- [[Orinda]]'s wand was removed.
+- ![[Pasted image 20251220182707.png]]
+	- ~~everything~~ 
+	- The the *true* is now in italics 
+	- The sigil of [[Fenn Aries]] was removed in the final version.
+- ![[Pasted image 20251220182859.png]]
+	- Canary (gold, mountain) represents [[Arch Aries]]
+		- Allied with [[Fenn Aries]] in [[The War Of The Fifth Era]]
+	- Crow (black, door) represents [[Orinda Aries]]
+		- The old guard in [[The War Of The Fifth Era]]
+	- Swan (White, arch) represents [[Mora Jai]] ^00f163
+		- might have allied
+- ![[Pasted image 20251220183023.png]]
+	- "the sky" is marked?
+	- Birds and the sky were added in the new version.
+	- The trees were changed.
+	- [[Castle Orindia]] was removed entirely in the final version.
+- ![[Pasted image 20251220184454.png]]
+	- This page was removed.
+	- Birds (crows? [[Orinda Aries]])
+- ![[Pasted image 20251220184710.png]]
+	- Peacock
+	- [[Dauja (planet)]]
+	- Reading a book, don't know witch one? #question 
+- ![[Pasted image 20251220185201.png]]
+- ![[Pasted image 20251220185244.png]]
+- ![[Pasted image 20251220185306.png]]

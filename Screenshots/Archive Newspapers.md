@@ -1,0 +1,48 @@
+- Found in [[The Archives]]
+- Might be missing a page or two here?  Double check #need-screenshot #question 
+- ![[Pasted image 20251210044512.png]]
+	- Aug 22 1985
+	- [[Marion Marigold - Mary Matthew Epsen|MARIGOLD]] WINS [[Herald Literary Medal illustrated book of the year|HERALD LITERARY HONOR]]
+	- Popular children's writer [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]] adds yet another feather to her scholastic cap when she discovered on Thursday that her picture book "[[Swim Bird]]" had been chosen as the [[Herald Literary Medal illustrated book of the year]]. This is [[Marion Marigold - Mary Matthew Epsen|Marigold]]'s second time winning this prestigious honor, the previous medal was of course for her [[The Red Prince|debut effort]],  ^heraldLitHonor
+	- She was no stranger to the public eye even before her literary success. The niece and closest living relation of [[Baron Herbert.S. Sinclair|Baron H. S. Sinclair]], Mary began using Marigold as a pen name to free her from the political associations that one might make with the Sinclair Family. ^marigoldName
+	- ---
+	- Jan 27 - 86
+	- "SWIM BIRD" AUTHOR NEVER CONSIDERED HERSELF SUCCESS
+	- BY [[GALE HERMES]] HERALD STAFF WRITER
+	- She confided "[[Simon P. Jones|My son]] was the one that actually got myself start writing. I had always challenged myself to never tell him the same story twice at bedtime, and so as we ran out of books we owned, my imagination had to take over from there."
+	- [[Marion Marigold - Mary Matthew Epsen|Marigold]] has elaborated in previous interviews that her debut book "[[The Red Prince|Red Prince]]" is based on [[Simon P. Jones|her son]] and his in- flexible love of the color red. A statement that has been held with much skepticism by the many pundits that viewed that book as a rather thinly veiled political critique of the royalist party and their unwavering blind loyalty to the throne. ^redPrince
+- ![[Pasted image 20251210044516.png]]
+	- Nov 11 - 1986
+	- PUBLISHER & AUTHOR DETAINED BY RED GUARD, QUESTIONED
+	- [[Caleb Manning]] and his publisher [[Mr. Phillip White|Phillip White]] were two of three dozen names that appeared on a leaked dossier naming them a "person of interest" in the [[Trinsdale bombing]] that killed four people last Tuesday. Although, no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of the insurgent group [[RLCF: The Children of Black Water|RLCF]] who also call themselves "The Children of [[Black Water]]". (cont. on page 12)
+	- [[Ruffington Press]] was quick to dismiss the rumors in a statement released on Friday, maintaining that the popular author \[and [[Mr. Phillip White|Mr. White]]\] were simply "victims of an unfortunate happenstance", whatever that means. This would not be the first time that the Publishing House has defended a rogue employee. Three years ago, an associate editor with the company was arrested for criminal conspiracy, though the charges were later dropped. ^retractStatement
+
+- ![[Pasted image 20251210044520.png]]
+	- Nov 7th - [[Reddington Herald]]
+	- [[Marion Marigold - Mary Matthew Epsen|MARIGOLD]] DROPS [[Ruffington Red Publishing|PUBLISHER]]
+	- Local author and popular personality, [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]] has announced a split with her long term publishing partner, [[Ruffington Press]], citing personal reasons. The announcement came after the arrest last week of fellow author and colleague, [[Caleb Manning]], whom [[Marion Marigold - Mary Matthew Epsen|Marigold]] has past referred to as her mentor, friend and confidant.      [[Marion Marigold - Mary Matthew Epsen|Marigold]] is the third prominent writer to distance themselves from the [[Ruffington Red Publishing|Publisher]] this week. ^5b84df
+		- What did they do?
+	- --- 
+	- [[Caleb Manning]] and [[Mr. Phillip White]]^72fa92
+		- was seen at the corner
+		- suspicious bag under th
+		- waved down a local ma
+		- This is the third major
+		- last year. It is anticipat
+		- charged by the crown
+		- Manning was the last p
+		- The trial begins on Tu
+		- expected to last up to s
+		- with grand treason.
+- ![[Pasted image 20251220105427.png]] 
+	- #need-screenshot 
+	- NO TRACE IS DISCOVERED OF [[SYNKA]] [[Marion Marigold - Mary Matthew Epsen|HEIRESS]] BUT SEARCH CONTINUES ^ea3bcb
+	- [[Marion Marigold - Mary Matthew Epsen|Mary Matthew Jones]], the author and illustrator whose fanciful stories are written under the pen name [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]], was last seen by a close friend around 3:45pm Friday getting into a carriage after a late luncheon date at [[Hundred Bells Tea Room|the Hundred Bells Tea Room]] in [[Trinsdale]]. [[Marion Marigold - Mary Matthew Epsen|Mrs. Jones]] never arrived home and the carriage driver cannot be located family and local authorities are very concerned but have not deemed the case foul play. "It's an out-of-character incident at this point and we are seeking information
+- ![[Pasted image 20251210044525.png]]
+	- Sep 2nd
+	- [[Reddington Herald]]
+	- Thieves in the royal capital of [[Fenn Aries]] have broken into one of the Crown's fabled 'closed' exhibits. These lavish rooms have historically been reserved exclusively for the use of the aristocracy and high peerage, and access has never been granted to those outside noble circles. At least not until today, as local police and forensic experts have been spotted in virtually every corner of the Museum grounds dredging for clues.
+	- [[Museum Heist]]
+	- The museum authorities said they were alerted in the middle of night by reports of several masked intruders seen breaching the south wall and brandishing firearms. The intruders broke into the museum, subdued the [[Royal Guard]] and disabled the security system. By the time the militia arrived on the scene, the burglars had simply vanished.
+	- Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned [[Ruby Crown]] of [[Orinda Aries]], the priceless crown jewel whose material worth pales in comparison to the historic value. If these rumors are true, the evidence may suggest that the theft was politically motivated.
+	- See [[The Safehouse - Royal Station]]

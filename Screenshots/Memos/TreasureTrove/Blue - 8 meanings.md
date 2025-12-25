@@ -1,0 +1,3 @@
+- "The symbol infinity is used to denote the unknown, death, and the number 8"
+- Found in a white sun chest.
+- ![[Pasted image 20251224204420.png]]

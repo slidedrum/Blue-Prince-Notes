@@ -1,0 +1,21 @@
+#room/blue #room/resource #room/mechanical #location #room/common #room/doors/2/straight #room/35 
+- ![[Pasted image 20251214051501.png]]
+- This room allows you to craft different items
+- Guaranteed item spawn on the desk, will be either:
+	- [[Broken Lever]]
+	- [[Battery Pack]]
+		- Unless you have both, then it could be something else.  I've seen:
+			- [[Sledgehammer]]
+- #TODO: list all craftable items and what they do
+	- [[Lockpick Kit]] + [[Metal Detector]]
+	- [[Magnifying glass]] + [[Metal Detector]] = [[Burning Glass]]
+	- [[Sledgehammer]] + [[Battery Pack]] + [[Broken Lever]] = [[Power Hammer]]
+	- [[Shovel]] + [[Battery Pack]] + [[Broken Lever]]: [[Jack Hammer]]
+	- [[Brass Compass]] + [[Battery Pack]] = [[Powered Electromagnet]]
+	- [[Lucky Rabbit's foot]] + [[Coin Purse]] = [[Lucky Purse]]
+- Contains page 8 of the [[Song Lyrics]] puzzle
+- You could find new crafting recipes by digging up [[Dirt Piles]] with a [[Shovel]] (New means not crafted yet, can get dupes)
+- There is a diagram showing the dimensions of the [[The Parlor]] room puzzle boxes
+	- ![[Pasted image 20251219125051.png]]
+		- The true box does not always contain the prize.
+- "Springs, screws and coils scattered atop the workbench show signs of this room's frequent use. A craftsman's studio dedicated to creativity and invention, this room was used by your uncle regularly whenever he needed to fix (or improve) a gadget or contraption."

@@ -1,0 +1,13 @@
+#room/gold #location #room/doors/2/corner #room/standard #room/gem/1
+- ![[Pasted image 20251214062245.png]]
+- The main shop of the house, sells several useful items
+	- TODO: list sold items #todo 
+- Sometimes there is a 50% off sale from [[The Observatory]] 
+- The note containing the network password is on the board.  Crossed out, can be read with [[Magnifying glass]] also found in [[The Security Room]]
+	- ![[Pasted image 20251210043203.png]]
+		- STAFF NOTICE  
+		- Effective the first week of December, Payroll for all Live-out and Seasonal Staff will be managed electronically. As your attendance will no longer be registered at morning roll call, it is doubly important that you do not fail to clock in (and out) at one of the Electronic Computer terminals on the Estate. 
+		- Two of these terminals can be found at Security (where the punch-clock used to be and in the Laboratory.  
+		- Any questions or concerns regarding this process should be directed as always to our House Manager Mrs. Babbage.  
+		- TERMINAL PASSWORD: ~~SWANSONG~~
+- "The staff commissary is always stocked with household goods and supplies at a reasonable cost. This provides the servants of the estate an invaluable service, especially to the live-in staff who may only expect to leave the property once or twice a month."

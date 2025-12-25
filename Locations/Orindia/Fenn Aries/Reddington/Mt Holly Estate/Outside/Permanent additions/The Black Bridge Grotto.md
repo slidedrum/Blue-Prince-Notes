@@ -1,0 +1,32 @@
+#location #outside #Permanent-Addition #terminal #puzzle/unsolved #BlackBridge 
+
+- A story about Black Bridge is [[The Curse Of BlackBridge]]
+- The grotto was unlocked by solving the switch puzzle in [[The Lab]] by powering it with [[The Boiler Room]]
+- It has a [[BlackBridge Terminal|terminal]] with a different password, admin key.  [[Denny Revane]]'s password is found after defrosting [[The Freezer]] it is "Revad"
+	- This password has been deactivated 😭
+	- The password format is [[The Servant's Quarters#^2a9cf8|"First four letters of your last name, followed by first initial.  (The first and fifth character should be capitalized.)"]]
+	- [[Hartley Ruota]] had an admin password.  He temporality took over for [[Randolph Moore]] when he was away. - It was disabled either when Randolph came back, or when Hartley retired. (see [[Experiment Letter 11 (Staff intro)]] and [[The Servant's Quarters#^9c7577]]) 
+	- A working admin keys
+		- "MoorR" - [[Randolph Moore]]
+		- "ThomK" - [[Kimberly Thompson]]
+		- "BabbA" - [[Mrs Anne Babbage]]
+	- Deactivated keys
+		- "RuotH" - [[Hartley Ruota]]
+		- "RevaD" - [[Denny Revane]]
+	- Delisted keys: ^dbc5a5
+		- "LeeB" [[Bo Lee]]
+		- "ProvC" - doesn't work.
+		- "HounU" - Doesn't work.
+	- Other keys to try 
+		- [[Simon P. Jones]] - Doesn't work, not set up (yet?)
+		- [[Kirk Darren]] - Doesn't work.
+- Who is modern Black bridge?  It's not the group from [[The Curse Of BlackBridge]] book
+- There is 3 slots for 3 [[Microchip|Microchips]] in the center of the room. 
+	- One was pre-populated
+	- One was found by breaking a [[vases|vase]] in [[The Entrance Hall]] (hinted by [[A New Clue]])
+	- Third was found after completing one of the puzzles in [[A New Clue]] Which one was it?  #question 
+	- ![[Pasted image 20251210034128.png]]
+- There is a note that says "I IOO" it's a hint for the [[Letters puzzle]]  ^291607
+	- ![[Pasted image 20251210033925.png]]
+- One section of the computers is shut off
+	- ![[Pasted image 20251210110435.png]]

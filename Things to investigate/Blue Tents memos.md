@@ -1,0 +1,1 @@
+- When I draft blue rooms on rank 8, there are now hidden memos. [[Blue Tents]]

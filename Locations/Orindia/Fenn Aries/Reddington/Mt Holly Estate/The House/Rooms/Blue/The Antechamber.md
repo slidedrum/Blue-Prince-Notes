@@ -1,0 +1,14 @@
+#location #room/Puzzle #Puzzle/solved #room/blue #room/objective #room/doors/special 
+- ![[Pasted image 20251214053040.png]]
+- The final room before [[Room 46]]
+- To unlock each of the 4 doors, you must pull a lever
+- Northern lever to [[Room 46]] is found in [[The Inner Sanctum]]
+- Eastern lever is found in one of the sub-rooms in [[The Great Hall]]
+- Southern lever is found broken in [[The Greenhouse]] 
+- Western lever is found in [[The Secret Garden]] 
+- (East/west lever might be swapped #question )
+- Once you enter the room you can pick up [[The Basement Key]] 
+- Next to [[The Basement Key]] is this note ![[Pasted image 20251210073749.png]]
+	- To continue up, you must go down.
+	- it hints that you must go to [[The Underground]] via [[The Foundation]], [[The Fountain]] or the [[Tomb Statue Puzzle]]
+- "From its root meaning "The Room Before", all signs and paths point toward the Antechamber. This mysterious sealed room -resting on the 9th Rank- may prove, however, quite an initial challenge to even reach, let alone enter. Still, you can't help but draw a connection between this chamber and Room 46."

@@ -1,0 +1,3 @@
+- "More than two boxes contain prizes."
+- ![[Pasted image 20251217111145.png]]
+- ![[Pasted image 20251217111150.png]]

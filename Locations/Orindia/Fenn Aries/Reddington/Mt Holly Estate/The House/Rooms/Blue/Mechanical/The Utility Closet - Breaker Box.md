@@ -1,0 +1,13 @@
+#location #room/blue #Puzzle/solved #room/31 #room/mechanical #room/common  #Room/Dead-End 
+- ![[Pasted image 20251214044617.png]]
+- This room has several panels and switches from top to bottom:
+	- Sec door power (see [[The Security Room]])
+	- light button puzzle (See [[Utility Room Fusebox Note]])  ^d0dc00
+	- Directly Powers 3 rooms
+		- [[The Gym]] (On)
+		- [[The Darkroom]](On)
+			- Toggling power when not drafted does nothing
+			- Toggling power when drafted but not entered MIGHT do something?  #question
+		- [[The Garage]](Off)
+ - Pairs well with [[The Security Room]] to allow you to open [[Keycard Door]] without a [[Security Keycard]]
+ - "One benefit of the restoration of old buildings is that it allows the owners to update and add modern amenities. The utility closet and the circuit breaker box within were set up when gas powered lighting was retired and replaced by a more fashionable home electrical system."

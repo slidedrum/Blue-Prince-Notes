@@ -1,0 +1,12 @@
+#location #not-visitable #realm 
+- The Core: Arch
+- Transportation: Naval
+- Weather: Normal
+- Motes: Agricultural
+- Color: White
+- [[Sanctum Door 6]]
+- Where the [[Mora Jai Puzzle Boxes]] originated from.  (duh)
+- Has beaches.
+- Represented by a white swan in [[The Red Prince Manuscript#^00f163]]
+- Known for their fruit trees according to the description of [[The Secret Garden#^1f1ed1]]
+- The farmers of [[Mora Jai]] always refer to the angels by their natural order, a preference Herbert adopted in his final years after his trip there.  (See [[Staff Announcements#^2f1e55]])

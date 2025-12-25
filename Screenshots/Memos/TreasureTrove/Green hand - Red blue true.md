@@ -1,0 +1,3 @@
+- Found in a red fire box
+- Handwritten note: "Red memos in blue boxes are always true."
+- ![[Pasted image 20251219191107.png]]

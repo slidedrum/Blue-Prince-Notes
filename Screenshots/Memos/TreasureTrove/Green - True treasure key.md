@@ -1,0 +1,3 @@
+ - "You will need a key to obtain the true treasure of the trove."
+ - Found in a black sun chest.
+ - ![[Pasted image 20251217124012.png]]

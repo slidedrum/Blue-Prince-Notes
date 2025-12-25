@@ -1,0 +1,19 @@
+#location #room/purple #Room/Dead-End #room/royalty #room/gem/2 #room/rare 
+- ![[Pasted image 20251217061100.png]]
+- +1 [[steps]] for each room in your house
+- According to [[Her Ladyship's Sleep Diary#^b43e65]] if I [[Call it a day]] in this room, tomorrow I will have more [[steps]]. But how many, it doesn't say?
+- ![[Pasted image 20251217061322.png]]
+	- [[Baron Herbert.S. Sinclair|Herb]] -  
+	- the controls for the foundation  elevator are located behind [[the foundation]] wall.  
+	- this means the controls can only be accessed by another room adjacent to [[the foundation]].  
+	- unclear if this is a security feature or a flaw. Please advise.
+- ![[Pasted image 20251217061344.png]]
+	- Simon,
+	- I never intended to finish writing this letter but by now you must know th
+- BEEEEEG [[Swim Bird]]![[Pasted image 20251217061401.png]]
+- ![[Pasted image 20251217061415.png]]
+	- This is part of the [[Coat Of Arms-crest puzzle]]
+- ![[Pasted image 20251217061428.png]]
+	- Not wearing [[moon pendant]]
+- ![[Pasted image 20251217061554.png]]
+- [[Mora Jai Puzzle Boxes]] ![[Pasted image 20251217061223.png]]

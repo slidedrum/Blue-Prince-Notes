@@ -1,0 +1,15 @@
+#room/blue #location #room/tommorw #Room/Dead-End #room/upgraded #Room/unusual #room/39
+- ![[Pasted image 20251214052207.png]]
+- This is where mail will show up when ordered from special orders on a terminal.
+	- I have upgraded this room so it shows up in the [[The Entrance Hall]] instead
+- Sometimes letters will be delivered to the mail room based on some events happening
+	- [[Letter from Dad|First letter]] from [[Daniel (Dad)]]
+	- The rest of the letters are from [[Randolph Moore]]
+	- see [[Mail Room Mail]]
+- ![[Pasted image 20251210070301.png]]
+	- Please return all correspondence and packages addressed to [[Denny Revane]] to sender as he no longer is employed with our staff.
+	- Written by [[Mrs Anne Babbage]]
+	- "Did they ever prove [[Denny Revane|he]] was the one that stole the [[Baron Herbert.S. Sinclair|baron]]'s mail?"
+		- This is referring to [[Room 46#^102e7a|the threat]] in [[Room 46]]
+- Contains the ![[Utility Room Fusebox Note]]
+- "A dedicated mailing room in which incoming and outgoing post and packages are sorted and then delivered within the estate to their intended recipients. Now, with No Contact Delivery!"

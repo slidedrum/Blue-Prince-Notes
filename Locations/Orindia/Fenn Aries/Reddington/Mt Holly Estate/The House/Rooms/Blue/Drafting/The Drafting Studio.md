@@ -1,0 +1,13 @@
+#room/blue #location #room/30 #room/gem/2 #room/drafting #room/rare 
+- ![[Pasted image 20251214044524.png]]
+- From inside this room you can select 1 new room to be permanently added to the drafting pool.
+- contains a calendar confirming day 1 was Nov 7th 93. ![[Pasted image 20251210060548.png]]
+- Has a model safe from a room I don't recognize.  If you use a [[Magnifying glass]] you can enter a code.  It is one of the [[8 Safes]]
+	- It had [[Red Letter 5 (Marigold)]]
+	- ![[Pasted image 20251210060829.png]]
+	- ![[Pasted image 20251210060823.png]]
+	- 
+- Has the current layout of [[The Great Hall]]
+	- ![[Pasted image 20251210060855.png]]
+- has the book [[Drafting Strategy Vol 1]]
+- "As an architect and engineer, it was not uncommon to find your [[Baron Herbert.S. Sinclair|great uncle]] spending the better part of his weekends here, at a drafting table with t-square and compass in hand. Over half of the [[Floorplan|floorplans]] of [[House|Mt. Holly]] were conceptualized, refined and drafted in this studio."

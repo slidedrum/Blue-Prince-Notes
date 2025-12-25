@@ -1,0 +1,107 @@
+See [[Thoughts on Black Bridge Admin Logs]]
+- ![[Pasted image 20251222125600.png]]
+	- 01-20-86 - [[Randolph Moore|MoorR]] (All)
+		- The last cables have finally been laid and the [[office terminal]] has been connected to the central network. Given the ever-changing nature of the rooms on the estate, we chose to install the server outside of the house to maintain connection stability at all times. A small [[The Black Bridge Grotto|cavern off of the eastern drive]] was selected for the server site.
+- ![[Pasted image 20251222125610.png]]
+	- 01-26-86 - [[Randolph Moore|MoorR]] (All)
+		- All remaining computer [[Terminal|terminals]] on the estate are now connected to the [[The Curse Of BlackBridge|network mainframe]] and we will now begin testing remote access capabilities between them.  
+		- I've also asked [[Baron Herbert.S. Sinclair|the Baron]] to come up with a name for the Network.
+- ![[Pasted image 20251222125618.png]]
+	- 01-30-86 - [[Randolph Moore|MoorR]] (All)
+		- After some deliberation, our network has been named [[BLACKBRIDGE]], a somewhat ominous name for the project given the legend from which the [[The Curse Of BlackBridge|term derives]], though very fitting considering we chose an actual cave to house the mainframe.  
+		- I only hope that our servers do not suffer that same fate that befell those in [[The Curse Of BlackBridge|the story]]!
+- ![[Pasted image 20251222125623.png]]
+	- 07-01-86 - [[Randolph Moore|MoorR]] (All)
+		- Regular maintenance Report - Fixed a connection error that was occurring between [[the office]] and [[The Security Room|security]] [[terminal]]. We have also added electronic mail capabilities to each [[terminal]] that can be accessed via the network.
+- ![[Pasted image 20251222135255.png]]
+	- 02-10-87 - [[Bo Lee|LeeB]] (Delisted)
+		- Three new admin keys have been added to the network's user database. \[[[Bo Lee|LeeB]]\] \[[[ProvC|ProvC]]\] and \[[[HounU|HounU]]\].
+	- 02-10-87 - [[Bo Lee|LeeB]] (Delisted)
+		- Admin Log view access restricted to the following Admin Keys : \[ \[[[Bo Lee|LeeB]]\] \[[[ProvC|ProvC]]\] and \[[[HounU|HounU]]\].
+- ![[Pasted image 20251222125628.png]]
+	- 02-10-87 - [[Randolph Moore|MoorR]] (Admin)
+		- Recording capabilities of all cameras on the estate have been disabled. Additionally, the existing video playback functionality on [[Security Terminal|the Security Terminal]] has also been removed.
+	- 03-02-87 - Deleted (Admin)
+	- 03-03-87 - Deleted (Admin)
+- ![[Pasted image 20251222135417.png]]
+	- 02-16-87 - [[ProvC|ProvC]] (Delisted)
+		- [[Bo Lee|Lee]], we are planning something later this year and need to make sure communication on here is not being archived. Are there additional steps we can take to ensure privacy?
+	- 02-16-87 - [[Bo Lee|LeeB]] (Delisted)
+		- Already taken care of, we are now bypassing message archiving. [[Randolph Moore|Randolph]], shouldn't notice anything out of the ordinary.
+- ![[Pasted image 20251222135536.png]]
+	- 02-17-87 - [[ProvC|ProvC]] (Delisted) ^d61efa
+		- Good, no one else on the estate knows we're here. Other than [[Marion Marigold - Mary Matthew Epsen|Mary]] of course, who saw [[Bo Lee|Lee]] on Tuesday but \[[[HounU|HounU]]\] has a plan to take care of her. ^ebc147
+	- 02-18-87 - [[Bo Lee|LeeB]] (Delisted)
+		- If it must be done, it must be done. Just see to it that the body is not discovered. The last thing we need is for the [[Redguard|Red Guard]] to be snooping around here.
+- ![[Pasted image 20251222135604.png]]
+	- 02-21-87 - [[HounU|HounU]] (Delisted)
+		- She won't be found. Rest assured.
+			- This lines up perfectly with the newspaper clipping of her disappearance in the [[Archive Newspapers]]
+	- 02-21-87 - [[Bo Lee|LeeB]] (Delisted)
+		- Let's disperse for now. I'll meet you all at the safehouse in [[Reddington]] in four days. Then, once the inquiry is over, we will proceed with our plans for the museum.
+			- I think the safehouse is the old [[BlackBridge Admin Logs#^4d725d|schoolhouse]]
+- ![[Pasted image 20251222125636.png]]
+	- 03-04-87 - Deleted (Admin)
+	- 03-06-87 - Deleted (Admin)
+	- 03-07-87 - Deleted (Admin)
+	- 03-09-87 - Deleted (Admin)
+- ![[Pasted image 20251222125641.png]]
+	- 03-14-87 - Deleted (Admin)
+	- 07-10-87 - Deleted (All? Admin?)
+	- 07-11-87 - Deleted (Admin)
+	- 07-12-87 - Deleted (Admin)
+- ![[Pasted image 20251222135738.png]]
+	- 06-26-87 - [[Bo Lee|LeeB]] (Delisted)
+		- Resuming operations.
+	- 06-27-87 - [[ProvC|ProvC]] (Delisted)
+		- Welcome back Lee. I've been camping out of the old [[The Schoolhouse|schoolhouse]] for the past month waiting for your return. It's spacious, quiet, and should prove to be an effective base of operations, outside of the purview of the staff and [[Baron Herbert.S. Sinclair|the Baron]]. ^4d725d
+- ![[Pasted image 20251222135849.png]]
+	- 07-10-87 - [[Bo Lee|LeeB]]
+		- We should have an opening on the first day of September. Can we be ready by then?
+	- 07-13-87 - [[HounU|HounU]]
+		- I don't see why not. Negotiations for transportation are in the final stages. If all goes well we will have air passage to [[Nuance]] secured for that date.
+- ![[Pasted image 20251222125646.png]]
+	- 07-25-87 - [[Randolph Moore|MoorR]] (Admin)
+		- As requested yesterday, new ADMIN KEY created, (though the requested name doesn't quite fit with our typical length formatting).
+	- 08-27-87 - Deleted (Admin)
+	- 08-28-87 - Deleted (Admin)
+- ![[Pasted image 20251222135922.png]]
+	- 08-25-87 - [[Bo Lee|LeeB]] (Delisted)
+		- I think [[Randolph Moore|Moore]] is planning a scheduled maintenance soon, so we should likely wrap things up here.
+	- 08-25-87 - [[HounU|HounU]] (Delisted)
+		- I'd say it's time to scrub these logs, they might fall under some scrutiny in the near future.
+	- 08-26-87 - [[Bo Lee|LeeB]] (Delisted)
+		- \[[[ProvC|ProvC]]\] and \[[[HounU|HounU]]\] and \[[[Bo Lee|LeeB]]\] delisted and deleted from User Database.
+- ![[Pasted image 20251222125652.png]]
+	- 09-01-87 - [[Randolph Moore|MoorR]] (Admin)
+		- Effective immediately, all electronic mail capabilities have been restricted and now can now only be accessed via the [[Office Emails|Office Terminal]]. All other [[terminal]] inboxes have been archived and can only be restored via ADMIN CONTROL.
+- ![[Pasted image 20251222125656.png]]
+	- 01-20-89 - [[Randolph Moore|MoorR]] (All)
+		- Temporary access to the mainframe and [[The Black Bridge Grotto|Blackbridge grotto]] has been restored to perform routine maintenance.
+	- 01-04-90- [[Randolph Moore|MoorR]] (All)
+		- Temporary access to the mainframe and [[The Black Bridge Grotto|Blackbridge grotto]] has been restored to perform routine maintenance.
+- ![[Pasted image 20251222125701.png]]
+	- 07-03-91 - [[Randolph Moore|MoorR]] (All)
+		- -Updated access privileges for the following account types:  
+		- ADMIN ACCESS - Full Access to all features.  
+		- PERSONNEL ACCESS - Access to [[BlackBridge Terminal#^2323c3|USER DATABASE]].  
+		- ARCHIVE ACCESS - Full Access + access to archived admin logs and deleted database entries.
+- ![[Pasted image 20251222125708.png]]
+	- 11-25-92 - [[Randolph Moore|MoorR]] (All)
+		- R.T.A. is down while we work on a solution to reported [[terminal]] connection failures.
+			- Remote Terminal Access?  Idk what else that could possibly be, and it fits to well for me to question it.
+	- 11-28-92 - [[Randolph Moore|MoorR]] (All)
+		- R.T.A. is working again. [[Terminal]] connections tested and confirmed functional. To make future testing easier, added ability to access offline [[Terminal|terminals]] through the R.T.A. when [[The Black Bridge Grotto|Blackbridge]] is open.
+- ![[Pasted image 20251222125712.png]]
+	- 01-29-93 - [[Randolph Moore|MoorR]] (All)
+		- Per request, one temporary admin key has been added to the network. \[[[Hartley Ruota|RuotH]]\]
+	- 02-20-93 - [[Randolph Moore|MoorR]] (All)
+		- Admin key deactivated \[[[Hartley Ruota|RuotH]]\]
+	- 06-22-93 - [[Randolph Moore|MoorR]] (All)
+		- One new admin key has been added to the network. \[[[Kimberly Thompson|ThomK]]\] (Welcome to the team!)
+- ![[Pasted image 20251222125718.png]]
+	- 09-01-93 - [[Kimberly Thompson|ThomK]] (All)
+		- -Added new data management features to [[BlackBridge Terminal]] Admin Control. 
+		- -Updated [[BlackBridge Terminal#^2323c3|USER DATABASE]]
+	- 11-06-93 - [[Randolph Moore|MoorR]] (All)
+		- Changing of the guard- In preparation for Simon's arrival, inbound and outbound messages, as well as offsite connections from outside the estate, have been disabled per the instructions left by [[Baron Herbert.S. Sinclair|the Baron]] himself.

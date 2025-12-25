@@ -1,0 +1,3 @@
+- "A prize is in a box marked by 'fire'"
+- ![[Pasted image 20251217110305.png]]
+- ![[Pasted image 20251217110308.png]]

@@ -1,0 +1,25 @@
+#room/blue #location #room/addition #Room/unusual #room/doors/2/corner 
+- ![[Pasted image 20251214064659.png]]
+- While this room is drawn (not drafted) you can rotate the currently drawn rooms with no cost.
+- Contains some notes from [[Marion Marigold - Mary Matthew Epsen]] to [[her mother]] Sent via her birds.  Only skimmed might be more info
+	- ![[Pasted image 20251210074553.png]]
+		- 9/1/74
+		- Dear Mother, 
+		- If you are reading this, that means Juni made it home safely! I imagine he's going to he quite tired after such a long flight, so make sure he gets some treats and rest. School is going well, though I do miss you terribly. Unfortunately, even though the dean gave me permission to keep my birds here on campus, I'm afraid it's getting a bit too cold for them as the semester marches on, so I've made the decision to send them all home before the winter months arrive. All that to say, expect some more letters soon!  
+		- Dotingly Mary
+	- ![[Pasted image 20251210074559.png]]
+		- 1/28/74 
+		- Dearest Mother, 
+		- This should be the fifth letter you've received from me this month. Though I know statistically, if is very unlikely that every single member of my flock has found their way howe. And please, please don't tell me if they didn't arrive! It's going to he hard enough now that l am truly on my own. 
+		- In other news, my classes have been engaging and I am slowly making friends, so please ignore the dramatic despair of my previous letter. Things are indeed looking brighter, but I still maintain that three years is too long a time to be away from home.  
+		- Mary
+	- ![[Pasted image 20251210074604.png]]
+		- [[Baron Herbert.S. Sinclair|Herbert]], 
+		- Thank you so much for your gift of the 'wedding doves," whom l, of course, recognized immediately. And, yes, I got the hint. So here's your letter. I know it's long, long overdue. The mahew* life suits me I think. Not that I didn't love Mount Holly, of Course, but after years of being confined in a tiny dormitory, the small place Daniel and I have picked out in [[Reddington]] feels more like a stately manor! Once we've finished unpacking and setting everything up, I'll insist on you making an exception to your reclusive lifestyle to Come, share a meal and admire our somewhat less impressive but much more personal view of the town.  Thanks again for the card,  
+		- [[Marion Marigold - Mary Matthew Epsen|Mary]] ^0c16bc
+		- *Small house
+	- ![[Pasted image 20251210074620.png]]
+		- We are returning east and should arrive on Tuesday.  if coast is coast is not clear, lower the SD to warn us.
+			- SD is [[The Satellite Dish]]
+		- This letter is not like the others.  What is it? Maybe this is her coming back after hiding from [[Museum Heist]]? #question 
+- "A towering loft serving home to many of the feathered locals of Mount Holly. As a devout bird-watcher and amateur ornithologist Mary had petitioned her uncle for years for this to be built on the estate."

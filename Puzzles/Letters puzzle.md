@@ -1,0 +1,22 @@
+- In [[The Precipice#^d20cff]] behind the [[Weak Wall]] identified in [[The Safehouse - Royal Station]] there are some [[The Precipice#^f2ef48|letters]]
+- I have seen this type of letters in several places:
+	- [[Tomb Statue Puzzle|statue]] in [[The Cloister#^d10b76]]
+		-  ![[Pasted image 20251215231039.png]]
+	- The [[The Kennel#^9b7d9c|cat picture]] in [[The Kennel]]
+		- ![[Pasted image 20251210093356.png]]
+	- Part of [[A New Clue#^23d56c]]?
+		- ![[Pasted image 20251210104905.png]]
+	- [[The Black Bridge Grotto#^291607]]?
+		- ![[Pasted image 20251210033925.png]]
+	- One of the lockers in [[The Locker Room#^8c24f3]]
+		- ![[Pasted image 20251222121821.png]]
+	- One of the [[Vault Keys|deposit boxes]] in [[The Vault]]?
+		- ![[Pasted image 20251210084228.png]]
+- They read:
+	- CIX
+	- A==D==D
+	- SIX
+	- TOR
+	- LOR
+	- ETT
+- ![[Pasted image 20251219122346.png]]

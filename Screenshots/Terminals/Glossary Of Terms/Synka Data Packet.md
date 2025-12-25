@@ -1,0 +1,3 @@
+- After unlocking the [[The Satellite Dish]], I can now download data packets from [[Synka]].
+- The first one I got added new [[Lab Experiments]]
+- I don't know how to get more, I assume it's just based on time? #question 

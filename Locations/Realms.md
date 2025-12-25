@@ -1,0 +1,8 @@
+- There are 7 realms on this planet
+- They are analogous to countries
+- They seem to be split up into two groups on each side of the planet.
+	- [[Moraven]] and [[Orindia]]
+- Each one has a [[Sanctum Realm Sigils]] (see [[Realm and Rune]])
+- Our planet is [[Mora]]
+- See [[Grade 4 (Geography)]]
+- See [[History Of Orindia (First Edition)]]

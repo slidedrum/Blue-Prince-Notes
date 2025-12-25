@@ -1,0 +1,3 @@
+- "Surveillance recording can only be accessed via the terminal located in security."
+- Found on the bulletin board behind other notes.
+- ![[Pasted image 20251224221901.png]]

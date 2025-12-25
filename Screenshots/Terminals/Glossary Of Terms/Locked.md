@@ -1,0 +1,2 @@
+![[Pasted image 20251222094249.png]]
+As you explore the house you will find that some doors are locked. To continue exploring, you will need to use a key to unlock them.  Locked doors appear more often the higher in rank you are in the house.

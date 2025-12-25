@@ -1,0 +1,2 @@
+![[Pasted image 20251222095026.png]]
+Sigils are ancient runes imbued with meaning that use symbology to represent the different aspects of the old realms. The book REALM & RUNE serves as a helpful guide for those looking to decipher these Ajeran symbols.

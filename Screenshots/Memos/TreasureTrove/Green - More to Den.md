@@ -1,0 +1,3 @@
+- "As you have always suspected, there is more to [[The Den]] than meets the eye."
+- Found in a black moon chest.
+- ![[Pasted image 20251224201713.png]]

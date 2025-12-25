@@ -1,0 +1,1 @@
+- This folder has all memos from the [[Trunk]] at the bottom of the [[The Reservoir]] see [[Reservoir chests]]

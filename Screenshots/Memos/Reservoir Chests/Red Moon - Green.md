@@ -1,0 +1,4 @@
+- "Only one box in the reservoir has a prize"
+- This box is in the water.
+- ![[Pasted image 20251217105924.png]]
+- ![[Pasted image 20251217105931.png]]

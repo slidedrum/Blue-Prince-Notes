@@ -1,0 +1,3 @@
+- Found in a white sun box
+- "Green memos in pink boxes are always false."
+- ![[Pasted image 20251218201216.png]]

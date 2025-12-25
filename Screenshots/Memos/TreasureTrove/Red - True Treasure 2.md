@@ -1,0 +1,3 @@
+- found in white "fire" chest
+- "The true treasure of the trove is not in this room."
+- ![[Pasted image 20251215194456.png]]

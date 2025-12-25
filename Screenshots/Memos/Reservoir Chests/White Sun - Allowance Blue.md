@@ -1,0 +1,7 @@
+- "This box contained 3 allowance tokens!"
+- This box is in the water
+- It contains 3 allowance tokens.
+	- ![[Pasted image 20251217110035.png]]
+- This box is in the water.
+- ![[Pasted image 20251217110041.png]]
+- ![[Pasted image 20251217110047.png]]

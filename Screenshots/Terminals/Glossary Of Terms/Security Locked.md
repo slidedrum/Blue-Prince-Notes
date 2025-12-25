@@ -1,0 +1,2 @@
+![[Pasted image 20251222094942.png]]
+Electric powered doors of reinforced steel that can only be accessed via Keycard are considered Security Locked. These doors appear with more frequency the more higher up in Rank you are in the house.

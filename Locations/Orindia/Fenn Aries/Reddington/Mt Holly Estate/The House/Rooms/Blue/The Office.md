@@ -1,0 +1,36 @@
+#room/blue #terminal #location #room/24 #room/spread #room/standard #room/doors/2/corner 
+- ![[Pasted image 20251214043509.png]]
+- This room lets you spread gold around the estate
+- This room lets you run payroll and put gold in all staff rooms
+- There are several busts in the room, they match the busts in [[The Foyer]]
+	- [[Count Isaac Gates]]
+	- [[Baron Edwin Sinclair]]
+	- [[Baron Thomas Sinclair]]
+	-  [[Count Isaac Gates]]
+	- [[Baron Edwin Sinclair]]
+	- [[Count Isaac Gates]]
+	- [[Count Isaac Gates]]
+	- [[Je Ari Yenna]]
+	- [[Baron Herbert.S. Sinclair]]
+	- [[Count Isaac Gates]]
+- See [[Office Emails]]
+- Contains a note hidden in the drawer
+	- ![[Pasted image 20251210054548.png]]
+		- [[Bridgette]], 
+		- Please check if any books matching these titles are available for purchase in [[Reddington]]. Flight of the queen march of the count fall of the lord passing of the barons herrings of the major had a little trouble reading the baron's writing, so I am not sure if the last title is intended to be hearings or herrings, but knowing [[Baron Herbert.S. Sinclair|Herbert]] I suspect either would be suitable.
+		- This is the hint of the [[8 Safes|safe]] in this room.
+			- It has [[Red Letter 8 (X-Denny)|red letter 8]]
+		- To [[Bridgette]]
+		- mentions [[Baron Herbert.S. Sinclair]]
+		- From [[Mrs Anne Babbage]] (probably)
+		- mentions books in red text
+			- [[Flight Of The Queen]]
+			- [[March Of The Count]] (black)
+			- [[Fall of the lord]]
+			- [[Passing Of The Barons]]
+			- [[Herrings Of The Major]]
+- Note on top of the desk
+	- ![[Pasted image 20251210054811.png]]
+		- [[The Antechamber]] lever in [[The Greenhouse]] is broken again.  I don't think there is enough time to put in another work order before [[Simon P. Jones|Simon]] arrives, so just make sure the ==west== and east levers are operational.
+		- The word "west" is lower case.  May be related to [[A New Clue#^b2f8df|corner case clue]] puzzle
+- "The late Sinclair's personal home office, a room he used exclusively for business affairs and the running of the estate, a task he took increasingly more satisfaction in overseeing in his later years."

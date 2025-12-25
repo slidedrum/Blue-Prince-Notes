@@ -1,0 +1,28 @@
+#room/outer #room/Black #Room/Dead-End #Room/unusual 
+- ![[Pasted image 20251214071256.png]]
+- This room has 5 [[coins]] for every #Room/Dead-End in your house
+- This room contains the [[Tomb Statue Puzzle]] that once completed allows entrance to [[The Underground]]
+	- Hint note for the [[Tomb Statue Puzzle]]
+	- ![[Pasted image 20251210070638.png]]
+		- Each of our journeys come do 
+		- a conclusion here in the Tomb.  
+		- This floor plan is the definitive dead end ...  or is it ?
+			- This is hinting that there's more here, like the entrance to [[The Underground]]
+- Letter from [[Baron Herbert.S. Sinclair]] upon his grave [[Sinclair's Final Letter To Simon]]
+- The tomb has two sets of [[Ruby Socketed Candlesticks]] that can be lit by the [[Burning Glass]] ^382c67
+	- One set had an [[upgrade disk]], and 4 [[Ivory Dice]]
+	- The other set had:
+		- [[Lady Epsen's Diary Key]]
+		- ![[Pasted image 20251217064750.png]]
+			- Ulelddau,  ^409e47
+			- uleldnai, uleldmora. Ovulelgift eldhew oviss. Nevdau uldareile. Nevdau eldareilu. Ajelbid ulheed eldlor: Uloddiris. Hewsinclairlu. Hewepsenlu. . . Forget uldein inn. Uldjorjeari.. Uldarei oviss fennvo. Uldeinjorovo. Overaja. Oviss nevarei. 
+			- Lorja eldiris, 
+			- Uldjora
+			- Written in [[Erajan]] since she was from [[Eraja]] ^c4eb14
+			- See [[Grade 8 (Language)]] for translation instructions.
+		- And a [[Eraja]] [[Mora Jai Puzzle Boxes]]![[Pasted image 20251217064816.png]]
+		- And a tomb for [[Lady Clara Epsen]]![[Pasted image 20251217065100.png]] ^4edaa2
+- Next to [[Simon H. Sinclair]]'s grave, the candles are knocked over for some reason.
+	- ![[Pasted image 20251224205919.png]]
+		- The flower is from sleeping in [[The Bunk Room]] see [[Her Ladyship's Sleep Diary#^737b04]]
+- "This Sinclair family crypt is as gloomy as it is immense. The true Sinclair legacy lies here, resting underneath thFe stones, a parade of distant relations and forgotten ancestors."

@@ -1,0 +1,29 @@
+#room/blue #Room/Dead-End #room/resource #location #room/gem/3 #room/rare #room/11
+- ![[Pasted image 20251214041332.png]]
+- Contains 8 items
+- #MoreToExploreHere 
+- costs 4 gems (I think?  I know it's expensive)
+- Contains a letter to [[Marion Marigold - Mary Matthew Epsen]] from [[Thomas Yanders]] (Editor at [[Ruffington Red Publishing]])
+	- ![[Pasted image 20251210072414.png]]
+		- Dear Ms. Marigold,  
+		- Thank you so much for giving our editors the opportunity to consider your illustrated children's book, '[[The Red Prince]]'. Unfortunately, I regret that we have come to the conclusion that although the illustrations are wonderful, we do not think the material is a good fit with [[Ruffington Red Publishing|Ruffington]]'s current catalogue and therefore will not be pursuing a partnership at this time.  
+		- If you provided us with a return envelope, your manuscript will be returned to you. Otherwise, it has been recycled.  
+		- Thank you again for thinking of us here at [[Ruffington Red Publishing|Ruffington]], and do not be discouraged to submit any work you complete in the future. We wish you every success in finding a home for your book.  
+		- [[Thomas Yanders]], Editor   ^0b532e
+		- [[Ruffington Red Publishing]] Children's Book Department 205 Concetta Ct. 02117-2765
+- ![[Pasted image 20251213010543.png]]
+	- Pictured:
+		- [[Baron Thomas Sinclair]] (Adult, on the left)
+		- [[Baron Herbert.S. Sinclair]] (child, right)
+		- [[Simon H. Sinclair]] (child, left)
+- ![[Pasted image 20251213011259.png]]
+	- Probably [[Baroness Auravei]] ([[Baron Thomas Sinclair]]'s wife))
+	- Alt angle showing a ring.  Probably wedding ring![[Pasted image 20251213011247.png]]
+	- Wearing same necklace as [[Marion Marigold - Mary Matthew Epsen]].  Wearing the [[Emerald Bracelet]]
+- Other things in this room that are probably not important:
+	- ![[Pasted image 20251213011719.png]]
+		- Wagon matching photo in [[The Gallery#^350bb6|The Gallery]] and [[Room 46#^53c995|Room 46]]
+	- ![[Pasted image 20251213012123.png]]
+		- Clock gear, matching [[The Den]] and many other rooms
+		- A vase matching the ones I broke in [[The Entrance Hall]] that gave me a [[Microchips]]
+- "High above the mansion in its lofty perch, Mt. Holly's Attic provides curious explorers with a cache of dusty keepsakes, trinkets, and clues from a long-forgotten past."

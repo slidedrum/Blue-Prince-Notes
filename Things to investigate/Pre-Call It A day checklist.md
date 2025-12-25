@@ -1,0 +1,6 @@
+- [ ] Check to see if I have all [[Chess Pieces]]
+- [ ] Check if there are any new blue rooms on rank 8. [[Blue Tents]]
+- [ ] End in [[The Billiard Room]] or bedroom (see [[Her Ladyship's Sleep Diary]])
+- [ ] Check [[Staff Announcements]]
+- [ ] Check [[Synka]] data transfers.
+- [ ] Give all worldly money to [[The Keeper of Tithes]]

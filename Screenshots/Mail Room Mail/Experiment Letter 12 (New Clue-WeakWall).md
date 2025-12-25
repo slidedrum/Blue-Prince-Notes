@@ -1,0 +1,8 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251219174017.png]]
+	- Another successful experiment, another letter.  
+	- You have certainly been keeping yourself busy! As I've spent the last few days racking my brain trying to come up with new clues for you, I'm reminded of [[Marion Marigold - Mary Matthew Epsen|your mother]]'s aptly named book, "[[A New Clue]]" and how fiendishly she hid the clues for her readers within its pages. Don't worry, I won't be hiding my clues for you in imagery or requiring you to comb the text with a magnifying glass! The truth is I'm not nearly as clever or creative as she was. The best I could muster trying to be cryptic and mysterious would be something like 'Break the bricks in [[the Weight Room]] with something that has a handle and is very heavy." I am afraid that in spite of my best efforts the result is not quite cryptic and even less mysterious. 
+		- This is telling me about the [[Weak Wall]] in [[The Weight Room]]
+	- I suppose I'll leave the riddles to your great uncle and his niece.  
+	- -[[Randolph Moore]]

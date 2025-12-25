@@ -1,0 +1,10 @@
+#room 
+- See [[Drafting Strategy Vol 1]]
+- #room/purple [[Bedroom|Bedrooms]]
+- #Room/Orrange [[Hallway|Hallway]]
+- #room/green [[Green Room|Green Rooms]]
+- #room/gold [[Shop|Shops]]
+- #room/red [[Red Room|Handycap rooms]]
+- #room/Blue [[Blue Rooms|Regular rooms]]
+- #room/prismatic [[Prismatic Rooms]]
+- #room/Black [[Blackprint]]

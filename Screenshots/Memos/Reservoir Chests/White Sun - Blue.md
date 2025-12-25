@@ -1,0 +1,7 @@
+- "Only one blue box in the water contains a memo with a true statement."
+- This box is in the water along with:
+	- [[Blue moon - Red]] 
+	- [[Blue Fire - Red]]
+	- [[Blue Sun - Green]]
+- ![[Pasted image 20251217105427.png]]
+- ![[Pasted image 20251217105434.png]]

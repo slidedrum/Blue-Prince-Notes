@@ -1,0 +1,11 @@
+#puzzle/unsolved 
+- Not sure if this is a puzzle, but probably?
+- Several rooms have similar hand statues, point in different directions.
+- [[The Foyer]] hands facing right and left
+	- ![[Pasted image 20251217055623.png]]
+- [[The Office]] hand facing left
+	- ![[Pasted image 20251217063524.png]]
+- [[The Bedroom]] has a hand facing down
+	- ![[Pasted image 20251217094208.png]]
+- [[The Chamber of Mirrors]] has a hand facing up
+	- ![[Pasted image 20251218163107.png]]

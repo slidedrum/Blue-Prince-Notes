@@ -1,0 +1,12 @@
+#room/purple #room/royalty #location #Room/Dead-End #room/rare 
+- ![[Pasted image 20251214055253.png]]
+- After drafting, enter [[The Boudoir]] for +10 [[steps]] or the [[The Walk-in closet]] for +3 [[Gems]]
+- ![[Pasted image 20251210081728.png]]
+	- Depicts solar system [[The Spiral Of Stars]] seen in [[Grade 4 (Geography)]] ^b8e28f
+- On the bedside table is a locket with [[Simon H. Sinclair]]]]'s picture and one of the realm's symbol on the outside
+	- ![[Pasted image 20251210084352.png]]
+	- ![[Pasted image 20251210084356.png]]
+		- Core of the sigil of [[Eraja]]
+- Once the [[Lady Epsen's Diary Key]] is collected, you can open [[Her Ladyship's Sleep Diary|her sleeping diary]].
+- According to [[Her Ladyship's Sleep Diary#^5f7794|it]], if I [[Call it a day]] in this room, I will start [[Tomorrow]] with 10 less steps.  But +1 [[Stars]]
+- "Tucked quietly away in the west wing of [[House|Mount Holly]] is the decorative bedroom of your grandmother, [[Lady Clara Epsen|Lady Epsen]]. The style you find, unique in the house, a fitting tribute to her childhood home in [[Eraja]]." ^9dad35

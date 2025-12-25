@@ -1,0 +1,13 @@
+#person #Marylin-Maragold 
+- Children's author of 
+	- [[The Red Prince]]
+	- [[Swim Bird]]
+	- [[A New Clue]]
+- Mother of [[Simon P. Jones]]
+- Wears a [[moon pendant]] necklace
+- Likes birds
+- Writes to mom
+- Real name "Mary Matthew Epsen"
+- daughter of [[Lady Clara Epsen]] and [[Simon H. Sinclair]]
+- Mary began using Marigold as a pen name to free her from the political associations that one might make with the Sinclair Family (see [[Archive Newspapers#^marigoldName|Archive Newspapers]])
+- [[The Red Prince]] and [[Swim Bird]] both won the [[Herald Literary Medal illustrated book of the year]] 

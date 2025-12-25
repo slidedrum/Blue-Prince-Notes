@@ -1,0 +1,3 @@
+- "A black box contains allowance tokens."
+- ![[Pasted image 20251217104606.png]]
+- ![[Pasted image 20251217104622.png]]

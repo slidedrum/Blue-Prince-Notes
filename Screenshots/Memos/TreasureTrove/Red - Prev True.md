@@ -1,0 +1,4 @@
+ - "The previous box in this room contained a true statement."
+ - This was found in a red 'fire' box
+ - The previous statement was [[GreeenHand - White Realm]]
+ - ![[Pasted image 20251217121000.png]]

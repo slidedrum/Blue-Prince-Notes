@@ -1,0 +1,14 @@
+#Room/Dead-End #room/blue #location #room/tommorw #room/40 #room/rare #BlackBridge 
+- ![[Pasted image 20251214052331.png]]
+- Once you enter this room, your [[Coins]]/[[Gems]] are frozen and can't be used anymore, but they will persist until the next day.
+- Can be defrosted with [[The Furnace]]
+	- see [[Heating And Cooling Curves]] in [[The Lab]]
+	- once defrosted, opens up a server room with this note:1 ^821ace
+		- ![[Pasted image 20251210052850.png]]
+			- The network servers are finally out of cold storage! Or at  least as many as we could fit into the surrounding walls of  [[The Black Bridge Grotto|the Grotto]] off of the East Drive. The last few days have  been very busy, but I'm glad I was able to take a short  break from gardening to help [[Randolph Moore|Randolph]] install the network.  It was, after all, the least he could do, since it was I who  suggested the final location. We decided that we are going to  store the two unused servers here i Mount Holly's freezer.  They should serve as readily accessible replacements should  any of the primary consoles fail.   ^9db5c8
+			- -[[Denny Revane]] ^18868b
+		- Contains the code to log into [[The Black Bridge Grotto]]
+			- Never mind, It's been deactivated!![[Pasted image 20251210110149.png]]
+		- Admin key is CAPS SENSITIVE
+- The [[Freezer chest]] can not be defrosted with [[The Furnace]]
+- "Dedicated to deep freeze and cold storage, Mt. Holly's freezer is an insulated space kept almost as frigid as the snowy mountains of [[Corarica]]. Sustaining a subzero temperature is vital for keeping the items in this room under ice."

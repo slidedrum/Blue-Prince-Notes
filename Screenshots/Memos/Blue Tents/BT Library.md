@@ -1,0 +1,3 @@
+- Found upstairs on the shelf in [[The Library]]
+- ![[Pasted image 20251220162927.png]]
+	- If you have a [[Hall Pass]], [[The Bookshop|bookshop]] will be more likely to be drawn while drafting in the library.

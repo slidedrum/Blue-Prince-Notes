@@ -1,0 +1,4 @@
+- Found in a white fire box
+- "Green memos in blue boxes are sometimes false."
+- ![[Pasted image 20251218164201.png]]
+- 

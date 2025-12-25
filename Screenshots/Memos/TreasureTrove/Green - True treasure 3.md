@@ -1,0 +1,5 @@
+- "The true treasure of the trove is in the house."
+- Found in a red fire box.
+- ![[Pasted image 20251224222939.png]]
+- Either this or [[Green - True Treasure 1]] is false.
+- According to [[Red - prev trove note true]] this note is false.

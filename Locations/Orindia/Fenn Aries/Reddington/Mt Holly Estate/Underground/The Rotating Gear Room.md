@@ -1,0 +1,29 @@
+#room #underground #location 
+
+- On the 2nd floor is a word padlock, the code is "MAY8" ^953517
+	- The padlock might be one of the [[8 Safes]]
+	- Behind the padlock is an overlook of an under construction castle? #question Where is this?  The window is in one of the realm sigils
+		- ![[Pasted image 20251210103356.png]]
+			- Pictured: [[Castle Orindia]] (See [[History Of Orindia (First Edition)#^b355f5|history of orindia]]) likely a re-creation? #question Surely the original was not made in a cave and never finished?
+		- ![[Pasted image 20251210103413.png]]
+	- There's also a log from [[The Foreman]]
+		- ![[Pasted image 20251210103628.png]]
+		- Foreman's log: 102.  Date 1.13.1916
+		- I knew what we were looking at as soon as we  uncovered the first spire, but it wasn't until the  first floorplan was unearthed that most of the crew  realized what ruins we were exhuming. The border  was the same pitch as the sunless cavern we found it  in, a dark-trimmed floorplan of ill-fated [[Orindia]].  
+		- We had found an authentic [[Blackprint]].  
+		- The sooner we seal this site back up, the better for  us all.
+	- Also [[Red Letter 1 (Worth Laude)|Red Letter 1 (Worth Laude)]] was found here.
+- On the 2nd floor is an overlook to [[The Reservoir]] it marks out water level 6 via [[The Pump Room]].  
+	- When set to water level 6, this leads to [[The Safehouse - Royal Station]] ^7fe29f
+	- ![[Pasted image 20251210092913.png]]
+	- There is also a log from [[The Foreman]]
+	- ![[Pasted image 20251210092948.png]]
+		- Foreman's log: 228.  Date: 3.1.1917
+		- After 10 days of pumping water up from the underground spring, [[the reservoir]] has finally been filled. It's a  shame that the [[The Safehouse - Royal Station|old station]] had to be flooded as a consequence of this action, but I suspect that may have been the actual reason they chose to build the reservoir here and as an engineer I agree that flooding is  preferable to collapsing the entire tunnel.  
+		- On the bright side, now that our water supply is no longer limited, we can start to leverage steam to a much  greater extent. I suspect by this time next month, the steam-powered hoists at the main site will be able to run 24 hours a day.
+- See [[Underground Map]]
+- There is a hidden room downstairs in the south western tooth of the gear with this note from [[The Foreman]]
+	- ![[Pasted image 20251210082249.png]]
+	- Foreman's log: 608.  Date: 5.3.1918
+	- After almost 3 years in the tunnels, [[Scripts & Rudford Mining Company|S&R]] has informed  me that we will be closing up the site in June. It has  been a somewhat bitter-sweet experience working on such a historically significant excavation over the past 30 odd months yet being unable to share any of that work  with the world. Maybe one day.  
+	- Still, there is a significant amount of work that has  yet to be done and it is vitally important that we  conclude our efforts in the main cavern and reinforce the structural integrity of the site before we seal the tunnels next month. It may be many generations before  they are reopened.

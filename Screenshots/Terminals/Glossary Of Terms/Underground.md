@@ -1,0 +1,2 @@
+![[Pasted image 20251222095840.png]]
+Resting far beneath the estate's foundations are a series of covert chambers and caverns, their existence known only to a few select individuals within the household.

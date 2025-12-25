@@ -1,0 +1,6 @@
+- Found in one of the lockers in [[The Locker Room]]
+- "The memo next to this is a lie."
+- ![[Pasted image 20251222122600.png]]
+- ![[Pasted image 20251222122613.png]]
+	- This the memo next to it
+	- "[[Kirk Darren]] is a pseudonym"

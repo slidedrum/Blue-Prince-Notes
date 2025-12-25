@@ -1,0 +1,3 @@
+- Found in [[The Rumpus Room]] under the TV
+- ![[Pasted image 20251220163449.png]]
+	- The real alzara was  an [[Eraja|erajan]] soothsayer  who belonged to the  royal court of aries.  He was banished from  the realm in the  fifteenth year of [[ejera]]  for a prophecy that  did not come to pass.

@@ -1,0 +1,2 @@
+![[Pasted image 20251222094526.png]]
+Most things on the estate reset from one day to the next. It's the nature of the house. However, a few things are permanent and are usually marked as such. Permanent changes do not reset each day.

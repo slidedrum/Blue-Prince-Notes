@@ -1,0 +1,4 @@
+- "The larges planet in the night sky is named after the paragon of ash."
+- Found on the side of the telescope.
+- ![[Pasted image 20251224225744.png]]
+- According to [[Grade 4 (Geography)#^7e9874]] the largest planet in our solar system is [[Veia]]

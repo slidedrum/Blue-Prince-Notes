@@ -1,0 +1,13 @@
+- 
+- in several rooms in the house, there is a coat of arms with numbers under it.  It's important somehow.  
+	- [[The Wine Cellar]]
+		- ![[Pasted image 20251213064715.png]]
+	- [[The Master Bedroom]]
+		- ![[Pasted image 20251217061415.png]]
+	- [[Room 46]]
+		- ![[Pasted image 20251210101423.png]]
+- In [[Room 46]] it's missing the numbers, and the helmet. And says "[[Marion Marigold - Mary Matthew Epsen|Marigold]]" on it.  But the rest of the crest is the same.
+- according to [[BT - Wine Cellar]] it's 4 numbers.
+- according to [[BT - Mechanarium]] the first number is 1 numeral, the rest are 2.
+- So that means the numbers are.
+- 1000, 200, 11, 2

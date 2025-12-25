@@ -1,0 +1,1 @@
+- I should try other effects from [[Chess Pieces]]

@@ -1,0 +1,33 @@
+#location #puzzle/unsolved 
+- You can defrost [[The Freezer]] by drafting [[The Furnace]] and waiting for the temperature to rise.  There is a hint for this in [[The Lab]]
+- There is a [[Trunk|Chest]] in [[The Freezer]] that has a note and a special [[Keys]] inside.  It is frozen
+- The Freezer Chest does not defrost from drafting [[The Furnace]]
+	- According to [[The Lab#^c38438|emails in the lab]] it might be distance based?  I don't know how far away I was when I tried this.
+	- According to [[Drafting Strategy Vol 2]] the distance between [[The Freezer]] and [[The Furnace]] is based on rank, not actual distance?
+		- This is just speed of defrosing
+- You can defrost the items in the freezer chest with [[Burning Glass]] (or similar)
+- ![[Pasted image 20251220113520.png]]
+	- Thaw only in the event of my death
+- ![[Pasted image 20251220113535.png]]
+	- Simon, 
+	- I had wished for you do read this letter upon first arriving at Mt. Holly but I couldn't risk the contents of these pages falling into unsympathetic hands.  
+	- My personal freezer should prove quite the safebox, as all of the staff have for many years respected my wishes that it remain shut and untampered. (my favorite snacks were also stored here!)  
+	- But in addition do these delicious treats, it has also for the last 20 years stored many a cryptic message and ciphered note. This nondescript cooler is, in fact, a dubious frozen postbox of chilled secrets.
+- ![[Pasted image 20251220113609.png]]
+	- Have you heard of [[RLCF: The Children of Black Water|the Children of Black Water]]?  
+	- I have no idea how forthcoming [[Daniel (Dad)|your father]] has been about the details surrounding [[Marion Marigold - Mary Matthew Epsen|your mother]]'s final chapter ... or the role he thinks I played in that end. I have always denied involvement to him. To the detectives. To the crown. and now to you as well.  
+	- But can I honestly say I had nothing do do with her disappearance? and yes, I speak of disappearance, not death. For l, too, cling do the hope that our fears are unfounded, and have occasionally, from time do lime, caught fragments of information that bolster this belief. ^aa556e
+		- I think this is an outright lie.  [[Baron Herbert.S. Sinclair|He]] knows damn well what happened to [[Marion Marigold - Mary Matthew Epsen|her]].
+- ![[Pasted image 20251220113724.png]]
+	- Fragments of information that have cost me plenty, for our country is never short of opportunists and blackmailers.  
+	- Still, as I am now dead, I don't wand this knowledge do be buried with me, even if that means passing the burden of these fragments onto you. Even if that information may weigh even heavier on your head than the crown involved.
+	- Pictured: [[Blue Prints Crown]] or [[Ruby Crown]]
+- ![[Pasted image 20251220113802.png]]
+	- Unfortunately, this information is a little too precious do entrust entirely do this freezer as I'm not too confident that the sanctity of my snacks will extend beyond my life! I've always found il best do use multiple baskets when il tomes do incriminating eggs; a lesson that I recently learned again when a member of my staff betrayed my confidence.  
+	- I have placed [[Red Letters|eight red envelopes]] in [[8 Safes|eight even more secure locations]] throughout the estate and left a hidden message for you among the art that hangs in almost every room in this house. This message is the key do unlocking these secrets, but you must be open in your interpretation, as the message itself harbors multiple double meanings and hidden entendres.
+- ![[Pasted image 20251220113855.png]]
+	- One final word of guidance: the safe combinations you are seeking will not be found in writing on the estate. So, I hope you haven't been wasting too much lime jotting down random invoice numbers and dates! Only by deciphering the many meanings of the forty-four character message, can you hope do unlock it's many mysteries.  
+	- To each their own letters,
+	- [[Baron Herbert.S. Sinclair|Herbert S. Sinclair]]
+- ![[Pasted image 20251220113926.png]]
+	- Pictured, a template for the [[Drawing Puzzle]] solution

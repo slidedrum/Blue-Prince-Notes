@@ -1,0 +1,11 @@
+#room/red #location #room/doors/4 #room/rare 
+- ![[Pasted image 20251214064415.png]]
+- When drafted, cuts your current steps in half 
+	- Does this round up or down? #question 
+- Sometimes a good room if you don't have many steps, but have a way to get more quickly.  Like [[The Dining Room]] or [[The Lab]] experiments
+- After breaking the brick wall hinted to me by one of [[The Mail Room]] letters, 
+	- it reveals a southern lever for [[The Antechamber]] and part of the ripped [[Underground Map]] 
+		- ![[Pasted image 20251219192550.png]]
+	- And a false red memo
+		- ![[Pasted image 20251219192649.png]]
+- "An exercise room outfitted with weightlifting equipment. A good workout session here will wipe you out and leave you with little energy left for exploring."

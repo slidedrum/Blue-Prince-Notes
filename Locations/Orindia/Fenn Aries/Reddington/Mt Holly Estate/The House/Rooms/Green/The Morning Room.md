@@ -1,0 +1,13 @@
+#room/green #location #room/tommorw #room/addition #room/rare #room/doors/2/corner 
+- ![[Pasted image 20251214061839.png]]
+- This room can only be drafted after eating Bacon and eggs in [[The Kitchen]] (Or was this permanent? #question I don't think so?)
+- Like most [[Green Room]] this can only be drafted on the east or we wing of the house.
+- This room doesn't seem to have much, other than this newspaper about the death of [[Baron Herbert.S. Sinclair]]
+- ![[Pasted image 20251210104258.png]] ^c24475
+	- Nov 5th
+	- [[Reddington Herald]]
+	- In the blue hours of Wednesday morning, the venerable Baron of [[Mount Holly]], [[Baron Herbert.S. Sinclair|Herbert S. Sinclair]], passed away at the ripe age of seventy-three, after a prolonged struggle with a heart condition that had been kept from the public eye until his final days. Esteemed as a pillar of society and renowned for his penchant for crafting puzzles, he was a source of endless fascination to our readers over the years, not least through his popular column "[[Baron Bafflers]]," which he penned for over a decade. The particulars of  the announcement of his successor yesterday has left his devoted followers with one last intrigue to ponder.
+	- The reading of his will precipitated a flurry of speculation, for his niece  and presumptive heir, the much-beloved and lamented [[Marion Marigold - Mary Matthew Epsen|Mary Matthew Jones]], has been missing, presumed deceased, for the past six years. Mrs. Jones, better known to our readers by her pen name, Marion Marigold, enchanted the hearts and minds of children across the realm with her literary creations, such as "[[The Red Prince]]," "[[Swim Bird]]," and "[[A New Clue]]." Her disappearance remains one of the age's most tragic mysteries. 
+	- With her where- abouts unknown, it was Marigold's own son,  [[Simon P. Jones]], a lad of but 14 summers, who was yesterday named the provisional heir to the sprawling [[Synka]] empire. 
+	- However, this vast inheritance is accompanied by an undisclosed contractual condition. Given [[Baron Herbert.S. Sinclair|the Baron]]'s well- known penchant for tests of mettle and wit, it's clear that the young heir from [[Reddington]], distinguished in his own right as last year's County Science Fair runner-up, faces an extraordinary challenge in the coming weeks. More to Follow ... ^1a9b0b
+- "The best thing to go with breakfast is a morning newspaper and a coffee."

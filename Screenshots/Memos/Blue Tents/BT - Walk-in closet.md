@@ -1,0 +1,4 @@
+- "[[Lady Clara Epsen|Her Ladyship Clara Episen]] was laid to rest on the 11th of June 1983"
+- Found on the wall of one of the shelves on the right.
+- ![[Pasted image 20251224230410.png]]
+- She was laid to rest in [[The Tomb#^4edaa2]]

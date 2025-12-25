@@ -1,0 +1,5 @@
+- "This box contained a sanctum key."
+- This box has a [[Sanctum Key]]
+- ![[Pasted image 20251217110714.png]]
+- ![[Pasted image 20251217110719.png]]
+- ![[Pasted image 20251217110723.png]]

@@ -1,0 +1,7 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251219174526.png]]
+	- [[Simon P. Jones|Simon]],  
+	- If you do end up accessing the Admin controls in [[The Black Bridge Grotto|Blackbridge grotto]], I'm sure you noticed the sealed circular door to the left of [[BlackBridge Terminal|the terminal]]. As you likely have already concluded for yourself, this door can only be opened if three different [[microchips]] are inserted in the central pedestal.  
+	- Normally, all three [[microchips]] are kept secured in three other locations, but I decided to make it easy for you and have left one of the [[microchips]] in [[The Black Bridge Grotto|the grotto]] for ready access. However, you will have to find a new clue or two to find the others.  
+	- -[[Randolph|Randolph]]

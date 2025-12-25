@@ -1,0 +1,3 @@
+- "The sanctum key is not in a box. \n it is buried"
+- ![[Pasted image 20251217104825.png]]
+- ![[Pasted image 20251217104833.png]]

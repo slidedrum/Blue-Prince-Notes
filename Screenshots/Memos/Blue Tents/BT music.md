@@ -1,0 +1,3 @@
+- Found behind the stupid piano
+- "There is a major key hanging on a wall in [[The Safehouse - Royal Station|the safehouse]]"
+- ![[Pasted image 20251220174007.png]]

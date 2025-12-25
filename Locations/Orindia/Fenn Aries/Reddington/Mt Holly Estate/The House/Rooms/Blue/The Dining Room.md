@@ -1,0 +1,13 @@
+#room/blue #room/resource #location #room/food #room/standard #room/doors/3 #room/41 #room/fireplace 
+- ![[Pasted image 20251214052446.png]]
+- This room should not be drafted on low ranks
+- Once you reach rank 8 with this room drafted you will hear a bell, that means it's dinner time
+- Once it's dinner time you can eat the main course and restore 20 [[steps]]
+- If there is an optional bonus room you will get 30 [[steps]] instead.  Those rooms can be:
+	- [[The Furnace]]
+	- [[The Showroom]]
+	- [[The Morning Room]]
+	- More #question 
+- You can find out what the bonus room is from [[The Kitchen]]
+- I bought [[The Lunch Box]] item from [[The Gift Shop]] That gives me 10 steps once I reach rank 5.
+- "An intimate and warm room with a large dining table boasting a serving tray with a silver dome cover. Dinner is served here each evening."

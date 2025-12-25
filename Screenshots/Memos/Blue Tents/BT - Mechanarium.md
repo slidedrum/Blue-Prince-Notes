@@ -1,0 +1,4 @@
+- "On the coat of arms, the first number is one numeral.  The rest are each two numerals."
+- Found on one of the walls.
+- ![[Pasted image 20251224214815.png]]
+- This is referring to the [[The Wine Cellar]]

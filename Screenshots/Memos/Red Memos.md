@@ -1,0 +1,1 @@
+- These memos are always lies according to [[Red Memo Lies]]

@@ -1,0 +1,35 @@
+#location #room/blue #classrooms
+
+- This room is trying to teach me fun facts about the history of the world? #question 
+- ![[Pasted image 20251210100141.png]]
+	- History is penned by the victors
+- ![[Pasted image 20251210100145.png]]
+	- Depiction of the [[The War Of The Fifth Era]]
+	- [[Orinda Aries]] in black
+	- [[Fenn Aries]] in red
+- ![[Pasted image 20251210100150.png]]
+	- Depicting losses after [[The War Of The Fifth Era]]
+	- 1 in 3 men died.
+- ![[Pasted image 20251210100154.png]]
+	- Crowning of [[General Teskin - King Teskin]](?)
+- ![[Pasted image 20251210100202.png]]
+	- Destroying (?) the railways that were bult in the [[the Third Era]]
+	- See [[Locked Archive Newspapers#^c40701]]
+- ![[Pasted image 20251210100206.png]]
+	- Celebrating victory raising red flags.
+	- Notably pictured:
+		- A DIRIGIBLE! 
+		- The royal statue from [[Tomb Statue Puzzle]]
+		- Also seen in [[Sanctum Door 2]]
+		- A mountain in the background.
+- Names mentioned:
+	- [[Prince Leerson]]
+	- [[General Teskin - King Teskin]]
+	- [[Desilets IV]]
+	- [[Oris (Town)]]
+	- [[eraja]]
+- ![[Pasted image 20251218145043.png]]
+- ![[Pasted image 20251218150026.png]]
+- ![[Pasted image 20251210100211.png]]
+- ![[Pasted image 20251210100215.png]]
+- ![[Pasted image 20251210100221.png]]

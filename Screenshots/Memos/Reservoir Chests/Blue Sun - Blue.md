@@ -1,0 +1,8 @@
+- "The green memos in boxes near this box are both lies."
+- This memo is near 
+	- [[Black Fire - Green]]
+		- ![[Pasted image 20251217105004.png]]
+	- [[White Fire - Green]]
+		- ![[Pasted image 20251217105155.png]]
+- ![[Pasted image 20251217104914.png]]
+- ![[Pasted image 20251217104927.png]]

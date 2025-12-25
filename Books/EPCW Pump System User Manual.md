@@ -1,0 +1,31 @@
+#book 
+- See [[The Pump Room]]
+- What does EPCW stand for? #question 
+- ![[Pasted image 20251209200344.png]]
+	- Pool series 8
+	- The EPCW PUMP SYSTEM is engineered specifically for the luxury requirements of today's indoor in-ground [[The Pool|swimming pool]] and spa. The EPCW system is also expandable allowing you to use multiple pumps to control the water flow and volume to several different designated tanks and aquatic house features, be it an [[The Aquarium|aquarium]], [[The Fountain|fountain]] or good old-fashioned [[The Pool|swimming pool]].
+- ![[Pasted image 20251209200407.png]]
+	- Pictured: Image of pump control panel as seen in [[The Pump Room]]
+		- Water level indicators
+		- Source labels
+		- Selection buttons
+	- Water Control Panel ^b3ee17
+	- Whether you're using a single tank system or an array of pumps, the WATER CONTROL PANEL serves as a central hub to your EPCW system. The panel is fitted with a number of buttons equal to your own home's needs: one button for each different water source on the estate.  
+	- The functon is simple: Press a button to select the water source you would like to adjust. For example, if you wish to drain (or fill) your [[The Pool|pool]], simply press the button labeled "[[The Pool|POOL]]".  
+	- Regardless of the number of pumps or water sources being used, water can only be adjusted from a source if its corresponding button is selected.
+- ![[Pasted image 20251209200411.png]]
+	- The Pump
+	- After you have selected a source using the [[EPCW Pump System User Manual#^b3ee17|WATER CONTROL PANEL]], the next step is to set the pump associated with that source to pump either in or out. This will initiate water flow to/from one of your supply tanks.
+	- Pictured: An example pump, labeled:
+		- To Tank
+		- Pump Lever, Controls water flow direction
+		- To Selected Source
+	- Tank Switch
+	- A pump may be connected to more than one tank allowing you to store and retrieve even more water (recommended for cleaning larger Olympic-size pools).
+	- Pictured: an example switch indicating it can be rotated two ways.
+	- In these cases, the tank a pump is using can be changed by a simple flip of a switch.
+- ![[Pasted image 20251209200416.png]]
+	- Quick Start Guide
+	- 1. Use water control panel to select water source.
+	- 2. Use pump lever to set water flow direction.
+	- Pictured: [[EPCW Pump System User Manual#^b3ee17|control panel]] flowing into a pump, then into a tank.

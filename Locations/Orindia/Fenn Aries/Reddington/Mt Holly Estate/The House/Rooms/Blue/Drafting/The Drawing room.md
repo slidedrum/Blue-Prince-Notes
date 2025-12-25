@@ -1,0 +1,11 @@
+#room/blue #location #room/25 #room/common  #room/drafting #room/gem/1 #room/doors/3 #room/fireplace 
+- ![[Pasted image 20251214043639.png]]
+- When drafting in this room you can re-roll once for free.
+- Contains many drawings of people taking [[steps]] with an arrow underneath showing how big the step is ^2e8f32
+	- ![[Pasted image 20251217063236.png]]
+	- ![[Pasted image 20251217063243.png]]
+	- ![[Pasted image 20251217063248.png]]
+	- ![[Pasted image 20251217063255.png]]
+- If you pull the candlestick shown in the drawing in the center of the room, it reveals one of the [[8 Safes]]
+- "A social sitting room adorned wall to wall with artwork and drawings. An unfinished sketch of [[Baron Herbert.S. Sinclair|your uncle]] sits on an easel in the middle of the room, providing a vivid image of what were presumably his final days (depending on when the project was abandoned)."
+	- This is a hint to the [[8 Safes|safe]] that is hidden in this room.

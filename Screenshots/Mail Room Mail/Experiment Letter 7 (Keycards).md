@@ -1,0 +1,11 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251217144216.png]]
+	- Hey [[Simon P. Jones|Simon]],  
+	- I'm going to assume at this point, you've likely reached the upper [[Rank|ranks]] of the house and run into our [[Keycard Door|keycard security doors]]. These are actually a fairly new addition to the house that were designed by [[Kirk Darren]] and [[Randolph Moore|myself]] and were installed after an unfortunate incident two years ago when some of your [[Baron Herbert.S. Sinclair|Uncle]]'s correspondence was stolen by a [[Denny Revane|member of the staff]] who had somehow managed to reach [[Room 46|a room]] that they should not have been able to find. We're still not 100% sure how he got past [[the antechamber]] seals, but it was clear after that episode, that not every member of the staff should have unchecked access to the higher ranks of the  estate.  
+	- It's important to note here, that in my own experience, I have found every other member of the staff to be extremely trustworthy and unwavering in their loyalty to your [[Baron Herbert.S. Sinclair|uncle]].
+- ![[Pasted image 20251217144220.png]]
+	- Still, after that incident, we decided to err against our own confidences and opted to install a state of  the art security system, issuing [[Security Keycard|keycards]] to only the most trusted members of the senior staff.  
+	- If you find the [[Keycard Door|security doors]] become an annoyance while you are attempting to navigate the house, you should be able to lower their frequency from the [[security terminal]] and there is even a nifty trick to unlock them by utilizing the [[The Utility Closet - Breaker Box|utility closet]] in conjunction with the security settings.  
+	- -[[Randolph Moore|Randolph]]
+	- Pictured: Rarity indicator from [[Keycard Door]].

@@ -1,0 +1,16 @@
+#Events/Major 
+- Sep 2nd.  Year unclear? 87? Took place at 1:30
+- see [[The Safehouse - Royal Station]]
+- I should bring a [[Magnifying glass]] here.
+- Heist crew:
+	- [[Marion Marigold - Mary Matthew Epsen]]
+	- [[Mr. Phillip White]]
+	- [[Farro]] (Who?  #question )
+	- [[Caleb Manning]]
+- ![[Pasted image 20251219134348.png]]
+	- See [[Museum Heist Map]]
+- ![[Pasted image 20251210045640.png]]
+	- See [[The Security Room]]
+	- The "A" is pointing to the camera in [[The Archives]]
+	- It's saying to delete archival footage.
+	- This has been mentioned in a few other places too around the game.

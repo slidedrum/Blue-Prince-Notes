@@ -1,0 +1,12 @@
+#room/blue #location #room/tommorw #Room/Dead-End #room/standard #room/38
+- ![[Pasted image 20251214052019.png]]
+- This room allows you to store one item for any following day
+- You can pick up that item for free
+- You can only store 1 item at a time
+- The stored item will not spawn again until it is out of coat check
+	- Crafted items do not stop their components from spawning.  There might be more to this, but [[Broken Lever]] could still spawn when I have [[Power Hammer]] checked.
+	- One of these is true
+		- [[Broken Lever]] and [[Battery Pack]] always respawn
+		- [[Broken Lever]] and [[Battery Pack]] have more than 1 on the estate
+		- Crafted items don't respawn their "primary item" or some set of items.
+- "A cloakroom where guests may leave their coats, bags or hats in exchange for a claim ticket. This floor plan was usually drafted adjoining the Entrance Hall during larger social events such as a ball or gala."

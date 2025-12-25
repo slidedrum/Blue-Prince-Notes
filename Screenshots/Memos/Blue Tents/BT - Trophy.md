@@ -1,0 +1,1 @@
+- "There were a total of eight gems removed from the [[ruby crown]] of [[Orinda Aries]]"

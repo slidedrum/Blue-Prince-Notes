@@ -1,0 +1,114 @@
+#book #drafting-Strategy 
+- Found in [[The Drafting Studio]]
+- See also: [[Room Colors]]
+- ![[Pasted image 20251209210316.png]]
+	- Drafting Strategy Volume 1: January Issue.  Contents:
+	- [[Drafting Strategy Vol 1#^04358f|The Drafting Spectrum]] - 2
+		- By [[Drafting Strategy Editor|The Editor]]
+	- [[Drafting Strategy Vol 1#^da4e62|Most Violet Dreams]] - 4
+		- Guide to [[Bedroom|Bedrooms]]
+	- [[Drafting Strategy Vol 1#^b28f26|Indoor Verdue]] - 6
+		- Guide to [[Green Room|Green Rooms]]
+	- [[Drafting Strategy Vol 1#^49e3e1|Orange Passage]] - 8
+		- Guide to [[Hallway|Hallways]]
+	- [[Drafting Strategy Vol 1#^151c19|Golden Trim]] - 10
+		- Guide to [[Shop|Shops]]
+	- [[Drafting Strategy Vol 1#^294f93|Negative Space]] - 12
+		- Guide to [[Red Room|Red Rooms]]
+	- [[Drafting Strategy Vol 1#^6b99dd|Prismatic Rooms]] - 14
+		- Guide to [[Prismatic Rooms|Multicolored Floorplans]] 
+	- [[Drafting Strategy Vol 1#^33d142|Word from the Editor]] - 17
+		- By [[Drafting Strategy Editor|The Editor]]
+- ![[Pasted image 20251209210319.png]] ^04358f
+# THE DRAFTING SPECTRUM
+- Blueprints Are More Than Just Blue.  
+- It should come as no surprise that the first color that comes to mind when speaking about blueprints is blue. And while it is true most architectural plans and designs are found on blue paper, it is not the only color on which floorplans are drafted. In fact, originally they were not blue at all. 
+- Hundreds of years ago, the chemicals used create floorplans caused coated paper to turn black when exposed to light. This raven hue, perhaps more fitting to the reign of [[Oris (Town)|Oris]], was decidedly more difficult to affix an architect's revision edits to and so blue was proposed as an ideal replacement as it had no political ties to any other realms. By the fourth era, all floorplans were being printed on blue paper. 
+- Over the years, the fear of political connotation deferred to innovation and the use of colored prints eventually became popular with engineers and architects who used hues as a way to differentiate various types of buildings and rooms. 
+- [[Bedroom|Violetprints]], for example, are only used when creating plans for a bedroom, while an [[Hallway|orange floorplan]] will immediately  inform a contractor that the print contains designs for a hallway. 
+- In this issue of [[Drafting Strategy]], we will explore the different features of each type of floorplan and look at the underlying connections that tie each room to its color.
+- ![[Pasted image 20251209210323.png]] ^da4e62
+# MOST VIOLET DREAMS
+- Architectural Digest's Guide to [[Bedroom|Bedrooms]]
+- The bedroom is often referred to as the "heart of the home" and with good reason. It is the place where people can rest during a long day, where they can kick up their feet for a bit and recharge their batteries. Architects always use violet bordered floorplans for bedrooms and the comforting purple hues encountered while drafting will usually let a weary traveler know they have found a room in which they can rest up.
+- Pictured: [[The Nursery]]
+- Architects may wish to utilize Bedroom strategies if they are the type who love to explore and backtrack frequently. Having an excess of [[steps]] usually affords bedroom enthusiasts the mobility to be more carefree with their plans for the day.
+- Type : Bedrooms  
+- Color : Violet (Purple)  
+- Associated resource : [[steps]]  
+- Average number of doors : 1-2  
+- Extra [[Items]]? : likely  
+- Synergies:  
+	- [[Sleeping Mask]] 
+	- [[The Nursery]] 
+	- [[The Servant's Quarters]]
+- Drawing of [[The Bedroom]]
+- ![[Pasted image 20251209210327.png]] ^b28f26
+# INDOOR VERDURE
+- Architectural Digest's Guide to [[Green Room|Green Rooms]]  
+- [[Green Room|Green Rooms]] are a wonderful way to bring the outdoors inside and provide a breath of fresh air for the home. The abundance of plant life, rich soil and natural resources in these spaces makes them extremely appealing for architects who enjoy gardening and open spaces. These floorplans are extremely synergistic, and strategies centered around green will often involve drafting as many of this color as possible. The more green rooms you are able to draft in your house, the more powerful their effects will become. Additionally, these spaces are more likely than other types of rooms to contain [[Dirt Piles|piles of dirt]] for digging.
+- Pictured: [[The Terrace]]
+- Type: [[Green Room|Green Rooms]]
+- Color: Green
+- Associated Resource: [[Gems]]
+- Average number of doors: 2-3
+- Extra items?: Often
+- Synergies:
+	- [[Green Room|Most green rooms]]
+	- [[Shovel]]
+	- [[Watering Can]]
+- Drawing of [[The Greenhouse]]
+- ![[Pasted image 20251209210332.png]] ^49e3e1
+# ORANGE PASSAGE 
+- Architectural Digest's Guide to [[Hallway|Hallways]]  
+- If the [[Bedroom|bedroom]] is the "heart of the home," then the "arteries," serving as diverging paths that branch out to connect different parts of the house and lead visitors to their intended destination. While these orange corridors are often overlooked as one travels through them, they are a vital component of any house. The numerous doors found in each hall provide the means to add more rooms to your house, and the more hallways you have, the less likely you are to draft yourself into a dead end. Hallway strategies are ideal for the architect who prefers more rooms and flexible options for expansion over pure resources.
+- Pictured: [[The Foyer]]
+- Type: [[Hallway|Hallway]]
+- Color: Orange
+- Associated Resource: [[Keys]]
+- Average number of doors: 3-4
+- Extra Items?: Rarely
+- Synergies:
+	- [[The Foyer]]
+	- [[Lockpick Kit]]
+	- [[Hall Pass]]
+- Drawing of [[The Great Hall]]
+- ![[Pasted image 20251209210337.png]] ^151c19
+# GOLDEN TRIM
+- Architectural Digest's Guide to [[Shop|Shops]]
+- [[Shop|Shops]] are an essential part of any large estate, providing a convenient place for the staff and residents to purchase [[Items]] without having to leave the property. Including at least one of these floorplans in your house will provide you with an outlet for any [[coins]] that are found during the day. Strategies that involve generating lots of [[Coins|gold]] will usually want to draft multiple [[Shop|shop rooms]] to expand the range of shopping opportunities. These bordered with shades of floorplans are gold, enhancing the sense of luxury and refinement in the shopping experience. Whether it's a quick snack or a high-end fashion item, having a well-placed shop within the estate can greatly enhance the quality of life for the entire household.
+- Type: [[Shop|Shops]]
+- Color: Gold
+- Associated Resource: [[Coins|Gold]]
+- Average Number Of Doors: 2
+- Extra Items?: Never for free!
+- Synergies: 
+	- [[Coin Purse]]
+	- [[Coupon book]]
+	- [[The Vault]]
+- Drawing of [[The Bookshop]]
+- ![[Pasted image 20251209210342.png]] ^294f93
+# NEGATIVE SPACE 
+- Architectural Digest's Guide to [[Red Room|Red Rooms]]
+- [[Red Room|Red rooms]] are a daring addition to any home, providing a small element of danger that can excite and thrill both residents and visitors. While these rooms come with a certain level of risk, they also offer the potential for substantial returns, as they provide as many doors as they do opportunities. Architects who are willing to take the plunge and draft a [[Red Room|red room]] are often rewarded with a unique and striking space that leaves a lasting impression on those who enter. Just like in life, taking risks can be intimidating, but those who dare to venture outside their comfort zone can reap the greatest rewards.
+- Pictured: [[The Darkroom]]
+- Type: [[Red Room|Red Rooms]]
+- Color: Red
+- Associated Resource: Vexation
+- Average Number Of Doors: 3-4
+- Extra Items: Seldom
+- Synergies:
+	- [[The Shelter]]
+	- [[Tomato Soup]]
+	- Skilled Players (lol)
+- Drawing of: [[The Chapel]]
+	- In the drawing it names two of the angels. [[Dauja (angel)|Dauja]] and [[Lydia]] (see [[Ajeran Angels]])
+- ![[Pasted image 20251209210347.png]] ^6b99dd
+# PRISMATIC ROOMS
+- Architectural Digest's Guide to [[Prismatic Rooms|Multicolored Floorplans]]
+- You may, on rare occasions, notice some floorplans that have more than one color in their design. These rooms are unique in that they simultaneously share all the characteristics of each type of room associated with those colors. For example, a floorplan with a [[Bedroom|violet]] and [[Shop|gold]] border would be best described as a bedroom shop, while an [[Hallway|orange]] and [[Green Room|green]] one might contain a corridor of greenery and plants. [[The AQUARIUM]] is a very useful, [[Prismatic Rooms|multicolored floorplan]], as it supports all of the color-based strategies listed in this volume. For example, it can give you bonus [[steps]] for having a [[The Nursery|NURSERY]] as well as being unlocked for having a [[The Foyer|FOYER]].
+- Pictured [[The Aquarium]]
+- Pictured [[The Maid's Chamber]] 
+- ![[Pasted image 20251209210353.png]] ^33d142
+# WORD FROM [[Drafting Strategy Editor|THE EDITOR]]  
+- As we reach the end of this volume of "[[Drafting Strategy]]," we hope you have found valuable insights and colorful inspiration for your next architectural project. From the [[Bedroom|purples]] of our dreams to the [[Red Room|reds]] of our fears, we believe that no ambition for an architect is too brave and no design is too colorful. To achieve our goals, we must delve deep into the spectrum, drawing upon all colors and ideas of daring merit.  At the end of the day, color is just another tool. Some wield it to express their own creativity. Some hoist it up as a display of their own power. Some use it to calculate great sums. But all of us want to find a color we can call our own.

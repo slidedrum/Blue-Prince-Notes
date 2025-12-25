@@ -1,0 +1,11 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251213083719.png]]
+	- Simon,  In case it's useful to ya, here's a rough diagram of the [[Vents|STEAM DUCT SYSTEM]]. Due to the ever- changing nature of the rooms on the estate, we ended up building the duct system to be quite flexible and if you look along the ceiling in many rooms you will find many of them have been outfitted with steam ducts. As long as you align these rooms together in an uninterrupted string, power can be transferred from room to room, even if [[the Boiler Room]] and its intended destination are on opposite sides of the house. 
+	- -Randolph
+	- Pictured:
+		- [[The Boiler Room]] in center.
+		- [[The Lab]] on top left.
+		- [[The Garage]] on bottom left.
+		- [[The Pump Room]] on top right.
+		- [[The Laundry Room]] on bottom right.

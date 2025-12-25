@@ -1,0 +1,3 @@
+- "All boxes marked by 'sun' Contain memos that are true."
+- ![[Pasted image 20251217110459.png]]
+- ![[Pasted image 20251217110504.png]]

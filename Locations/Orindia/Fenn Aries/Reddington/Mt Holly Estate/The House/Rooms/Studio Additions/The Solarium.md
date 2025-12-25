@@ -1,0 +1,13 @@
+#room/green #Room/Dead-End #location #room/addition #room/standard #room/gem/1 
+- ![[Pasted image 20251215230016.png]]
+- Found in [[The Drafting Studio]]
+- Contains 1 [[Mora Jai Puzzle Boxes]]
+- ![[Pasted image 20251215230039.png]]
+	- [[Robert Nogula|Mr Nogula]], 
+	- [[Mrs Anne Babbage|anne]] wanted me to remind you (once again) that it is expected of you to keep the grass in [[The Cloister]] cut and the trees trimmed.  
+	- I have a feeling you may have forgotten how to open [[the cloister]] wall again, so to save you some stern words, i decided to draw you a little diagram to help you out. Who knows, maybe this time it will stick!  
+	- Sympathetically, [[Bridgette]]
+- ![[Pasted image 20251215230046.png]]
+	- [[The Cloister|Cloister]] Grounds access
+	- While face-to-face with the angel, presa the face of the two pillars on either side of you.
+- "A quaint floral sitting room surrounded entirely by tinted glass panes. The Solarium is ideal for tea in the afternoons or getting some sun without the hassle of going outside."

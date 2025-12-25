@@ -1,0 +1,3 @@
+- Found in a blue moon chest
+- Blue Boxes marked by fire, contain false statements.
+- ![[Pasted image 20251218161159.png]]

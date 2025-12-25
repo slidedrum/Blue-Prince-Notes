@@ -1,0 +1,12 @@
+#location #not-visitable #realm 
+- The Core: Door
+- Transportation: Train
+- Weather: Foggy
+- Motes: Metropolitan 
+- Color: Black
+- [[Sanctum Door 1]]
+- Before [[The War Of The Fifth Era]] [[Reddington]] was the capital. (as seen in [[A Sightseer's Guide To Reddington]]) 
+- [[fourth king of Orindia]] gave this land to his eldest son wo named it Orinda Ares (not to be confused with [[Orindia]])
+- Now called [[Fenn Aries]]
+- After [[The War Of The Fifth Era]] most black sigils were destroyed.  According to [[Mora Jai Puzzle Boxes#^9ca4d8]]
+- The crown of royalty was moved to [[The Royal Museum of Fenn]] after [[The War Of The Fifth Era]].  and the [[Museum Heist]] is motivated by taking back the crown.

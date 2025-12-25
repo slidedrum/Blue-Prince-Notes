@@ -1,0 +1,20 @@
+#location #room/blue #location #room/27 #room/drafting #Room/unusual #room/doors/2/corner 
+- ![[Pasted image 20251214044009.png]]
+- [[BT Library]]
+- Allows you to check out and read books
+- Also shows game stats upstairs
+- When drafting in this room, rare rooms are more common
+- The only place to draft [[The Bookshop]]
+- I have upgraded my [[The Nook]] such that when drafting from it, I will always draw this room.
+- Stamp collection:
+	- ![[Pasted image 20251220162321.png]]
+		- Stamps for: ^9712c6
+			- [[Eraja]]
+			- [[Orinda Aries]]
+			- [[Arch Aries]]
+			- [[Verra]]
+			- [[Mora Jai]]
+			- [[Nuance]]
+			- [[Fenn Aries]]
+			- [[Moraven]]
+- "Two stories of wall-to-wall books surround the reader in this room, exhibiting either a bountiful spring of knowledge or typical interior design sensibilities of the wealthy. A few books have been withdrawn from the shelves and placed on rostrum stands in various corners of the library."

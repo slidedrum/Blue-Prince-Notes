@@ -1,0 +1,42 @@
+#room/blue  #location #room/tommorw #Room/Dead-End #room/addition #Room/unusual 
+- ![[Pasted image 20251214065010.png]]
+- Tomorrow you will start with one [[Keys|key]] for every time room you draft today.
+- ![[Pasted image 20251213065232.png]]
+	- Southward I see a swan, ashen like sands of the shore, Carried by westwardly winds, Roque like the moon of the north. Eastward I see a crow, Dark are the days coming fourth.
+	- Symbol of [[Orinda Aries]] 
+- ![[Pasted image 20251213065237.png]]
+	- Has part of the [[Sanctum Realm Sigils]] for [[Eraja]]
+- Spawned with a [[Stopwatch]] item.  Is this guaranteed? #question 
+- One of the clock faces is stuck at 1:30.  The same time as the stuck clocks in [[Room 46]] ^cdcc4b
+- If I look out one of the windows, I can see a [[moon pendant]]
+	- ![[Pasted image 20251215195242.png]]
+- ![[Pasted image 20251214082751.png]]
+- If you wait until 1:30 a secret door opens on the bottom floor. inside there is a room with a shitload of clocks with notes on them ^fe5215
+	- ![[Pasted image 20251215195446.png]]
+	- From left to right:
+	- ![[Pasted image 20251215195526.png]]
+	- ![[Pasted image 20251215195544.png]]
+	- ![[Pasted image 20251215195558.png]]
+	- ![[Pasted image 20251215195609.png]]
+	- ![[Pasted image 20251215195620.png]]
+	- ![[Pasted image 20251215195642.png]]
+	- ![[Pasted image 20251215195653.png]]
+	- ![[Pasted image 20251215195712.png]]
+	- All different times
+	- 5 clocks end in :00
+	- Clock number three has two of the same digits.
+	- Clock number three and clock number five contain a 7
+	- Clock number five ends in :00
+	- No clock has numbers 1-4
+	- Clock number seven shares digits with another clock, but in reverse order.
+	- From left to right, times get later in the day
+	- 1 - 5:00
+	- 2 - 5:08
+	- 3 - 5:5==7==
+	- 4 - 6:00
+	- 5 - ==7:00==
+	- 6 -  ==8:00==
+	- 7 - 8:05
+	- 8 - ==9:00==
+- ![[Pasted image 20251215212721.png]]
+- "Access to Mt. Holly's Clock Tower has always been heavily restricted. Which might explain why maintenance has been unable to mend the perpetually halted clock face, a testament to the unchanging winds of the sacred hour."

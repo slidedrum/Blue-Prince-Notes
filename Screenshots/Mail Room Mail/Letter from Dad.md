@@ -1,0 +1,17 @@
+- This was found in [[The Mail Room]]
+- I am not sure if this is from an experiment or if this was always there.  I think it was always there?
+- ![[Pasted image 20251210062744.png]]
+	- From: [[Daniel (Dad)]], 1809 Alice Dr.  [[Fenn Aries]] 63022
+- ![[Pasted image 20251210062748.png]]
+	- Hey [[Simon P. Jones|buddy]], 
+	- How's it going up there in that big house? I think most people would be pretty scared being alone for this length of time, but I have a feeling you're doing just fine. I imagine you happy as a cam, perfectly content on the estate with the exploration and opportunities for adventure that present themselves each day. 
+	- As I'm writing this, you're currently in the garage packing the tent. I wanted to try to post this letter before we depart tomorrow so that it has a chance to arrive during your first few days on the estate, but with all the preparations, I'm not sure that I'm going to find the time.
+- ![[Pasted image 20251210062755.png]]
+	- There's so much I want To say, and I'm sure I'll forget to tell you Friday night. Sometimes it's easier for me to just jot this stuff down.  
+	- You're yelling at me right now to come bring you a pillowcase! Hold on a second - Ill be right back ...  
+	- I can tell you're really excited, but I think you might feel a little guilty about being so happy the day after the funeral. Believe me, I know how long [[Baron Herbert.S. Sinclair|Uncle Herbert]] worked on setting this up for you. And I know from our conversations just how much happiness this final project brought him. So do both of us a favor. Be excited.
+- ![[Pasted image 20251210062800.png]]
+	- The house really is amazing. I know it's been almost seven years since we were l last up there, and I'm really curious to hear just how much you remember from those summer trips.  
+	- You've always been smarter than me at this kind of thing, so I'm not sure how much guidance or inspiration I can offer before your trip that will actually be useful to you. Despite my best intentions, I'm sure that on Friday, I'll end up leaving you with a few of my overused cliché expressions when we say farewell.  
+	- Later Alligator, [[Daniel (Dad)|Dad]]  
+	- ps. get some sleep each night and don't spend all your time each day playing [[Dirigiblocks]]!

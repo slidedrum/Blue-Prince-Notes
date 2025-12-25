@@ -1,0 +1,4 @@
+- "The sanctum key is in a black box."
+- This is false.  the [[Sanctum Key]] was in [[Black Moon - Sanctum Blue]]
+- ![[Pasted image 20251217111005.png]]
+- ![[Pasted image 20251217111010.png]]

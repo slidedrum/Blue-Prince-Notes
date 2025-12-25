@@ -1,0 +1,3 @@
+- Found in a red moon chest
+- "You have seen all the memos that appear in this room."
+- ![[Pasted image 20251218214707.png]]

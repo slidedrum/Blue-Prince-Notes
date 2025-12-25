@@ -1,0 +1,13 @@
+#person 
+- Might be a Pseudonym for whoever has the "LeeB" delisted admin key for [[The Black Bridge Grotto]].  Might be their own person?  
+- Mentioned in [[A New Clue]] suspects. This is the suspect that was the solution to that puzzle.
+- I THINK this is [[Denny Revane]].  Supporting evidence:
+	- On 2/10/87 LeeB and 2 others were added as admins. This is before [[Denny Revane]] was [[The Hovel#^2fa485|fired]].
+	- On 8/26/87 all 3 admin keys were deleted by [[Bo Lee|LeeB]]
+	- The [[Thoughts on Black Bridge Admin Logs]] say they were "taking care of" [[Marion Marigold - Mary Matthew Epsen]]
+	- [[Denny Revane]] was already known to be doing shady stuff, like stealing the [[Red Letters]]
+	- When he was fired, RevaD admin key was deactivated.
+- On the other hand, maybe it's someone else?
+	- In one of the [[BlackBridge Admin Logs#^ebc147|admin logs]] [[ProvC]] says that [[Marion Marigold - Mary Matthew Epsen]] saw [[Bo Lee|LeeB]] and [[HounU]] has a plan to take care of her.
+	- If it was [[Denny Revane]] this was many years before he got fired, so [[Marion Marigold - Mary Matthew Epsen]] wouldn't even care about seeing him around the estate.
+- So it's someone who has access to the estate and their computers, but probably not someone who is supposed to be there.

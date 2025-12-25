@@ -1,0 +1,2 @@
+![[Pasted image 20251222091029.png]]
+The DIRECTORY contains detailed information for all rooms on the estate that you have drafted.  You may access the Directory at any time from the SYSTEM MENU or by pressing \[R\].

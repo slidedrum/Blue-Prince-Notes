@@ -1,0 +1,9 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251210084950.png]]
+	- Hey [[Simon P. Jones|Simon]],  
+	- It's [[Randolph Moore|Randolph]] again. In my [[Experiment Letter 1 (Randolph Intro)|last letter]], I mentioned the [[terminal]] network but it completely slipped my mind to give you the network password so that you can log into it.  
+	- Even with all off site connections disabled, you should still be able to use the local network to access different house-based functions from any [[Terminal]] regardless of where it is located on the estate which you will likely find very useful.  
+	- THE NETWORK PASSWORD IS - SWANSONG  
+	- Happy hunting, 
+	- [[Randolph Moore|Randolph]]

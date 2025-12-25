@@ -1,0 +1,8 @@
+- [[Marion Marigold - Mary Matthew Epsen]] disappeared on Feb 21st 87.  
+- In [[Archive Newspapers#^ea3bcb]]
+- [[Baron Herbert.S. Sinclair]] claims he [[Freezer chest#^aa556e|had nothing to do with it]]
+- [[Red Letter 4 (Dad)#^b5a36d]] says he knows something.
+- In [[BlackBridge Terminal]] [[BlackBridge Admin Logs|admin logs]] they talk about "[[BlackBridge Admin Logs#^d61efa|taking care of her]]"
+- She was hiding in [[The Safehouse - Royal Station]] for [[Museum Heist#^454fef|6 months]]
+- She was also (probably) hiding in [[The Shelter#^fea0ad]] and [[Shelter Email#^ba4327]]
+	- Though one of these mentions 4 people, the other mentions 3.  What's up with that? #question 

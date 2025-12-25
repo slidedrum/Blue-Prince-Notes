@@ -1,0 +1,3 @@
+- Found in a black sun box
+- "Handwritten green memos are always false, but would be true if you changed one color in the text."
+- ![[Pasted image 20251220112404.png]]

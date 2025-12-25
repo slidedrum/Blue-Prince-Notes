@@ -1,0 +1,11 @@
+#room/blue #location #room/26 #room/drafting #Room/Dead-End #Room/unusual 
+- ![[Pasted image 20251214043834.png]]
+- When drafting, you can spend [[Gems]] to reroll up to 8 times.  Does that mean per draft or in total?  #question 
+- This room has most of the hints for the [[Drawing Puzzle]]
+- ![[Pasted image 20251210053947.png]]
+- ![[Pasted image 20251213025030.png]]
+	- I don't know if it's possible with so little time left, but I need to remember do ask [[Mrs Anne Babbage|anne]] if we can commission new artwork for all the rooms of the house.  We need them produced in sets of two (a pair for each room). Honestly, I have no idea what I'm thinking. I'm likely delusional lo think this even be pulled off by Thursday.
+- ![[Pasted image 20251210053951.png]]![[Pasted image 20251210053955.png]]![[Pasted image 20251210053958.png]]![[Pasted image 20251210054005.png]]
+	- This was a hint to the [[8 Safes]] in this room.
+	- It had [[Red Letter 2 (Caleb)]] and unlocked the [[The Closed Exhibit]]
+- "After the passing of the [[Baroness Auravei]], her private study was claimed by her eldest son, [[Baron Herbert.S. Sinclair|Herbert Sinclair]]. For years, he immersed himself in the countless notebooks she left behind, drawing inspiration from her discarded ideas. From mechanical puzzles to architectural blueprints, each endeavor he pursued in this room was realized in the shade of her creative legacy." ^b745ec

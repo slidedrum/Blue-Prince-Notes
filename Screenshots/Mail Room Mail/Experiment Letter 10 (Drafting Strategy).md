@@ -1,0 +1,11 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251218175857.png]]
+	- Greetings [[Simon P. Jones|Simon]], Hope all is going well on the estate, I was discussing my communications with you with another fellow technician, [[Kimberly Thompson]], and she suggested I disclose to you the locations of the [[Drafting Strategy]] issues she's personally found on the  estate.  
+	- [[Drafting Strategy Vol 1|Issue I]]: [[The Dormitory|Dormitory]] 
+	- [[Drafting Strategy Vol 1|Issue II]]: [[The Drafting Studio|Drafting Studio]]  
+	- [[Drafting Strategy Vol 1|Issue III]]: [[The Library|Library]]
+	- [[Drafting Strategy Vol 1|Issue IV]]: [[The Bookshop|Bookshop]]
+	- [[Drafting Strategy Vol 1|Issue V]]: [[The Bookshop|Bookshop]]
+	- The above list is according to her, so I can't personally vouch that these are accurate. 
+	- -[[Randolph Moore|Randolph]]

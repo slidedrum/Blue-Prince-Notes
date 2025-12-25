@@ -1,0 +1,18 @@
+#room/purple #location #Room/Dead-End #room/upgraded #Room/unusual 
+- ![[Pasted image 20251214055124.png]]
+- This room counts as two bedrooms
+	- Not only does it count as two bedrooms, but all types are duplicated, including #room/purple #Room/Dead-End #room/upgraded 
+- After upgrade: If you have exactly 2 shops, double your money.
+- According to [[Her Ladyship's Sleep Diary#^737b04]] If I [[Call it a day]] in this room, I will start [[Tomorrow]] with double my steps!  Along with [[Sleep in bunk room, then go to tomb|something]] in [[The Tomb]]?
+- it seems to be the old bedroom of two siblings ([[Simon H. Sinclair]] and [[Baron Herbert.S. Sinclair]]) 
+- ![[Pasted image 20251213031714.png]]
+- ![[Pasted image 20251213032028.png]]
+	- The camp is called "Camp Colonel"
+- There is a old journal with writing from [[Baron Herbert.S. Sinclair]] and [[Simon H. Sinclair]] as children, it's very cute
+	- ![[Pasted image 20251210043456.png]]
+	- ![[Pasted image 20251213031253.png]]
+	- ![[Pasted image 20251213031257.png]]
+	- ![[Pasted image 20251213031300.png]]
+	- ![[Pasted image 20251213031304.png]]
+	- ![[Pasted image 20251213031309.png]]
+- "The rustic, wooden stacked bunk beds evoke the enticing promise of campfire stories and childhood adventures. This bedroom served as pillowfort and bedroom to the young Sinclair boys, and has remained faithfully unchanged over the years."

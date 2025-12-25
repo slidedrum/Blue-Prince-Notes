@@ -1,0 +1,16 @@
+#location #not-visitable #realm 
+- The Core: Hourglass
+- Transportation: Trains
+- Weather: Rain
+- Motes: Poetic
+- Color: Violet
+- [[Sanctum Door 4]]
+- Owned by the only daughter of the [[fourth king of Orindia]] (see [[History Of Orindia (First Edition)#^a2d99e]])
+- Has their own language [[Erajan]] according to [[The Rotundra#^d4bc0e|the rotunda description]]
+- This is where the real [[The Great Alzara]] was from (see [[BT Rumpus]])
+- Traditionally they keep their mother's last name. 
+	- This explains why [[Marion Marigold - Mary Matthew Epsen]] took her mother's last name.
+- [[Lady Clara Epsen]] grew up here.
+- After [[The War Of The Fifth Era]] this is where the [[Desilets|old guard royals]] fled to. (see [[Locked Archive Newspapers#^95d532]])
+	- They got asylum status.  and as of the railroad's destruction, [[Fenn Aries]] wants that status revoked. [[Locked Archive Newspapers#^5808ca]]
+- Relied on rail travel until they were dismantled after [[The War Of The Fifth Era]]

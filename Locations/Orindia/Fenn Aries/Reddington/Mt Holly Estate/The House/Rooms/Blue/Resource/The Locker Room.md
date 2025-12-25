@@ -1,0 +1,16 @@
+#room/blue #room/resource #location #room/16 #room/gem/1 #room/spread #room/addition #room/rare
+- ![[Pasted image 20251214042045.png]]
+- When you draft this room, spread keys around your house
+- There are many locked lockers in this room, most of them contain similar resources to chests
+- In one of the lockers I found these notes.  It seems to change, as I opened all lockers and didn't see previous notes.
+	- ![[Pasted image 20251210093832.png]]
+		- Probably written by [[Denny Revane]] while looking for [[Room 46]]
+	- ![[Pasted image 20251222121821.png]]
+		- See [[Letters puzzle]] ^8c24f3
+	- ![[Pasted image 20251222122518.png]]
+		- [[Kirk Darren]] is a pseudonym.
+		- According to [[BT - Lockers]] this is a lie.
+	- ![[Pasted image 20251222122526.png]]
+		- The memo next to this is a lie.
+		- See [[BT - Lockers]]
+- "This [[The Pool|poolside]] Locker Room is of course not always poolside, but it is much more convenient for guests when it is; and much less annoying for the servant who must follow the dripping swimmer across the house searching for their locker."

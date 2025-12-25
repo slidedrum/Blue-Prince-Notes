@@ -1,0 +1,44 @@
+#room/8 #location #room/blue #no-leads 
+- This room is unlocked after completing  [[The Gallery]] puzzle.  it gives you the room 8 key.
+- Hubris: Monkey
+- Envy: Lion
+- Lust: Swan
+- Wrath: Elephant
+- Gluttony: Penguin
+- Sloth: Bear
+- Avarice: Rabbit
+- Mundanity:  Dog
+
+- Penguin: "The sum of my sin as it is penned is a number within the room we are in"
+	- This sin has 8 letters?
+		- ==Gluttony==
+- Swan: I recommend you think again if I am ever in a bin far from the fin
+	- Must be in a bin near the fin
+		- ~~Hubris~~
+		- ~~Envy~~
+		- ==Lust==
+- Dog: You won't find my bin in between sin for I deserve to bin a bin on the end.
+	- A bin on either side
+		- ~~Hubris~~
+		- ==Mundanity==
+- Rabbit: I share a trend with my neighbor's sin a letter and it's twin appear on each bin
+	- has double letters like it's neighbor
+		- ~~muNdaNity~~
+		- ==AvArice==
+- Bear: if we spend a min or ten lounging in the den you'll know which bin I'm often in
+	- He's a lazy bitch
+		- ==Sloth==
+- Monkey: The bin I tend to wind up in is near the bend in the tail of the skin
+	- Near the tail of the rug
+		- ==Hubris==
+- Lion: To first begin place me within a bin with an "N" within it's sin
+	- The sin has the letter N
+		- ==Envy==
+		- ~~Gluttony~~
+		- ~~Mundanity~~
+- Elephant: To my chagrin my neighbor's sin is written thin to fit it all in.
+	- It's next to A long word (Mundanity, Avarice, Gluttony)
+		- ~~Avarice~~
+		- ~~Mundanity~~
+		- ~~Sloth~~
+		- ==Wrath==

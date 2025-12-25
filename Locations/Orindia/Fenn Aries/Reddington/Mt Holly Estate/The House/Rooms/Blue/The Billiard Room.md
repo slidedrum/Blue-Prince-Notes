@@ -1,0 +1,13 @@
+#room/6 #location  #room/blue #room/common  #room/Puzzle #room/resource #room/doors/2/corner 
+- ![[Pasted image 20251214040930.png]]
+- See [[Grade 2 (Math)|Math classroom]] and [[Grade 7 (Algerbra)]]
+- This room has a dartboard puzzle that gives at least one [[special key]].  and usually a normal key
+- The colors on the dartboard represent different math operations
+	- Blue is Addition
+	- Yellow is Subtraction
+	- Pink is Multiplication
+	- Purple is Division
+- Order of operations are inside out
+- If the center is a colored square, you multiply ALL numbers of that color by itself before moving on.
+- There is also a squiggly sign that can show up, that means round (upward bias).  One squiggle means round to the first digit, 2 means round to the 2nd digit, and so on.
+- "This smoky backroom, featuring a pool table and fully stocked bar, has served as a retreat on more than one occasion for guests lacking the social wit required for after-dinner conversation. A rather curious game of darts provided the less competitive players a unique opportunity to ponder over its unusual rules."

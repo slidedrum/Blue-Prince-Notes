@@ -1,0 +1,3 @@
+- "There are six [[permanent additions]]."
+- Found under some junk on the left.
+- ![[Pasted image 20251224222752.png]]

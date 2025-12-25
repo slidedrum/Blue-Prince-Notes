@@ -1,0 +1,3 @@
+- "The box containing allowance tokens is marked by 'moon'"
+- ![[Pasted image 20251217105258.png]]
+- ![[Pasted image 20251217105302.png]]

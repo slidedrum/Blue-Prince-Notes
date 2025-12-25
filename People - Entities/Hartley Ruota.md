@@ -1,0 +1,11 @@
+#person 
+- One of the servants in the manor. The Valet
+- mentioned in [[The Servant's Quarters]] letter from [[Baron Herbert.S. Sinclair]]
+- Likes gambling see page on [[The Servant's Quarters]] in [[Her Ladyship's Sleep Diary#^86399d]]
+- Got a [[Lake House in Trinsdale]] from [[Baron Herbert.S. Sinclair]] when he passed.  Likely by [[Trinsdale Lake]]
+- Sleeps in [[The Servant's Quarters]]
+- [[Randolph Moore]] wrote them a [[The Servant's Quarters#^c5f8ac|note]] found in a bucket in the [[The Servant's Quarters]]
+- Overseeing network militance while [[Randolph Moore]] is gone for a few weeks.
+- According to a picture of a memo in the lit up [[The Darkroom#^d76f31]] all green memos in [[The Servant's Quarters|his room]] are false.
+- According to a [[The Servant's Quarters#^ff80df|note]] in [[The Servant's Quarters]], he was temporarily taking over [[Randolph Moore]]'s sys admin position while he was away.
+	- That's why his [[BlackBridge Terminal|black bridge]] admin password was removed.  It was never intended to be permanent. 

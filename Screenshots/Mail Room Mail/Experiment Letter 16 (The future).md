@@ -1,0 +1,7 @@
+- This was found in [[The Mail Room]] after a [[Lab Experiments]]
+- From [[Randolph Moore]]
+- ![[Pasted image 20251219174717.png]]
+	- [[Simon P. Jones|Simon]],  
+	- I'm honestly very impressed with the number of [[Lab Experiments|experiments]] you've been successful in executing. I certainly wasn't expecting to write this many letters when I started our correspondence! Frankly, I'm not quite sure what other advice I can offer in the blind without knowing directly what the challenges are you currently face on the estate. For all I know, you've long since reached [[Room 46]] and are just continuing your unaccompanied exploration, stag, happy and free of the maids and staff crowding the halls and getting in your way. I can't say I blame you and I'm sure the other members of the household are quite enjoying their extended vacation.  
+	- Speaking strictly for myself, however, I can not wait to get back and begin working with you directly. Helping you through these letters has only whetted my imagination and to be candid, our collaboration in this correspondence has reminded me so much of working with [[Marion Marigold - Mary Matthew Epsen|Mary]]. I know she's proud of you.  Until the day I return, 
+	- Randolph

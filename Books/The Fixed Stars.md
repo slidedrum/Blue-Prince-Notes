@@ -1,0 +1,48 @@
+The stargazer's companion to constellations.
+- Written by [[Richard Witt]]
+- Published by [[Bird & sons publishing]]
+- Published in [[Fenn Aries]] 1809
+- Checked out by:
+	- [[Lady Clara Epsen]] Jan 9th 1961
+- See [[Star Schedule]]
+- ![[Pasted image 20251217084528.png]]
+	- The Fixed Stars
+	- The Stargazers Companion to
+	- Constellations.
+	- By [[Richard Witt]]
+	- [[Fenn Aries]]
+	- Published by [[Bird & sons publishing]]
+	- 1809
+- ![[Pasted image 20251220202828.png]]
+	- PREFACE  
+	- This book contains a complete star base, a list of constellations and the observed effects that accompany the appearance of each one.  
+	- Depending on the number of stars that can be seen in the sky on any given day, different constellations of various sizes may be visible (sometimes more than one on a single day!)  
+	- This book, a solid base for astronomy, will help you easily identify these constellations, impress your friends and discover the joy of stargazing.
+- ![[Pasted image 20251217084603.png]]
+	- North Star
+	- +1 [[Gold (Coins)|gold]]
+- ![[Pasted image 20251217084616.png]]
+	- The Twins
+	- Two trunks have been added to [[The Entrance Hall]]
+	- The Slice +3 [[steps]]
+- ![[Pasted image 20251217084628.png]]
+	- Diamondus Minor
+	- +1 [[Gems]]
+	- The Southern Cross
+	- Rooms with four doors are more common today.
+- ![[Pasted image 20251217084632.png]]
+	- Farmer's Apple
+	- Apples are extra delicious today
+	- Clavis, the Key
+	- +1 [[Keys]]
+- ![[Pasted image 20251217084635.png]]
+	- Diamondus Major
+	- +5 [[Gems]]
+	- Draxus, the Dead
+		- This is one of the [[Ajeran Angels]]
+	- Dead End rooms are more common today
+- ![[Pasted image 20251217084640.png]]
+	- The Sail
+	- Everything is 50% off today
+	- Florealis, Bloom of the Sky
+	- [[Green Room|Green Rooms]] are more likely to contain [[The Original Gardener's Logbook#^65cdc8|special "flowers"]] today.

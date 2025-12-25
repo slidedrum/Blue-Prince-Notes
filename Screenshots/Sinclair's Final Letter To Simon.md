@@ -1,0 +1,22 @@
+6- From [[Baron Herbert.S. Sinclair]]
+- to [[Simon P. Jones]]
+- Located in [[The Tomb]]
+- ![[Pasted image 20251210070801.png]]
+	- open only in the event of my death
+- ![[Pasted image 20251210070805.png]]
+	- Simon, 
+	- So here's where it all ends. al least for me.  
+	- and of all the picturesque places of this grand estate, I chose this dreary dank dungeon do be laid to rest ... and that same dim somber fate fell upon my father and his father before him who loved the outdoors even more than myself. They say there is no stronger bond of servilude than tradilion. and family tradition? Thrice as strong. These are chains that seldom bend and never break.  
+	- and I do wonder what plans and prospects of yours will be sacrificed upon the family font of convention. What biography of your own will you forsake do add another page do your father's memories, or your mother's or mine.
+- ![[Pasted image 20251210070809.png]]
+	- In our youth, we are gifted with dreams and ambitions. at our death, we are left with realities and regrets.  
+	- I think there is no greater sin than to perpetuate tradition that stagnates growth, that strangles purpose, that suffocates dreams. What point is there do live another's life al the sake of our own?  
+	- Oh, how I wish do have been buried underneath the great oak, overlooking the plains, the wondrous woods and the worldly mountains. and the wild holly that surrounds that trunk, a perpetual token of sympathy laid across my grave. What dreadful tradition is il that dumped me in this sunless hollow?
+- ![[Pasted image 20251210070818.png]]
+	- and if by morbid example this dark crypt makes any impression whatsoever on you. If reading this letter within these damp halls planted in you a seed of hope. If these words might grant you strength to bend if not break these chains ....  
+	- Then would I cherish this tomb more than oak, and sycamore and spruce. More than the wondrous woods and worldly mountains. This cold stone room would become the most cherished place in all our domain.  
+	- I would have you raise a shrine upon this spot do commemorate the moment of your liberty. To treat this sepulcher as hallowed ground. To realize that grand gestures can be as effective as they are theatric.
+- ![[Pasted image 20251210070822.png]]
+	- and do, in turn, as recompense for the freedom thus granted you, commit yourself to be buried here. Here, within this mausoleum of dreams, and when the day comes do write your own letter, do inspire the next generation that follows in our footsteps.
+	- As is tradition,
+	- [[Baron Herbert.S. Sinclair|Herbert S. Sinclair]]

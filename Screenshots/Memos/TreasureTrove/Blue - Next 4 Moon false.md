@@ -1,0 +1,4 @@
+- Found in a Blue Sun chest
+- "The next four boxes marked by moon contain false statements."
+- ![[Pasted image 20251219151643.png]]
+- 

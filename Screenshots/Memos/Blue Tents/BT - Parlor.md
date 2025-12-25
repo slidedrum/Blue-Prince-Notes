@@ -1,0 +1,4 @@
+- "The gems are in the white box."
+- I assume this is always true.
+- Found in the far side of the room on the floor.
+- ![[Pasted image 20251224212353.png]]

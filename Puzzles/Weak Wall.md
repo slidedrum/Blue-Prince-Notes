@@ -1,0 +1,13 @@
+#puzzle #Puzzle/solved  #game-mecanic 
+- A wall that looks like it can be destroyed somehow
+- You can use the [[Power Hammer]] to break these walls
+	- south wall of the [[The Basement]] 
+		- This leads to [[The Sealed Entrance]]
+	- the [[The Secret Garden]]
+		-  leads to a 3rd valve that allows you to get more levers for [[The Antechamber]]
+	- in [[The Greenhouse]] 
+		- shows a hidden room with [[The Original Gardener's Logbook]] and turns it into a 2 door room.
+	- in [[The Weight Room]]
+		- it reveals a southern lever for [[The Antechamber]] and part of the ripped [[Underground Map]] 
+	- in [[The Precipice]]
+		- It revealed the [[Letters puzzle]]

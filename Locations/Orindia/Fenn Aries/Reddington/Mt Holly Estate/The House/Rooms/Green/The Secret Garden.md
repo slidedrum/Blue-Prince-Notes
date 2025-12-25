@@ -1,0 +1,18 @@
+#room/Puzzle #room/green #Puzzle/solved  #location #room/spread #room/rare #room/doors/3 
+- ![[Pasted image 20251214062003.png]]
+- Like most [[Green Room]] this can only be drafted on the east or we wing of the house.
+- It will spawn if you use the [[Secret Garden Key]] on a locked door on one of the outer wings of the house
+	- I think this is the ONLY way to spawn this room.
+- It contains the [[Secret Garden Compass Puzzle]]
+	- Once solved opens the western door of [[The Antechamber]]
+	- Reveals a moon statue that matches the necklace of [[Marion Marigold - Mary Matthew Epsen]]
+- There is a [[Weak Wall]] on the south side.  I can likely break it with a [[Power Hammer]].
+	- I should try to do this on the east side of the house and maybe gain access to the east yard?
+	- ![[Pasted image 20251210073712.png]]
+- Turning the levers changes what's show in the alcove ^5fb1ca
+	- When all arrows face south: Shows the [[Sanctum Realm Sigils]] for [[Orinda Aries]].  ![[Pasted image 20251214103343.png]] ^3a6408
+	- When all arrows face north:![[Pasted image 20251214103545.png]]
+	- When all arrows face: Waste, shows eastern lever
+	- When all arrows face: West, shows western lever
+	- Are there any other combinations?  probably not?
+- "A floorplan so secretive it had been removed from the drafting pool to avoid anyone unwanted accidentally stumbling upon it. This secluded garden, flanked by a variety of [[Mora Jai]] fruit trees, has served as a private retreat to at least two other generations of [[sinclair family|Sinclairs]]." ^1f1ed1

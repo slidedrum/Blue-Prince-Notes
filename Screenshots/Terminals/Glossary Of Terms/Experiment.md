@@ -1,0 +1,2 @@
+![[Pasted image 20251222093139.png]]
+From the terminal located in the LABORATORY, scientists and technicians can create experimental house features by selecting a "trigger" and an "effect".  This experimental feature will last until the end of the day.

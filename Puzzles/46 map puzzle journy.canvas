@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"2cf9a1fd753332a4","type":"file","file":"Locations/Orindia/Fenn Aries/Fenn Aries.md","x":0,"y":640,"width":400,"height":109},
+		{"id":"b45004836e21c147","type":"file","file":"Locations/Orindia/Arch Aries.md","x":0,"y":-160,"width":400,"height":109},
+		{"id":"bdc291747e99a6ac","type":"file","file":"Locations/Orindia/Eraja/Eraja.md","x":0,"y":-300,"width":400,"height":109},
+		{"id":"4f44c3540d20ebb3","type":"file","file":"Locations/Orindia/Orinda Aries.md","x":0,"y":-440,"width":400,"height":109},
+		{"id":"1459359ab99b06ca","type":"file","file":"Locations/Orindia/Nuance.md","x":0,"y":479,"width":400,"height":109},
+		{"id":"bfd234abfc0a3314","type":"file","file":"Locations/Moraven/Verra.md","x":0,"y":139,"width":400,"height":109},
+		{"id":"ab4a079f8201eed3","type":"file","file":"Locations/Moraven/Mora Jai.md","x":0,"y":-20,"width":400,"height":111},
+		{"id":"592c2176f79b2eef","type":"file","file":"Locations/Moraven/Corarica.md","x":0,"y":299,"width":400,"height":109}
+	],
+	"edges":[
+		{"id":"536c45e032c6d363","fromNode":"bfd234abfc0a3314","fromSide":"bottom","toNode":"592c2176f79b2eef","toSide":"top"},
+		{"id":"2f957a4cac2fa49c","fromNode":"ab4a079f8201eed3","fromSide":"bottom","toNode":"bfd234abfc0a3314","toSide":"top"},
+		{"id":"c74ce6d11b50cf9d","fromNode":"bdc291747e99a6ac","fromSide":"bottom","toNode":"b45004836e21c147","toSide":"top"},
+		{"id":"007beb278223b705","fromNode":"1459359ab99b06ca","fromSide":"bottom","toNode":"2cf9a1fd753332a4","toSide":"top"}
+	]
+}

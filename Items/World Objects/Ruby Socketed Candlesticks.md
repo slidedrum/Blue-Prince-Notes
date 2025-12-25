@@ -1,0 +1,6 @@
+- Can be lit by [[Burning Glass]] or [[Self Igniting Torch]]
+- found in [[The Chapel]] to unlock the [[The Keeper of Tithes]]
+- Found in [[The Torch Chamber]] to unlock a shortcut to [[The Precipice]]
+- Found in [[The Crate Tunnel]] to unlock [[The Tunnel]] and a log from [[The Foreman]]
+- Found in [[The Tomb]] to do, something
+- anywhere else? #question 

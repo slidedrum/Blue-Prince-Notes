@@ -1,0 +1,10 @@
+#room 
+See [[Drafting Strategy Vol 2]]
+- #room/mechanical [[Mechanical]] 
+- #room/tommorw  [[Tomorrow]] 
+- #room/Puzzle  [[Puzzle]] 
+- #room/spread [[Spread]]  
+- #room/drafting [[Drafting (Type)]] 
+- #room/food  [[Food (room type)]] 
+- #room/entry  [[Entry]] 
+- #room/resource [[Resource (room type)]] 

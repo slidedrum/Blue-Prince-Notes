@@ -1,0 +1,199 @@
+#book #Marylin-Maragold
+ - See [[Marion Marigold - Mary Matthew Epsen]]
+ - The signs on each page are important. I think it is instructions for someone to take route 8, and keep left so the reach tanner fork (whatever that is) warning them that turning right instead is a dead end.  and to record every stop (sign?)  But what the fuck does that have to do with me?  Idk what that means in context of the house.  However in context of the [[Museum Heist]] this could be a clear message. The [[Grade 9 (Exam)|final exam]] mentions these signs.  
+		 - This is talking about the metro map!
+		 - 8 - 7 - 3 - 10 - 1 - 13
+		 - 8: Royal Station
+		 - 7: Angel Tower
+		 - 3: Aries Crossing
+		 - 10: Tanner Fork
+		 - 1: Oris Train hall
+		 - 13: Dead End
+	 - Route 8 (not route, station 8!) 
+	 - Depart~~ure~~ (end cut off)
+	 - Keep Left
+	 - To Tanner Fork (With left arrow) (this can be seen on the last page of [[A Sightseer's Guide To Reddington]])
+	 - Right turn sign (no text)
+	 - Dead End
+	 - Record
+	 - Each
+	 - Stop
+	 - on the way
+ - There is the suspects, all I know is they are under 18 and not rock and stone, and they are in the military (wtf?)
+	 - This is a hint for the admin key [[Bo Lee|LeeB]] for [[The Black Bridge Grotto]] allowing me to see redacted logs.
+ - The "Corner Case Rooms" had to read lower case letters on notes in those rooms.
+ - ![[Pasted image 20251210104656.png]]
+	 - A New Clue
+	 - [[Marion Marigold - Mary Matthew Epsen|Marion Marigold]]
+ - ![[Pasted image 20251210104659.png]]
+	 - Published by [[Sundial Publishing]] in 1988
+		 - This must be her new publisher after [[Archive Newspapers#^5b84df|distancing herself]] from [[Ruffington Red Publishing]] 
+ - ![[Pasted image 20251210104704.png]]
+	 - All he needed was to find a new clue,  
+	 - If he found a new clue, he'd know what to do,  
+	 - If he knew what to do, he'd likely tell you,  
+	 - For you are looking for a new clue too!
+	 - Notably pictured: 
+		 - Route 8 sign.
+ - ![[Pasted image 20251210104710.png]]
+	 - ![[Pasted image 20251218130536.png]]
+	 - There are 7 written suspects: ^8b5d3a
+		 - ~~[[Rose Ball]] age 50~~
+		 - [[Richard Scott]] age 12
+		 - ~~[[Frond Mayford]] age 32~~
+		 - [[Sandra Dillon]] age 14
+		 - [[Bo Lee]] age 16
+		 - [[Charles Riscal]] age 12
+		 - ~~[[Christoph Clarke]] age 25 ([[Christoph]]?)~~ ^103113
+	- Based on the memos on the last page, one of these names is a clue.
+		- They are a minor, under 18.
+		- They are a "major" ([[Erajan]] for "small name" see [[Grade 8 (Language)]])
+		- They are NOT a miner (like rock and stone)
+	- The suspect is [[Bo Lee]], it leads to an delisted admin key for [[The Black Bridge Grotto#^dbc5a5]]"LeeB"
+	 - He had retraced his sketches and studied the files,  
+	 - Reviewed all his cases and gone through the piles 
+	 - Of the evidence present and precedents evident,  
+	 - And retraced his steps, as it stretched on for miles.
+	 - Notably pictured: 
+		 - Stacks of books with clipboards on top with readable words.  One of witch I need a [[Magnifying glass]] to read.
+		 - An airport departures sign.
+	 - Corner case rooms: ^b2f8df
+		- [[The Parlor]]
+		- ✅[[The Patio]])("Buried")
+		- ✅[[The Nook]] ("Beside")
+		- ✅[[The Office]] ("West")
+		- [[The Library]]
+		- ✅[[The Pantry]] ("Bridge")
+	- Dead Cases:
+		- [[The Bathroom]]
+		- [[The Closet]]
+		- [[The Attic]]
+		- [[The Furnace]]
+		- [[The Solarium]]
+- ![[Pasted image 20251210104751.png]]
+	- He had looked high and low in all of the rooms,  
+	- He had searched every corner in each of the tombs,  
+	- In this particular case, he had checked every space.  
+	- If he found a new clue, he'd know what to do.
+	- Notably pictured:
+		- [[Ruby Socketed Candlesticks]]
+			- This is probably hinting at lighting them in [[The Tomb#^382c67]]
+		- The royal statue seen in [[Tomb Statue Puzzle]]
+		- A large [[Chess Pieces]] rook.
+		- A stone brick with a grid of lines, possibly depicting the house layout. (probably not important).
+		- A "keep left" sign. (Probably not important)
+	- There are very small numbers next to some words, when placed in numerical order, it reads: ***“All checked corner case rooms had a low case clue found in the room”***
+- ![[Pasted image 20251210104805.png]]
+	- He looked and he looked under beds and in nooks,  
+	- He questioned the maids, he questioned the cooks,  
+	- It was already over when he spoke to the chauffeur,  
+		- Check emails, someone was mentioned as a chauffeur.
+	- Who told him new clues were found only in books.
+	- Notably pictured:
+		- A maid (probably the house maid.  Don't know name.)
+		- A man in a hat (probably [[Chef DeCamp]])
+		- The 3 fruit I can find in the house.  Red Apple, Banana, and Orange. 
+			- [[Fenn Aries]], [[Arch Aries]] and [[Corarica]]
+			- Notably those are colors of some of the [[Realms]] but they do use very common colors.  And I think I have seen green apples.  Though green is a color of a realm.
+		- A sign that says "To Tanner Fork" pointing left.
+	- I think this page is telling me not to look in the house, but to check books.  However this conflicts with what I understand about the [[A New Clue#^b2f8df|corner case clue puzzle]]
+- ![[Pasted image 20251210104821.png]] ^744b1d
+	- So tome after tome that the library loaned,  
+	- And the books that he had that he already owned,  
+	- Were searched from their covers all the way through,  
+	- If he found a new clue, he'd know what to do.
+	- Notably pictured:
+		- A stack of books
+			- Blue book titled [[Draft The Sixes]] with a 6 dice after the title. -> [[The Fixed Stars]]
+			- A purple book titled [[Uncle AWE]] -> [[A New Clue]]
+			- A green book titled [[Lunar Renamed]] with a moon symbol on each side of the title. -> [[Realm and Rune]]
+			- A red book titled [[Tender Cipher]] (Don't look this cipher up, it's not a real cypher, returns results about the game) -> [[The Red Prince]]
+		- Two clocks at 1:30 matching [[The Clock Tower]] and [[Room 46]] and probably other places too.
+		- A person in white holding a right turn sign.  (possibly matching the man/woman on the previous page?)
+- ![[Pasted image 20251210104905.png]] ^7a5b3d
+	- He changed all the letters in the lines that he found,  
+	- He checked all the colors of the spines that were bound,  
+	- He doubled the meaning of each seasonal greeting,  
+	- And found that the diction of each word was sound.
+	- notably pictured: A chalkboard with very clear writing
+		- Merry/Mary with arrow pointing to erased face?
+		- Gates/Gaits
+		- A horse galloping
+		- Right/Wright with a right arrow and a pencil drawing.
+		- LOR = Word, JOR = Name ^6c8e7b
+			- This is talking about [[Erajan]] see [[Grade 8 (Language)]]
+		- [[Draft The Sixes]]
+			- is this a real book?
+		- Shifted Extras 
+			- Is this a book too?
+		- [[The Fixed Stars]]
+			- This is found in [[The Observatory]] and as a buyable book in [[The Library]]
+		- For all book names, some of the common letters have arrows drawn from one to the other.  The letters are: ^23d56c
+			- D, X, S
+			- This might be related to the [[Letters puzzle]]?
+		- Dead End sign, with a line off of the bottom right edge.  Similar to those in [[The Drawing room#^2e8f32]]
+- ![[Pasted image 20251210104911.png]]
+	- He stayed up all night and studied the maps,  
+	- He laid out the floorplans and measured the gaps,  
+	- And if his directory was considered a trajectory,  
+	- It was nothing short of a full mental lapse.
+	- Notably pictured:
+		- The main character holding a blueprint and sitting on a representation of the [[House]] layout
+		- A Vase in [[The Entrance Hall]] next to a [[Sledgehammer]]. I smashed it and found a [[Microchips]]. 
+- ![[Pasted image 20251210104956.png]]
+	- "A man obsessed, and cuckoo too",  
+	- They would say as he would wander through.  
+	- The best medicine is not yet evidence,  
+	- If he found a new clue, he'd know what to do.
+	- Notably pictured:
+		- A sing that clearly says "Each"
+		- The main character holding the 4 books from [[A New Clue#^744b1d]] with the green book open
+		- The main character seems to have lost his hat.
+- ![[Pasted image 20251210105001.png]]
+	- And having read this book so many times,  
+	- Having scoured over each of its cryptic lines,  
+	- Have you exhausted your search?  
+	- Have you seen all the signs?
+	- Notably pictured:
+		- The picture of [[Lady Clara Epsen]] and [[Simon H. Sinclair]] ([[Marion Marigold - Mary Matthew Epsen|marigold]]'s parents) on their wedding day.  As seen in [[The Ballroom#^9757d9|The Ballroom]]
+		- A picture of 3 people, one in the middle is [[Marion Marigold - Mary Matthew Epsen|Marigold]].  As seen in 
+		- The metro map as seen in [[The Safehouse - Royal Station]]
+		- A painting of a bird over a lake.  Have I seen this? #question 
+		- A stop sign.
+		- A notepad that says "Ma | jor"
+		- The book we are reading, [[A New Clue#^aafd32|re-created below]].
+		- A large #white-king 
+		- Some small notes that say:
+			- "Dead end, major key" "XYZABC" with C in red, and a red arrow going from end to C
+			- "See all the signs?"
+			- and more, need [[Magnifying glass]]
+	- ![[Pasted image 20251218131641.png]]
+	- I have re-created the book in the final drawing.  It is of the book we are reading![[Pasted image 20251210105026.png]] ^aafd32
+		- The red book is [[The Red Prince]]
+		- The green book is [[Realm and Rune]]
+		- The violet book is [[A New Clue]]
+		- The blue book is [[The Fixed Stars]]
+		- "Turn scorched sundial base"
+	- it is telling us to look at the correct color book, the correct page, and the correct word
+	- After solving this puzzle, it unlocks the [[The Satellite Dish]]
+- 
+
+| X   | 8   |
+| --- | --- |
+| Y   | 7   |
+| Z   | 3   |
+| A   | 10  |
+| B   | 1   |
+| C   | 13  |
+
+- ![[Pasted image 20251218133228.png]]
+	- Or is there perhaps something new,
+	- Something overlooked but now in view,
+	- Have you finally found it?  Could it really be true?
+	- If it's a clue, you know what to do.
+	- Notably pictured:
+		- A sign that says "on the way"
+		- A blue note that says "The suspect is minor"
+		- A red note that says "The suspect is miner"
+		- a hand written red note that says "The suspect is major"
+		- A representation of the [[Terminal]] remote connection screen. that says "The Suspect is A. key"

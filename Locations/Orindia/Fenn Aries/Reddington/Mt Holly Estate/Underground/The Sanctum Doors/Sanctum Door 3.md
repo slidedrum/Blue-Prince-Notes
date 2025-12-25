@@ -1,0 +1,13 @@
+#location #underground #Puzzle/solved 
+- This is the sigil for [[Arch Aries]]
+- It is stormy lines see [[History Of Orindia (First Edition)#^21b0d8]]
+- Transportation is: trains
+- Mote is: Industrial
+- color is: Yellow.
+- ![[Pasted image 20251217133629.png]]
+- ![[Pasted image 20251217133655.png]]
+- ![[Pasted image 20251217133714.png]]
+- ![[Pasted image 20251217133807.png]]^410893
+	- We arrived here after a few days of sailing and il made me realize how much more convenient il would have been in the old days when the railway tracks extended all the way north. Arch Aries is a destination with which I am well acquainted, having traveled here countless times on business for Synka. This Lime, however, I will avoid the familiar towns and factories and will instead trek along the northern coast, an area with which I am wholly unfamiliar.
+	- He came from [[Eraja]]
+- ![[Puzzle Box - Arch Aries Variation]]

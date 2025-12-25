@@ -1,0 +1,4 @@
+- A type of flower
+- Not really a place, but it is exclusive to [[Reddington]]
+- Featured in the [[Reddington Botanical Gardens]]
+- Also featured in the logo of [[Mount Holly]]

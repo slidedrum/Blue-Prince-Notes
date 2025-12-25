@@ -1,0 +1,20 @@
+- There are several Puzzle boxes around the estate, they seem to usually contain [[allowance token|Allowance Tokens]]
+- The rules I know so far are:
+	- Yellow swaps up
+	- Black shifts all right
+	- Green swaps across center
+	- White turns adjacent tiles, white -> grey, grey -> white
+	- Red turns black to red, and white to black
+	- Orange turns to whatever color it is surrounded by?
+	- Pink, rotates the outer squares
+	- Violet swaps down
+- There seems to be one behind every door in the [[The Inner Sanctum]]
+- There was one in the [[The Trading Post]] and [[The Master Bedroom]]
+- ![[Puzzle box - Orinda Aries Variation]]
+- ![[Puzzle Box - Fenn Aries Variation]]
+- ![[Puzzle Box - Arch Aries Variation]]
+- ![[Puzzle Box - Eraja Variation]]
+- ![[Puzzle Box - Corarica Variation]]
+- ![[Puzzle Box - Mora Jai (Original) Variation]]
+- ![[Puzzle Box - Verra Variation]]
+- ![[Puzzle Box - Nuance Variation]]

@@ -1,0 +1,17 @@
+#room/blue #west #vents/powered #Room/Dead-End #location #Room/unusual #room/gem/1 #room/14
+- ![[Pasted image 20251214041744.png]]
+- This room only spawns on the west wing of the [[House]]
+- It always contains 3 [[keys]]
+- Contains the car (duh)
+	- With car keys can unlock the car door (can't drive 😭) 
+		- ![[Pasted image 20251210055728.png]]
+			- The drop-off address is 14227 [[Sandy Heights]]. a small garage an the south edge of [[Trinsdale]].  The goods are already secure and in the trunk, so just unload and get hack here before noon. You've seen [[Baron Herbert.S. Sinclair|Sinclair]]'s schedule and & don't think he'll he requesting the car today but you never know when the cat will want to get some air.  Tomorrow will likely be the last delivery and I believe [[Denny Revane|Denny]] already has payment ready. ^fe0be5
+				- Is [[Baron Herbert.S. Sinclair]] "the cat"?
+	- In the trunk is something too, can't remember what #question 
+		- I don't remember it being too important?
+- There is a note on the desk talking about [[Christoph]].  Who?  #question 
+	- ![[Pasted image 20251210044154.png]]
+		- [[Christoph]], this is the third time this month you and the car have been gone when your services were required.  I don't care how long you have been driving for [[Baron Herbert.S. Sinclair|his lordship]], your absence must be accounted for. 
+		- From [[Mrs Anne Babbage]]
+			- He was likely gone because of his relationship with [[Denny Revane]].  They were making [[The Trading Post#^e3964a|moonshine]] and probably [[The Garage#^fe0be5|other shady business]].
+- "Entering and exiting out through the west facing private drive, the Garage serves as a more practical and informal entrance point into the estate."

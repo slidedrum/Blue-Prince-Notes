@@ -1,0 +1,3 @@
+#location #not-visitable 
+- Also called just "Fenn"  but the new government want's it to be known as "The grand city of fenn"
+- That new government told [[Caleb Manning]] the author of [[History Of Orindia (First Edition)]] to specifically call it a grand city in his book.  Witch he did, but one paragraph later he referred to it without the "grand" moniker.  This implies that he doesn't like it.  This is likely related to why [[History Of Orindia (Second Edition)]] was so heavily censored by [[Fenn Aries Central Board Of Education]]. And possibly related to his motives joining the [[Museum Heist]]. 

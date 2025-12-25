@@ -1,0 +1,4 @@
+- "Green memos in blue boxes are true."
+- This box is in the water (See [[White Sun - Blue]])
+- ![[Pasted image 20251217105756.png]]
+- ![[Pasted image 20251217105801.png]]
