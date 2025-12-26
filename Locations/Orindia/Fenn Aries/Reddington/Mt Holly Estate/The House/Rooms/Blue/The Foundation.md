@@ -7,4 +7,5 @@
 	- Does not directly connect to [[The Basement]]
 - This room does not reset each day
 	- But the [[Dirt Piles]] do
+- With [[The Utility Closet - Breaker Box]] power off, and offline mode set to unlocked.  You can call the elevator down without a [[Security Keycard]]
 - "The cornerstone of the house, unvarying and unchanging, The Foundation is one of the only constants in the estate on which you can truly rely. This natural cavity was hollowed directly out of the mountain itself, with its stone and earth walls displaying an underlying coarseness that the rest of the mansion conceals."

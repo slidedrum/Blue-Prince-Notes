@@ -2,6 +2,7 @@
 See [[Underground Map]]
 - This was unlocked by going down the [[The Foundation]] Elevator.
 - Requires [[The Basement Key]] once you go down the elevator.
+- There are some [[Filing Cabinets]] down here, maybe I can find another [[File Cabinet Key]]?
 - There was a [[Luggage Sliding puzzle]] to connect to [[The Reservoir]]
 - ![[Pasted image 20251214083111.png]]
 - ![[Pasted image 20251224200914.png]]

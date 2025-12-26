@@ -1,0 +1,4 @@
+- "The family core is unlocked only by the sum of it's digits."
+- Found in the bottom of the cage.
+- ![[Pasted image 20251226151936.png]]
+- What is the [[Family Core]]?  Does that have something to do with [[Numeric Coring]]?  Is that the [[Coat Of Arms-crest puzzle]]?  

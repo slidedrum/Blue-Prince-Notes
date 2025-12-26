@@ -1,0 +1,5 @@
+- "The last door of 8 is in the inner sanctum."
+- Found in a white moon chest
+- ![[Pasted image 20251226183304.png]]
+- This is referring to [[Sanctum Door Puzzle#^faf0ed]]
+- It is a lie, that hint is talking about [[The Mechanarium]]

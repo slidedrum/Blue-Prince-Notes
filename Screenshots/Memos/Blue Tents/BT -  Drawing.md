@@ -1,0 +1,4 @@
+- "Months are slightly longer than days."
+- Found on the side of one of the cabinets.
+- ![[Pasted image 20251226174907.png]]
+- Allegedly this is a hint to the [[8 Safes|safe]] in this room

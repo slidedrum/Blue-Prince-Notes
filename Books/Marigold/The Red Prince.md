@@ -50,6 +50,7 @@
 	- Who also wore red!
 	- And he looked like our prince,
 	- From his toes to his head.
+	- Pictured: a mirror shaped like the [[Orinda Aries]] sigil core.
 - ![[Pasted image 20251210074112.png]]
 	- And as you my read,er
 	- Might already assume;

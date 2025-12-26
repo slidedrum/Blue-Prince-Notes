@@ -1,6 +1,7 @@
 #room/blue #terminal #location #room/24 #room/spread #room/standard #room/doors/2/corner 
 - ![[Pasted image 20251214043509.png]]
 - This room lets you spread gold around the estate
+- According to [[BT - Nook]] and [[BT - office]] I can do a "special move"
 - This room lets you run payroll and put gold in all staff rooms
 - There are several busts in the room, they match the busts in [[The Foyer]]
 	- [[Count Isaac Gates]]

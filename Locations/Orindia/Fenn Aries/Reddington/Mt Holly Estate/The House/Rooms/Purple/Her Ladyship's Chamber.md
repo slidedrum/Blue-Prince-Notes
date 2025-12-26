@@ -1,6 +1,7 @@
 #room/purple #room/royalty #location #Room/Dead-End #room/rare 
 - ![[Pasted image 20251214055253.png]]
 - After drafting, enter [[The Boudoir]] for +10 [[steps]] or the [[The Walk-in closet]] for +3 [[Gems]]
+- Can only be drafted on the [[West Wing]] from south facing doors.
 - ![[Pasted image 20251210081728.png]]
 	- Depicts solar system [[The Spiral Of Stars]] seen in [[Grade 4 (Geography)]] ^b8e28f
 - On the bedside table is a locket with [[Simon H. Sinclair]]]]'s picture and one of the realm's symbol on the outside

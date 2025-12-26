@@ -1,0 +1,4 @@
+- "No realm is considered spiritual."
+- Found in a red fire chest.
+- This is 100% false.  [[Verra]] has a spiritual mote.
+- ![[Pasted image 20251226152804.png]]

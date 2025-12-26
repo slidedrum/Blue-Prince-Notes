@@ -101,3 +101,11 @@
 	- Tuesday, April 19th, 1994  
 	- Yes, I've heard [[Lady Clara Epsen|Her Ladyship]] talk about this as well, when  she was still with us. So I can confirm that there's some  validity in it and it's not just another case of [[Hartley Ruota|Harley]] rambling on. (or maybe it can be both?)  
 	- -[[Anne Babbage|Anne]]
+- ![[Pasted image 20251226144933.png]]
+	- Saturday, April 23rd, 1994  
+	- [[Simon P. Jones|Simon]], remind me when I come back to work to create you a [[BlackBridge Terminal|Blackbridge]] Admin Key, as you are obviously very technically proficient, perhaps even more so than most of my staff here! Funny enough, following our format the naming of your Admin Key would theoretically be JoneS which might be the first one where the Admin Key is the same as the last name.  
+	- -[[Randolph Moore|Moore]]
+- ![[Pasted image 20251226172924.png]]
+	- Thursday, April 28th, 1994 
+	- We had an informal staff meeting today in [[Reddington]], and we all agreed that providing you with more assistance will expedite our return to work. We feel we've had more than enough vacation! Of course, if you prefer to work independently, please feel free to disregard our more "helpful" messages on these boards.  
+	- -[[Kimberly Thompson]]

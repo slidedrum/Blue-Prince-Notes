@@ -1,0 +1,15 @@
+- [[The Foundation]]
+- [[The Entrance Hall]]
+- [[The Antechamber]]
+
+- [ ] [[The Billiard Room]]
+- [x]  [[Room 8]]
+- [ ]  [[The Attic]]
+- [x]  [[The Garage]]
+- [ ]  [[The Chamber of Mirrors]]
+- [ ]  [[The Utility Closet - Breaker Box]]
+- [ ]  [[The Pump Room]]
+- [ ]  [[Mail Room Mail]]
+- [ ] [[The Clock Tower]]
+- [ ] [[The Planetarium]]
+- [x] [[The Classroom]] (2-9)

@@ -1,0 +1,4 @@
+- "The ice in [[Baron Herbert.S. Sinclair|master Sinclair's]] personal freezer can only be thawed by applying a direct heat source."
+- Found on the floor on the right
+- ![[Pasted image 20251226155857.png]]
+- This is telling you to use the [[Burning Glass]] on the [[Freezer chest]]

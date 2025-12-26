@@ -2,13 +2,28 @@
 - ![[Pasted image 20251214053040.png]]
 - The final room before [[Room 46]]
 - To unlock each of the 4 doors, you must pull a lever
-- Northern lever to [[Room 46]] is found in [[The Inner Sanctum]]
-- Eastern lever is found in one of the sub-rooms in [[The Great Hall]]
-- Southern lever is found broken in [[The Greenhouse]] 
-- Western lever is found in [[The Secret Garden]] 
-- (East/west lever might be swapped #question )
+- **Northern lever**is found in [[The Inner Sanctum]]
+- **Eastern lever** is found in [[The Great Hall]]
+	- and [[The Secret Garden]]
+- **Southern lever** is found broken in [[The Greenhouse]] requiring [[Broken Lever]]
+	- and [[The Weight Room]]
+- **Western lever** is found in [[The Secret Garden]] 
+	- and [[The Mechanarium]]
 - Once you enter the room you can pick up [[The Basement Key]] 
 - Next to [[The Basement Key]] is this note ![[Pasted image 20251210073749.png]]
 	- To continue up, you must go down.
-	- it hints that you must go to [[The Underground]] via [[The Foundation]], [[The Fountain]] or the [[Tomb Statue Puzzle]]
+	- it hints that you must go to [[The Underground]] via [[The Foundation]], [[The Fountain]] or the [[Tomb Statue Puzzle]]\
+- If you use [[The Shrine]] to draft [[The Antechamber]] in the [[Outer Room]].  [[The Basement Key]] is here
+	- In the center the note is replaced with:
+		- ![[Pasted image 20251226181123.png]]
+		- "So close, yet so far away"
+	- If you then pull the north lever, you enter another version of the shrine.
+		- ![[Pasted image 20251226180934.png]]
+		- Instead of making an offering, it has a note: ^afec5d
+		- ![[Pasted image 20251226180951.png]]
+			- Stead is the scepter
+			- Deadly is the stone
+			- Heavy is the crown
+			- Ready is the throne
+			- Pictured, the box from [[The Curse Of BlackBridge]]
 - "From its root meaning "The Room Before", all signs and paths point toward the Antechamber. This mysterious sealed room -resting on the 9th Rank- may prove, however, quite an initial challenge to even reach, let alone enter. Still, you can't help but draw a connection between this chamber and Room 46."

@@ -1,0 +1,3 @@
+- "Red memos were crated by [[Kirk Darren]] and approved by [[Baron Herbert.S. Sinclair|the Baron]] and questionably served as the estate's primary security system."
+- Found under the conference table mat with the red note.
+- ![[Pasted image 20251226152611.png]]

@@ -1,0 +1,3 @@
+- "The titles are synonyms."
+- Found on the leg of a bench
+- ![[Pasted image 20251226161400.png]]

@@ -1,0 +1,3 @@
+- "[[Baron Herbert.S. Sinclair|Sinclair's]] four canine companions are named Carter, Thoughtless, Hot Sause and Drawbridge."
+- Found on the side of the bulletin board.
+- ![[Pasted image 20251226160835.png]]

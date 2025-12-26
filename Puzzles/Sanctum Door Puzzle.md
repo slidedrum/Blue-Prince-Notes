@@ -12,7 +12,7 @@
 	- The fifth key is held by a king on his throne,  
 	- The sixth in a station, left by one of your own,  
 	- The seventh is major if you draft it quite late,  
-	- And the last key is waiting, behind the last door of eight.
+	- And the last key is waiting, behind the last door of eight. ^faf0ed
 
 	1. 46 FOUND
 	2. [[Vault keys]] in [[The Vault]], FOUND

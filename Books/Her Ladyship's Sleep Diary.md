@@ -4,7 +4,7 @@
 	- 1 - 17 -79  
 	- My dear diary, After countless sleepless nights and failed home remedies, my physician has urged me to document my sleeping routines in The various [[Bedroom|bedrooms]] of our estate. It is his hope that by tracking the caliber and length of my sleep in each room, together, we may come to a deeper understanding of my condition and perhaps with luck, find a more favorable environment in which I might finally find some amount if rest.  
 	- [[Lady Clara Epsen|Clara]]
-- ![[Pasted image 20251217124807.png]]
+- ![[Pasted image 20251226165852.png]]
 	- 1-18-79
 	- My dear diary,
 	- To begin, I thought it best to start with my own room despite already knowing how unsuitable it has been for my sleep of late.  Perhaps, it is all the old memories that linger here, as it is impossible not to think of home among so many mementos of my youth.  Nonetheless, I find comfort in gazing at the stars before dozing off, and it pains me to consider that if this trial is successful, it may be one of the final occasions that I sleep here.
@@ -12,7 +12,7 @@
 	- Sleep Duration - 2 and a half hours
 	- Quality - Peaceful despite brevity
 	- Observed effects - I awoke the following morning with 10 less [[steps]] but also observed an additional [[Stars|star]] in the sky.
-- ![[Pasted image 20251217124812.png]]
+- ![[Pasted image 20251226165859.png]]
 	- 1-21-79
 	- Dearest diary,
 	- Last night, I retired to the guest room as I have yet to gain the courage to ask anyone to surrender their room to me, even for a night.  This bedroom is a cozy space, normally reserved for guests staying the weekend, however, I found, despite having a choice between two beds, that neither proved to be very comfortable.  I must speak with [[Baron Herbert.S. Sinclair|Herbert]] about this, as our guests deserve, at the very least, as much comfort in their stay as we have.
@@ -21,7 +21,7 @@
 	- Sleep Duration - Four hours
 	- Quality - Very fragmented
 	- Observable effects - Nothing special.
-- ![[Pasted image 20251217124816.png]]
+- ![[Pasted image 20251226165904.png]]
 	- 1-22-79
 	- My dear diary,
 	- It was strange to sleep in the childhood room of my [[Simon H. Sinclair|late husband]].  The room was just as I had imaged it from the stories he told me of growing up with an elder brother.  [[Baron Herbert.S. Sinclair|Herbert]] informed me that the room has remained untouched, almost identical to when they both occupied it - to avoid any accidents, I slept in the bottom bunk as climbing the ladders is not as easy as it used to be.  Despite my enthusiasm, my thoughts of [[Simon H. Sinclair|Simon]] kept me up through most of the night
@@ -31,7 +31,7 @@
 	- Quality - Two times as restless
 	- Observable effects - The next morning, I went to the [[The Tomb|family tomb]] to revisit his grave, and was surprised to find flowers already laid.
 		- The flower was just a [[The Original Gardener's Logbook#^bb3ff2|gem flower]]
-- ![[Pasted image 20251217124819.png]]
+- ![[Pasted image 20251226165910.png]]
 	- 1-24-79
 	- I could not bring myself to ask [[Hartley Ruota|Hartley]] directly if I could borrow his room for my sleep study, the mere thought of it was mortifying.  Instead, I decided to "Roll the die," as he often puts it and wait for his night off to sneak into his room to nap. The experience of sleeping in a servant's room was thrilling, but the fear of getting caught was overwhelming.  Every little noise startled me and I couldn't manage to sleep for more than a few moments, fearing [[Hartley Ruota|Hartley]] would return at any time.^86399d
 	- [[Lady Clara Epsen|Clara]]
@@ -40,7 +40,7 @@
 	- Quality - Terrible
 	- Effects - About half the [[steps]] the following day.
 	- I also discovered a stray die had found it's way into my pocket.  Which was hardly shocking, given [[Hartley Ruota|Hartley's]] history. ^9ffcd9
-- ![[Pasted image 20251217124822.png]]
+- ![[Pasted image 20251226165915.png]]
 	- 1-25-79
 	- My dear diary,
 	- I have to confess that I was initially hesitant to spend the night in [[Baron Herbert.S. Sinclair|the Barron's]] room.  It's extravagantly showy, with every surface adorned with gold and every piece of furniture so large it seems almost comical. But as I lay down on the enormous bed, I was surprised to find that I felt entirely at ease.  Even the absurdly oversized pillows were somehow comfortable, propping me up just right so that I didn't feel any strain on my neck or back.  I slept more soundly than I have in weeks, and I woke up feeling genuinely rested for the first time in what feels like forever.

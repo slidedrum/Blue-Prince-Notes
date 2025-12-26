@@ -1,0 +1,4 @@
+- "The majority of gems found in the house are artificially produced."
+- Found under one of the benches.
+- ![[Pasted image 20251226155336.png]]
+- This is referring to the [[The Original Gardener's Logbook#^65cdc8|special flowers]]
