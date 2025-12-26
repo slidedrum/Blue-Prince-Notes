@@ -27,22 +27,22 @@ I see chess pieces fucking everywhere!
 	- [ ] [[The Drafting Studio]]: #Black-pawn 
 	- [ ] [[The Secret Passage]]: #Black-pawn 
 - Rook:
-	- [ ] [[The Nook]]: #White-Rook
+	- [x] [[The Nook]]: #White-Rook
 	- [ ] [[The Vault]]: #White-rook
 	- [ ] [[The Clock Tower]]: #Black-rook
-	- [x] [[The Conservatory]] #Black-rook 
+	- [ ] [[The Conservatory]] #Black-rook 
 - Knight:
-	- [ ] [[The Observatory]]: #White-knight
+	- [x] [[The Observatory]]: #White-knight
 	- [ ] [[The Security Room]]: #White-knight
-	- [x] [[The Treasure Trove]]: #black-Knight
+	- [ ] [[The Treasure Trove]]: #black-Knight
 - Bishop:
 	- [x] [[The Chapel]]: #White-bishop
 	- [ ] [[The Attic]]: #White-bishop
 - Queen:
-	- [x] [[The Study]]: #Black-Queen (And normal sized on an [[The Study#^987df8|actual chessboard]])
-	- [ ] [[Her Ladyship's Chamber]]: #white-queen
+	- [ ] [[The Study]]: #Black-Queen (And normal sized on an [[The Study#^987df8|actual chessboard]])
+	- [x] [[Her Ladyship's Chamber]]: #white-queen
 - King:
-	- [ ] [[The Office]]: #white-king
+	- [x] [[The Office]]: #white-king
 	- [ ] [[The Throne room]] #black-king
 
 

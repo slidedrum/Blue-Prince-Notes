@@ -7,12 +7,14 @@
 		- Unless you have both, then it could be something else.  I've seen:
 			- [[Sledgehammer]]
 - #TODO: list all craftable items and what they do
-	- [[Lockpick Kit]] + [[Metal Detector]]
+	- [[Lockpick Kit]] + [[Metal Detector]] = [[Pick Sound Amplifier]]
 	- [[Magnifying glass]] + [[Metal Detector]] = [[Burning Glass]]
 	- [[Sledgehammer]] + [[Battery Pack]] + [[Broken Lever]] = [[Power Hammer]]
 	- [[Shovel]] + [[Battery Pack]] + [[Broken Lever]]: [[Jack Hammer]]
 	- [[Brass Compass]] + [[Battery Pack]] = [[Powered Electromagnet]]
 	- [[Lucky Rabbit's foot]] + [[Coin Purse]] = [[Lucky Purse]]
+	- [[Shovel]] + [[Metal Detector]] = [[Detector Shovel]]
+	- [[Shovel]] + [[Brass Compass]] = [[Dowsing Rod]]
 - Contains page 8 of the [[Song Lyrics]] puzzle
 - You could find new crafting recipes by digging up [[Dirt Piles]] with a [[Shovel]] (New means not crafted yet, can get dupes)
 - There is a diagram showing the dimensions of the [[The Parlor]] room puzzle boxes

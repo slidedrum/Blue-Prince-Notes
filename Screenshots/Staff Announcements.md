@@ -97,3 +97,7 @@
 	- Monday, April 18th, 1994  
 	- [[Simon P. Jones|Simon]], I was having lunch the other day with [[Hartley Ruota]], who was your uncle's valet and has been on the estate longer than anyone else. He told me that if you [[CALL IT A DAY]] in some [[Bedroom|bedrooms]], there are beneficial effects. I assume [[The Servant's Quarters|his own room]] might be among that number. Sounds like it might be worth checking out.  
 	- -[[Randolph Moore|Randolph]]
+- ![[Pasted image 20251225162836.png]]
+	- Tuesday, April 19th, 1994  
+	- Yes, I've heard [[Lady Clara Epsen|Her Ladyship]] talk about this as well, when  she was still with us. So I can confirm that there's some  validity in it and it's not just another case of [[Hartley Ruota|Harley]] rambling on. (or maybe it can be both?)  
+	- -[[Anne Babbage|Anne]]

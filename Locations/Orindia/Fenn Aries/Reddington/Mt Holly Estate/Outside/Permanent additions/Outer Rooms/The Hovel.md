@@ -4,7 +4,17 @@
 - Contains one of the knobs to turn on one of the [[4 Blue Fires]]
 - Has a hint for some puzzle?
 	- ![[Pasted image 20251210081356.png]]
-	- Equation is 45*2/9-2 = 8
+	- 45 rooms
+	- [[The Antechamber|antechamber]] sealed
+	- 2 wings
+	- 9 ranks
+	- 2 starting rooms.
+	- Coincidence?
+	- Where is [[room 46]]???
+	- 7/5/90 - Tested my full house theory.  No luck.  As expected.
+	- 45 2 9 2
+	- Equation is 45\*2/9-2 = 8
+	- This is probably somehow related to [[Numeric Coring]]
 - [[Denny Revane]]'s firing note from [[Mrs Anne Babbage]] ^2fa485
 	- ![[Pasted image 20251210081528.png]]
 		- NOTICE OF TERMINATION  

@@ -1,4 +1,5 @@
 #book 
+- See [[A New Clue]]
  - ![[Pasted image 20251220185608.png]]
  - ![[Pasted image 20251220185624.png]]
  - ![[Pasted image 20251220185700.png]]
@@ -13,7 +14,7 @@
 	- He has a face!
 	- Keep left was made smaller.
 	- The brick pillar was added in the final version.
-	- [[The secret passage]] has [[Letters puzzle|funky letters]]??
+	- [[The secret passage]] has [[Letters puzzle|funky letters]]?? ^bccfc0
 - ![[Pasted image 20251220191555.png]]
 	- Why is there a blue X under 'beds'
 	- She kept the word nook.

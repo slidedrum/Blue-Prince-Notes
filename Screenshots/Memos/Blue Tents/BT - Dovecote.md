@@ -1,0 +1,4 @@
+- "Three members of the [[Sinclair family]] have attended school overseas in [[Corarica]]."
+- Found in one of the many holes.
+- ![[Pasted image 20251225172630.png]]
+- We know that [[Baron Herbert.S. Sinclair]] was one, who were the other two?  [[Marion Marigold - Mary Matthew Epsen]] and [[Simon P. Jones]]?

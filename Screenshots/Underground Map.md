@@ -13,4 +13,6 @@ The full map is found in [[The Rotating Gear Room]]![[Underground Map.png]]
 10. Buried Floorplan ([[The Lost And Found]])
 	- Found in the middle of the southern section of the basement, along the easter wall corner.
 
-Partial ripped map pieces are also found in [[The Catacombs]] and [[The Torch Chamber]] and [[The Weight Room]]
+- Partial ripped map pieces are also found in [[The Catacombs]] and [[The Torch Chamber]] and [[The Weight Room]]
+	- It says "The eight angel points to our dreams"
+	- This is referring to [[Draxus]] 

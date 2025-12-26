@@ -1,0 +1,24 @@
+- Found in [[The Rotating Gear Room#^de8e6f]]
+- ![[Pasted image 20251225155309.png]]
+	- To the [[Baroness Auravei|Baroness of Mount Holly]]
+	- For her own hand
+- ![[Pasted image 20251225155316.png]]
+	- Page 36
+	- The numbers that built the world of yesterday.
+	- Numeric Cores
+	- By the Third Era, Numeric Cores had fallen completely out of favor and were no longer being included in proofs by serious arithmeticians. This concept, once considered sacred, was now regarded as an "overengineered concept that only served to slow further advancements in the field", as Phillip Wilkins once famously put it.
+	- STEPS TO FIND A NUMERIC CORE
+	- Take any number with four or more digits. Without changing the sequence, split that number into four smaller numbers. (ex. 86455 becomes 8 6 45 5)  
+	- Next, assign each a different color, resulting in a valid mathematical equation that produces the smallest whole number possible. The first number should always be assigned teal to begin with a positive number. (ex. + 8 - 6 x 45 / 5)
+	- + 8 * 6 - 45 + 5
+	- If the result is a number with more than three digits, repeat the above process. The final number you obtain that is less than four digits is considered the "numeric core" of the larger number. (ex. 18)
+- ![[Pasted image 20251225155323.png]]
+	- Page 37
+	- The numbers that built the world of yesterday.
+	- NUMERIC CORING - EXAMPLES
+	- 86455
+	- Becomes 8 , 6, 45, 5
+	- Becomes + 8 , - 6 ,x 45,+5
+	- Core = 18  
+	- 3614
+	- Becomes 3, ~~missing the rest of the page~~

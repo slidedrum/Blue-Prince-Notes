@@ -22,8 +22,11 @@
 		- After 10 days of pumping water up from the underground spring, [[the reservoir]] has finally been filled. It's a  shame that the [[The Safehouse - Royal Station|old station]] had to be flooded as a consequence of this action, but I suspect that may have been the actual reason they chose to build the reservoir here and as an engineer I agree that flooding is  preferable to collapsing the entire tunnel.  
 		- On the bright side, now that our water supply is no longer limited, we can start to leverage steam to a much  greater extent. I suspect by this time next month, the steam-powered hoists at the main site will be able to run 24 hours a day.
 - See [[Underground Map]]
-- There is a hidden room downstairs in the south western tooth of the gear with this note from [[The Foreman]]
-	- ![[Pasted image 20251210082249.png]]
-	- Foreman's log: 608.  Date: 5.3.1918
-	- After almost 3 years in the tunnels, [[Scripts & Rudford Mining Company|S&R]] has informed  me that we will be closing up the site in June. It has  been a somewhat bitter-sweet experience working on such a historically significant excavation over the past 30 odd months yet being unable to share any of that work  with the world. Maybe one day.  
-	- Still, there is a significant amount of work that has  yet to be done and it is vitally important that we  conclude our efforts in the main cavern and reinforce the structural integrity of the site before we seal the tunnels next month. It may be many generations before  they are reopened.
+- There is a hidden room downstairs in the south western tooth of the gear
+	- There is this note from [[The Foreman]] on the table
+		- ![[Pasted image 20251210082249.png]]
+		- Foreman's log: 608.  Date: 5.3.1918
+		- After almost 3 years in the tunnels, [[Scripts & Rudford Mining Company|S&R]] has informed  me that we will be closing up the site in June. It has  been a somewhat bitter-sweet experience working on such a historically significant excavation over the past 30 odd months yet being unable to share any of that work  with the world. Maybe one day.  
+		- Still, there is a significant amount of work that has  yet to be done and it is vitally important that we  conclude our efforts in the main cavern and reinforce the structural integrity of the site before we seal the tunnels next month. It may be many generations before  they are reopened.
+	- In the locked filing cablet is this letter for [[Baroness Auravei]].  Unlocked by using the [[File Cabinet Key]] found in [[The Crate Tunnel#^122bd3]] ^de8e6f
+		- ![[Numeric Cores Intro]]

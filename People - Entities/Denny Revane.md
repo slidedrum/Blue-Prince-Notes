@@ -10,3 +10,4 @@
 - Was making [[The Trading Post#^ff14cd|moonshine]] with [[Christoph]] 
 - He might be [[Bo Lee|LeeB]] in the [[BlackBridge Terminal]]
 - He was the one who suggested the location for [[The Black Bridge Grotto]] see [[The Freezer#^9db5c8]]
+- According to his crazy scribbles in [[The Hovel]] he knew about [[Numeric Coring]]

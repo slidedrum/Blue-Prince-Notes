@@ -1,0 +1,4 @@
+- "There is a letter missing."
+- Found in the paper towel roll.
+- ![[Pasted image 20251225171934.png]]
+- A letter missing from what?! #question 

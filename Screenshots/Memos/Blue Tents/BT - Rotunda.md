@@ -1,0 +1,8 @@
+- "There are 4 different methods to rotate rooms."
+- Found under the center pedestal
+- ![[Pasted image 20251225192829.png]]
+- The 4 methods are:
+	- drawing [[The Rotundra]]
+	- drawing [[The Dovecote]]
+	- buying [[Ornate Compass]]
+	- #question 

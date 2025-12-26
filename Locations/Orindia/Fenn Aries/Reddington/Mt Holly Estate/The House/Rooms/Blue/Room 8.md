@@ -25,7 +25,7 @@
 	- has double letters like it's neighbor
 		- ~~muNdaNity~~
 		- ==AvArice==
-- Bear: if we spend a min or ten lounging in the den you'll know which bin I'm often in
+- Bear: if we spend a min or ten lounging in the den you'll know which bin I'm often in ^ed2877
 	- He's a lazy bitch
 		- ==Sloth==
 - Monkey: The bin I tend to wind up in is near the bend in the tail of the skin

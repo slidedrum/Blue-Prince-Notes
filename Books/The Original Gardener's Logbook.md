@@ -12,7 +12,7 @@
 - ![[Pasted image 20251215061212.png]]
 	- ==This is a record of my many indiscretions and lapses of judgment. Should this logbook ever be found know that my guilt is exceeded only by my failings==
 		- Guilt is referring to not only his threats in [[Room 46#^102e7a|room 46]] but also probably his participation in the [[Museum Heist]]
-	- As the groundskeeper of a vast [[House|estate]], it is my responsibility to ensure the property remains well- maintained and beautiful all year round. From the many [[Green Room|green rooms]] of the manor to the sprawling lawns, it is my duty to attend to every aspect of the grounds, ensuring they are orderly, presentable and accessible so that they may be appreciated by both guests and the [[sinclair family|family]]. ==That would be the day==  
+	- As the groundskeeper of a vast [[House|estate]], it is my responsibility to ensure the property remains well- maintained and beautiful all year round. From the many [[Green Room|green rooms]] of the manor to the sprawling lawns, it is my duty to attend to every aspect of the grounds, ensuring they are orderly, presentable and accessible so that they may be appreciated by both guests and the [[Sinclair family|family]]. ==That would be the day==  
 	- This logbook, many years overdue, will serve as a record of some of my duties, discoveries and contributions I have made to the estate over the many years I have served here as groundskeeper and however many more are yet to come. ==not many apparently==  
 	- ~~[[Denny Revane]]~~
 - ![[Pasted image 20251215061332.png]]

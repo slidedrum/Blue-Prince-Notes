@@ -15,4 +15,4 @@
 	- When all arrows face: Waste, shows eastern lever
 	- When all arrows face: West, shows western lever
 	- Are there any other combinations?  probably not?
-- "A floorplan so secretive it had been removed from the drafting pool to avoid anyone unwanted accidentally stumbling upon it. This secluded garden, flanked by a variety of [[Mora Jai]] fruit trees, has served as a private retreat to at least two other generations of [[sinclair family|Sinclairs]]." ^1f1ed1
+- "A floorplan so secretive it had been removed from the drafting pool to avoid anyone unwanted accidentally stumbling upon it. This secluded garden, flanked by a variety of [[Mora Jai]] fruit trees, has served as a private retreat to at least two other generations of [[Sinclair family|Sinclairs]]." ^1f1ed1

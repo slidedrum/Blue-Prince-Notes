@@ -17,7 +17,7 @@
 - ![[Pasted image 20251219142126.png]]
 	- our word choices might be questionable (enough so that it would be reasonable to accuse us of being intentionally misleading), we hope you believe us when we tell you that this was not a calculated ploy to elicit payment.  
 	- However, as payment has been received, there is nothing to be gained by scrutinizing the questionable ethics that were employed in our extortion of those funds. Little defense can be mustered on that score.  
-	- Additionally, any judgmental tone you may have detected when we discussed the content of your stolen letters was entirely unintended. We want it on record, that we do not consider ourselves superior to you and [[sinclair family|your family]] in any way, and are in fact, entirely sympathetic to the underlying cause that the letters pertain to (And you thought, this letter couldn't get more incriminating for us).
+	- Additionally, any judgmental tone you may have detected when we discussed the content of your stolen letters was entirely unintended. We want it on record, that we do not consider ourselves superior to you and [[Sinclair family|your family]] in any way, and are in fact, entirely sympathetic to the underlying cause that the letters pertain to (And you thought, this letter couldn't get more incriminating for us).
 - ![[Pasted image 20251219142130.png]]
 	- Again, we feel guilty as sin and only time will tell if the financial recompense will outweigh our culpability.  
 	- Even though you will never hear from us again, we hope this parting letter will result in you thinking of us and our dealings, if not favorably, at least sympathetically.  

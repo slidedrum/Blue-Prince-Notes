@@ -1,0 +1,3 @@
+- "Flag Colors: Green for [[Nuance]]. pink for [[Verra]]. orange for [[Corarica]]"
+- Found under the easel
+- ![[Pasted image 20251225172354.png]]

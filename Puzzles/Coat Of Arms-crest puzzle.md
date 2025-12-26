@@ -1,5 +1,4 @@
-- 
-- in several rooms in the house, there is a coat of arms with numbers under it.  It's important somehow.  
+- in several rooms in the house, there is a coat of arms with numbers under it.
 	- [[The Wine Cellar]]
 		- ![[Pasted image 20251213064715.png]]
 	- [[The Master Bedroom]]
@@ -10,4 +9,6 @@
 - according to [[BT - Wine Cellar]] it's 4 numbers.
 - according to [[BT - Mechanarium]] the first number is 1 numeral, the rest are 2.
 - So that means the numbers are.
-- 1000, 200, 11, 2
+- +1000, / 200, - 11, / 2
+- The numbers are part of [[Numeric Coring]]
+- The numeric core of these numbers is 53.

@@ -1,0 +1,7 @@
+- "[[Synka]] in. Founded in 1933, has two facilities - [[The Lab|synka labs]] and [[Synka]] court, a 16-story facilely located in downtown [[Oris (Town)|Oris]]. Featuring 8 floors above ground, and 8 floors below ground."
+- Found on one of the center shelves.
+- ![[Pasted image 20251225193935.png]]
+- Does this have something to do with [[Numeric Coring]]
+- the numbers would be 
+	- 1933, 16, 8, 8
+	- That would come out to 1917 and then 2

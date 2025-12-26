@@ -1,5 +1,6 @@
 #book #Marylin-Maragold
  - See [[Marion Marigold - Mary Matthew Epsen]]
+ - See [[A New Clue Manuscript]]
  - The signs on each page are important. I think it is instructions for someone to take route 8, and keep left so the reach tanner fork (whatever that is) warning them that turning right instead is a dead end.  and to record every stop (sign?)  But what the fuck does that have to do with me?  Idk what that means in context of the house.  However in context of the [[Museum Heist]] this could be a clear message. The [[Grade 9 (Exam)|final exam]] mentions these signs.  
 		 - This is talking about the metro map!
 		 - 8 - 7 - 3 - 10 - 1 - 13

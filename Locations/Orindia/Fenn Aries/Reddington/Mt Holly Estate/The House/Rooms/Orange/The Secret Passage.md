@@ -4,3 +4,6 @@
 - This room will let you force spawn a room of any specific color except blue
 - This room is actually categorized as a dead end. Where did I read this? #question 
 - "A small "deadend" room with an ordinary bookcase, that exemplifies that the best means to escape the confinements of our world has always been through books."
+- Behind the bookcase is letters for the [[Letters puzzle]]
+	- ![[Pasted image 20251225185736.png]]
+		- #need-screenshot that's with the door closed.

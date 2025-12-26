@@ -1,0 +1,2 @@
+- See [[Numeric Cores Intro]]
+- This is a processes of taking 4 or more larger numbers and condensing them into one number of 3 or less digits.

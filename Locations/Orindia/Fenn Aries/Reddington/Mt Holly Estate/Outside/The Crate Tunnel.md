@@ -1,9 +1,11 @@
 #location #outside 
-- ![[Pasted image 20251224232152.png]]
+- ![[Pasted image 20251225165416.png]]
+	- ![[Pasted image 20251224232152.png]]
 	- ![[Pasted image 20251224202557.png]]
 	- ![[Pasted image 20251222111406.png]]
 	- ![[Pasted image 20251222123145.png]]
-- After removing a bunch of crates, I got a [[File Cabinet Key]]
+- After removing a bunch of crates, I got a [[File Cabinet Key]] ^122bd3
+	- It is used in the secret room in the 1st floor of the [[The Rotating Gear Room]]
 - Once the [[Burning Glass]] is used to light the torches, a floorplan becomes visible
 - The floorplan was [[The Tunnel]]
 - [[The Foreman]]'s log 621 was also revealed

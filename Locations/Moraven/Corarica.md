@@ -5,7 +5,7 @@
 - Motes: Academic
 - Color: Orange
 - [[Sanctum Door 5]]
-- Where one of the [[sinclair family]] boys Went to college. I think it was [[Baron Herbert.S. Sinclair]] as seen in [[The Dormitory]] and [[The Bunk Room]]
+- Where one of the [[Sinclair family]] boys Went to college. I think it was [[Baron Herbert.S. Sinclair]] as seen in [[The Dormitory]] and [[The Bunk Room]]
 - The core symbol is sometimes represented multiple times getting darker.  This means something? #question See in [[Grade 4 (Geography)]] and their [[The Library#^9712c6|stamp]]
 - They have [[The Sauna#^742827|traditaional sauna's]] according to the room's description.
 - Gifted [[Fenn Aries]] a dirigible to headway their victory parade at the conclusion of [[The War Of The Fifth Era]]

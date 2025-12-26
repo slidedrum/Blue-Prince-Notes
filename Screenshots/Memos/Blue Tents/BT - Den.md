@@ -1,0 +1,5 @@
+- "The sin associated with this room is often associated with one's use of time."
+- Found next to one of the books standing on a shelf.
+- ![[Pasted image 20251225171328.png]]
+- This could be hinting that [[Green - More to Den]] is indeed talking about the clocks in the room.
+- Maybe it has something to do with [[Room 8#^ed2877]] since one of the puzzle hints for the bear was referring to [[The Den]]

@@ -2,6 +2,7 @@
 - ![[Pasted image 20251214064659.png]]
 - While this room is drawn (not drafted) you can rotate the currently drawn rooms with no cost.
 - Contains some notes from [[Marion Marigold - Mary Matthew Epsen]] to [[her mother]] Sent via her birds.  Only skimmed might be more info
+	- ![[Pasted image 20251225172508.png]]
 	- ![[Pasted image 20251210074553.png]]
 		- 9/1/74
 		- Dear Mother, 

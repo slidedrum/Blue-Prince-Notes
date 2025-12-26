@@ -1,0 +1,5 @@
+- "The full [[Directory]] comprises 46 numbered rooms plus eight categories of eight rooms. 46 + <46>"
+	- Naively solving that gives 110.
+	- Might have something to do with [[Numeric Coring]]
+- Found in the trash can 😢
+- ![[Pasted image 20251225193358.png]]

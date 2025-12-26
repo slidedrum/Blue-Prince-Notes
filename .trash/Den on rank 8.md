@@ -1,0 +1,1 @@
+I want to see the [[Blue Tents]]  note for [[The Den]] according to [[Green - More to Den]] there is something else going on with this room.  Maybe this note will give me a hint?
