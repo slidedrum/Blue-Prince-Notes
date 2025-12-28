@@ -1,0 +1,3 @@
+- "Only six of the notorious \"[[Red Letters]]\" were addressed to [[Baron Herbert.S. Sinclair|Herbert S. Sinclair]]."
+- Found on the right side of the table in the shelves behind boxes.
+- ![[Pasted image 20251227203503.png]]

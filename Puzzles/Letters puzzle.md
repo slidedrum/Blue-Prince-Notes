@@ -1,4 +1,5 @@
 - In [[The Precipice#^d20cff]] behind the [[Weak Wall]] identified in [[The Safehouse - Royal Station]] there are some [[The Precipice#^f2ef48|letters]]
+- This initially just says "Castle" this is a hint for part of [[Chess Pieces]]
 - I have seen this type of letters in several places:
 	- [[Tomb Statue Puzzle|statue]] in [[The Cloister#^d10b76]]
 		-  ![[Pasted image 20251215231039.png]]
@@ -13,10 +14,20 @@
 	- One of the [[Vault Keys|deposit boxes]] in [[The Vault]]?
 		- ![[Pasted image 20251210084228.png]]
 - They read:
-	- CIX
-	- A==D==D
-	- SIX
-	- TOR
-	- LOR
-	- ETT
+
+| C   | I   | X   |
+| --- | --- | --- |
+| A   | D   | D   |
+| S   | I   | X   |
+| T   | O   | R   |
+| L   | O   | R   |
+| E   | T   | T   |
+	- CIX (109)
+	- ADD
+	- SIX (115)
+	- TOR (counter clockwise?)
+	- LOR (word)
+	- ETT (east in [[Erajan]])
+- This is the solution to the [[Unknown tomb]] clock puzzle
 - ![[Pasted image 20251219122346.png]]
+- This matches the squares on the side of the clock in the [[Unknown tomb]]

@@ -35,7 +35,7 @@
 	- Hewam Ovett
 	- Elswim Ajdau
 	- Lerad Nai
-	- Treivenuen
+	- Treivenven
 	- Manevtrei
 - ![[Pasted image 20251218153139.png]]
 	- Erajan Affix Pairings

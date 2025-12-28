@@ -1,16 +1,11 @@
 #location #underground 
 - There are several alcoves along the underground cliffside path
 	- The first, has [[The Foreman]]'s log
+		- ![[Foreman's log 3]]
 	- the second has a lamp, and some other tools that I can not interact with
 	- the third has a room with a chessboard
 	- the fourth has a locked door
 	- the fifth and final alcove has [[Realm & Foreman's copy]] book
-- ![[Pasted image 20251213054657.png]]
-	- [[The Foreman]]'s log 3 
-	- 7.2.1915
-	- As our client [[Baron Thomas Sinclair|Tomas Sinclair]] suspected, the arches that were  visible from the south cliff were part of a much longer  arcade carved into the rockface. Last week, when our crew  first arrived, only two supporting pillars were visible,  but after only a few days of clearing vines, moss and dirt,  we have uncovered a dozen more.  
-	- Our exploration, so far, has been limited and entirely  superficial as every shaft we have surveyed has ended  abruptly and every promising path leading deeper into the  mountain has been blocked by tunnels packed tight with  soil, rock and debris.  
-	- This site is either much older than we had first assumed or  someone deliberately had these chambers buried.
 - ![[Pasted image 20251213054900.png]]
 	- One of the tunnels has a room with a chessboard ^333854
 	- this room matches a drawing from [[The Safehouse - Royal Station#^9dd463]]
@@ -22,9 +17,4 @@
 	- There is a locked door, with no apparent way to open it.
 	- This door connects to [[The Torch Chamber]] it was opened by using the [[Burning Glass]] to light all the [[Ruby Socketed Candlesticks]] in the room ^06f31e
 	- behind the door is log number 20 from [[The Foreman]]
-		- ![[Pasted image 20251213090929.png]]
-			- Foreman's log: 20
-			- 7.25.1915
-			- After waiting the better part of three weeks for the  equipment to be carefully hoisted down the cliffside one  piece at a time, the wait is finally over. Today we begin  our formal foray into the mountain and begin excavation  of the first tunnel. The first of many. 
-			- To prevent future delays, [[Baron Thomas Sinclair|Tomas Sinclair]] has generously  volunteered to install a freight lift to facilitate both  personnel transport. However, after seeing his ornate  designs, one can't help but feeling the Baron's delicate  taste might be better suited for the ballroom crowd.  
-			- Regardless of the particulars, I'm sure my crew won't  object to riding down to the tunnels in fashionable style.
+		- ![[Foreman's log 20]]

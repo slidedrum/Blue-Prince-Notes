@@ -1,0 +1,3 @@
+- "The massive [[The Reservoir|reservoir]] below [[Mount Holly]] receives a natural filtration from the continuous flow of fresh water from two neighboring underground springs, before making its dramatic exit via a waterfall on the south-facing cliff."
+- Found under a pipe
+- ![[Pasted image 20251227211831.png]]

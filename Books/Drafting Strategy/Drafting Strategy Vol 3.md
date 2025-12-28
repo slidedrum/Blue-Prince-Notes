@@ -1,4 +1,4 @@
-#book #drafting-Strategy 
+**#book #drafting-Strategy 
 Base book included with [[The Library]]
 Checked out by [[Kimberly Thompson]]
 ![[Pasted image 20251210053726.png]]

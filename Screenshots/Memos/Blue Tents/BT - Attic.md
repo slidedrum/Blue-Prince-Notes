@@ -1,0 +1,3 @@
+- "[[Simon H. Sinclair|S.H.S]] was born three years after [[Baron Herbert.S. Sinclair|H.S.S]]."
+- Found Below the painting of the two of them as kids.
+- ![[Pasted image 20251227154240.png]]

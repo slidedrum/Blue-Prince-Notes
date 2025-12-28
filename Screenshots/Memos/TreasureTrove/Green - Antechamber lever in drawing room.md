@@ -1,0 +1,5 @@
+- "There is an [[The Antechamber|Antechamber]] lever hidden in the drawing room."
+- Found in a red moon box
+- I'm like 90% sure this is false.
+- ![[Pasted image 20251227145850.png]]
+- According to [[green - Pink moon false]] this is false.

@@ -3,4 +3,5 @@
 - Every time you visit, gains perm +5 [[Coins]] for every future draft
 - contains one [[Trunk|locked chest]] that matches the chests at the bottom of the drained [[The Reservoir|reservoir]]
 - Where did I find this room? #question 
+- If I use the blessing of the monk from [[The Shrine]] to place this room in the [[Outer Room]] then bring the [[The Royal Key of Aries]] I can collect the [[Royal Scepter]]
 - "Turns out the oft rumored "Treasure of Mount Holly" was more than just a rumor."

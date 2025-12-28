@@ -1,7 +1,7 @@
 - "The king can castle by swapping with another piece."
 - Found on a bookshelf.
 - ![[Pasted image 20251226174151.png]]
-- This is referring to [[The Nook]] and other [[Chess Pieces]]
+- This is referring to [[The Nook]] and other [[Chess Pieces]] and leads to [[Unknown tomb]]
 - - The rook rooms are 
 	- [[The Nook]]
 	- [[The Vault]]

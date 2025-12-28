@@ -21,7 +21,7 @@
 		- ![[Pasted image 20251226180934.png]]
 		- Instead of making an offering, it has a note: ^afec5d
 		- ![[Pasted image 20251226180951.png]]
-			- Stead is the scepter
+			- Steady is the scepter ^11f0c0
 			- Deadly is the stone
 			- Heavy is the crown
 			- Ready is the throne

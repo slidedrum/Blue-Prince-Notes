@@ -1,2 +1,0 @@
-- According to [[BT - Nook]] I might be able to castle with rooms as [[Chess Pieces]] 
-- Maybe it isn't with the rooms themselves, maybe I need to use the chess board in [[The Precipice]]?

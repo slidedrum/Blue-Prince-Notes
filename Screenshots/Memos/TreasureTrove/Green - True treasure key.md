@@ -1,3 +1,4 @@
  - "You will need a key to obtain the true treasure of the trove."
  - Found in a black sun chest.
+ - What key is this referring to? #question maybe it's just a normal key and it means inside the box.  but it could also mean another one of the [[12 major keys]] possibly [[The Royal Key of Aries]]?
  - ![[Pasted image 20251217124012.png]]

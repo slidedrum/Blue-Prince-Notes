@@ -1,0 +1,5 @@
+- "The license plate on this car is an acronym."
+- Found in the car on the floor of the drivers seat
+- ![[Pasted image 20251227155450.png]]
+- The license plate is "SWNSNG"  but what does it mean? #question 
+- ![[Pasted image 20251227155522.png]]

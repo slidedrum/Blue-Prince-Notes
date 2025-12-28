@@ -1,3 +1,4 @@
 - "There is only one location in the estate where every room in the [[Drafting Pool]] can be drafted"
 - Found on the celling on the left side of the room.
+- This is referring to the [[Outer Room]] using the blessing of the monk from [[The Shrine]]
 - ![[Pasted image 20251224212232.png]]

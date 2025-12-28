@@ -48,7 +48,7 @@
 			- [[The Rogue Moon]]
 	- On the bottom right we see "The three of Tides" It shows  the "[[isles of orresei]]"
 	- on the bottom we see two moons facing a sleeping sun.   ^e95c26
-		- The left moon is labeled "Isseclipse" and the right moon is labeled "inneclipse"
+		- The left moon is labeled "Isseclipse" and the right moon is labeled "inneclipse" ^2c34bf
 		- On the left we see the [[Tomb Statue Puzzle|angel]] of farming. and on the right we see the [[Tomb Statue Puzzle|angel]] of cleaning?
 - ![[Pasted image 20251210091929.png]]
 	- This map is called: "[[Orrsphere]] - 3rd era"
@@ -79,7 +79,7 @@
 			- Angles 90, 58, 46, and 8 can be seen.
 		- I can also see the words "rot" and "tor"
 		- I'm fairly confident there is #MoreToExploreHere 
-	- On the bottom we see 6 monks(?)  in black robes holding boxes. 
+	- On the bottom we see 6 "[[monks]]"  in black robes holding boxes. 
 		- The monks are flanking a sun in the center, contrast the one from the [[Grade 4 (Geography)#^e95c26|other map]] this sun is awake.
 		- They seem to match either the boxes in [[The Parlor]] or the cursed box from [[The Curse Of BlackBridge]]
 		- There are some symbols behind them, I have seen them before, not sure where.  nor do I have any clue what they mean.

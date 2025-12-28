@@ -1,0 +1,4 @@
+- "The ink well is not the largest constellation."
+- Found in the back row of seats
+- ![[Pasted image 20251227220146.png]]
+- ink well is the constellation that lets you re-roll with stars.

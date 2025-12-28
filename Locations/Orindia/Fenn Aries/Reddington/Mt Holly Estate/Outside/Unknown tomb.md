@@ -1,0 +1,40 @@
+ - After casting with [[Chess Pieces]] a new area opens.  After going in and walking down a long hallway, I emerge in a tomb
+	 - ![[Pasted image 20251227163403.png]]
+ - In the center of the room is a large casket with the sigil core of [[Orinda Aries]]
+	 - ![[Pasted image 20251227162731.png]]
+- Behind the casket is a picture of an old man. 
+	- ![[Pasted image 20251227162756.png]]
+	- I think this is [[Lord Arthur Clementine]], the original owner of the estate.  (see [[Mt Holly Estate Deed]])
+- Along the walls of the room are 8 "[[monks]]" holding [[Orinda Aries]] [[Mora Jai Puzzle Boxes]]
+	- ![[Pasted image 20251227163304.png]]
+	- ![[Pasted image 20251227163314.png]]
+- After opening all of the [[Mora Jai Puzzle Boxes]] two poems are revealed.  They start furthest away from the person.
+	- On the left: 
+		- The black key is lying with the last king of eight
+			- ![[Pasted image 20251227165938.png]]
+		- A patient figure a reckoning great
+			- ![[Pasted image 20251227170348.png]]
+		- A sullen cross as five stars align
+			- ![[Pasted image 20251227170459.png]]
+		- And in sky above a brilliant sign
+			- ![[Pasted image 20251227170652.png]]
+	- On the right:
+		- In Aries court where the king now lays
+			- ![[Pasted image 20251227165131.png]]
+		- on the sacred hour that timeworn phrase
+			- ![[Pasted image 20251227164816.png]]
+		- Will a youth approach with empty arms
+			- ![[Pasted image 20251227164646.png]]
+		- Without gifts nor gold nor mannered charms
+			- ![[Pasted image 20251227164348.png]]
+- After coming to the tomb at 1:30 with 0 items and The Southern Cross star sign, the tomb in the center raised up and revealed a clock:
+	- ![[Pasted image 20251227184517.png]]
+	- The clock has the infinity symbol in the center.   
+	- 2:00 is marked as "north"
+	- 5:00 is marked as "east"
+	- 8:00 is marked as "south"
+	- 11:00 is marked as "west"
+	- I can change the time of the clock and then press a button.  I need to find what the correct time is.
+- On the side of the clock are some squares that match the "castle" [[Letters puzzle]]
+	- ![[Pasted image 20251227185137.png]]
+- Once you follow the instructions from the [[Letters puzzle]], you get [[The Royal Key of Aries]]

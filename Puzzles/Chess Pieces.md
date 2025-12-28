@@ -18,32 +18,39 @@ I see chess pieces fucking everywhere!
 	- [ ] [[The Bunk Room]]: 2 #Black-pawn
 	- [ ] [[The Parlor]]: #Black-pawn
 	- [ ] [[The Guest bedroom]]: #White-pawn
-	- [ ] [[The Den]]: #White-pawn
+	- [x] [[The Den]]: #White-pawn
 	- [ ] [[The Freezer]] #White-pawn 
 	- [ ] [[The Storeroom]]: #White-Pawn
 	- [ ] [[The Drawing room]]: #White-pawn
 	- [ ] [[The Bedroom]]: #White-pawn
-	- [x] [[The Dining Room]]: #White-pawn
+	- [ ] [[The Dining Room]]: #White-pawn
 	- [ ] [[The Drafting Studio]]: #Black-pawn 
 	- [ ] [[The Secret Passage]]: #Black-pawn 
 - Rook:
-	- [x] [[The Nook]]: #White-Rook
+	- [ ] [[The Nook]]: #White-Rook
 	- [ ] [[The Vault]]: #White-rook
 	- [ ] [[The Clock Tower]]: #Black-rook
-	- [ ] [[The Conservatory]] #Black-rook 
+	- [x] [[The Conservatory]] #Black-rook 
 - Knight:
 	- [x] [[The Observatory]]: #White-knight
 	- [ ] [[The Security Room]]: #White-knight
 	- [ ] [[The Treasure Trove]]: #black-Knight
 - Bishop:
-	- [x] [[The Chapel]]: #White-bishop
-	- [ ] [[The Attic]]: #White-bishop
+	- [ ] [[The Chapel]]: #White-bishop
+	- [x] [[The Attic]]: #White-bishop
 - Queen:
 	- [ ] [[The Study]]: #Black-Queen (And normal sized on an [[The Study#^987df8|actual chessboard]])
 	- [x] [[Her Ladyship's Chamber]]: #white-queen
 - King:
 	- [x] [[The Office]]: #white-king
-	- [ ] [[The Throne room]] #black-king
+	- [x] [[The Throne room]] #black-king\
+
+- If you have the rook power, and then switch to the king power a new door opens
+	- Presumably this is also possible if you have king and switch to rook.  
+	- This is what the castling hints were pointing to. 
+		- [[BT - office]]
+		- [[BT - Nook]]
+		- [[Letters puzzle]] (probably still more here)
 
 
 

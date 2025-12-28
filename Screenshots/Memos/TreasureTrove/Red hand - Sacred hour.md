@@ -1,0 +1,3 @@
+- "The sacred hour is not technically \"on the hour\"."
+- Found in a blue moon chest
+- ![[Pasted image 20251227225940.png]]

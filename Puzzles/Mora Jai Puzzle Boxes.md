@@ -18,3 +18,5 @@
 - ![[Puzzle Box - Mora Jai (Original) Variation]]
 - ![[Puzzle Box - Verra Variation]]
 - ![[Puzzle Box - Nuance Variation]]
+- The Mount. Holly Variation.
+	- ![[Pasted image 20251228005150.png]]

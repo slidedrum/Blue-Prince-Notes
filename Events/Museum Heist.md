@@ -10,7 +10,8 @@
 - ![[Pasted image 20251219134348.png]]
 	- See [[Museum Heist Map]]
 - ![[Pasted image 20251210045640.png]]
-	- See [[The Security Room]]
+	- See [[The Security Room]] ^316f57
+	- There is a similar picture in [[The Attic#^fcdd4e]]
 	- The "A" is pointing to the camera in [[The Archives]]
 	- It's saying to delete archival footage.
 	- This has been mentioned in a few other places too around the game.

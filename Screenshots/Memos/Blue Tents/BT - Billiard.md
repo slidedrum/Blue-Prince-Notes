@@ -1,0 +1,3 @@
+- "The bullseye operation can trigger multiple times."
+- Found behind the puzzle door after being solved.
+- ![[Pasted image 20251227155230.png]]

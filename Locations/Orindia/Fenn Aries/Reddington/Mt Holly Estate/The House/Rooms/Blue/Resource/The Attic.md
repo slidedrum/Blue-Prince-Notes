@@ -26,4 +26,7 @@
 	- ![[Pasted image 20251213012123.png]]
 		- Clock gear, matching [[The Den]] and many other rooms
 		- A vase matching the ones I broke in [[The Entrance Hall]] that gave me a [[Microchips]]
+- There is a red scribbled picture of [[The Security Room]] hidden in the corner. ^fcdd4e
+	- ![[Pasted image 20251227153705.png]]
+	- There is a similar picture in [[Museum Heist#^316f57|the safehouse]]
 - "High above the mansion in its lofty perch, Mt. Holly's Attic provides curious explorers with a cache of dusty keepsakes, trinkets, and clues from a long-forgotten past."

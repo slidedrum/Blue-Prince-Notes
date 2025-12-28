@@ -2,3 +2,34 @@
 - The language of [[Eraja]] (See [[The Rotundra#^d4bc0e]])
 - I learn how to read it in [[Grade 8 (Language)]]
 - I need to translate [[Lady Clara Epsen]]'s [[The Tomb#^409e47|note]] in [[The Tomb]]
+
+- Known words
+	- Rot - Clockwise rotation
+	- Tor -  Counterclockwise rotation
+	- Lor - Word
+	- Jor - Name
+	- Hew - House
+	- Trei - Tree
+	- Yait - Gate
+	- Lune - Water
+	- Dau - Day
+	- Nai - Night
+	- Arei - Future
+	- Inn - North
+	- Ett - East
+	- Iss - South
+	- Orr - West
+	- Ajlor - Hello
+- Prefix
+	- Aj - first
+	- Ma - Small
+	- Ov - Toward
+	- Nev - New/The start of
+	- El - I/me
+	- Nev - New
+- Suffix
+	- Ja - Last
+	- Am - Large
+	- Vo - Away
+	- Ven - Old/The End OF
+	- Le - A lack of myself

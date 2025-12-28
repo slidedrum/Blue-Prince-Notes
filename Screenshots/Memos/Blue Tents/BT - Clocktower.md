@@ -1,0 +1,4 @@
+- "Inneclipses only appear in the north sky."
+- Found under the piece of one of the sigils on the top of the tower.
+- ![[Pasted image 20251227151516.png]]
+- I have heard this word in [[Grade 4 (Geography)#^2c34bf]]

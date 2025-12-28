@@ -1,1 +1,0 @@
-- In [[Her Ladyship's Sleep Diary]] there is a drawing of the west bridge on the last page.

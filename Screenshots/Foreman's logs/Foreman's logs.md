@@ -1,0 +1,2 @@
+- [[The Foreman]] has many logs from his excavation under the [[Mount Holly]] [[Estate]]
+- In this folder is all of the logs I have found so far.

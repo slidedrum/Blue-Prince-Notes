@@ -1,4 +1,5 @@
 - "There are three memos with false statements in the clock tower."
 - Found in a white moon box
+- This is true
 - ![[Pasted image 20251224213323.png]]
 - It is referring to the memos in the [[The Clock Tower#^fe5215|clock puzzle]]

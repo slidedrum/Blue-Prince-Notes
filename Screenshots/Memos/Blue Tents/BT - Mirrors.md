@@ -1,0 +1,3 @@
+ - "If an [[Items|item]] would *[[spread]]* into [[The Chamber of Mirrors]], four of those [[items]] are *[[spread]]* instead."
+ - Found behind the dresser in any of the corners.
+ - ![[Pasted image 20251227215627.png]]

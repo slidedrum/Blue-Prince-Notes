@@ -237,7 +237,7 @@
 		- [ ] C - Leavelu?
 		- [ ] D - Le
 - ![[Pasted image 20251218160611.png]]
-	45. Using the provided Erajan terms for cardinal directions above, what would be the clearest way you could give directions to someone at point A to get them to point B.
+	45. Using the provided [[Erajan]] terms for cardinal directions above, what would be the clearest way you could give directions to someone at point A to get them to point B.
 		- [ ] A - Inn Ett Iss
 		- [ ] B - Ett Trei
 		- [ ] C - Ajinn Ett Ovtrei Issja Treivo

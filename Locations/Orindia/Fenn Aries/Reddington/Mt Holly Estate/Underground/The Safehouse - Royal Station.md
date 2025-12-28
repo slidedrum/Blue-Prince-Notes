@@ -23,6 +23,7 @@
 	- Who are the other two?  #question 
 	- Seen the guy on the left before.  Kinda looks like [[Baron Herbert.S. Sinclair]] but I don't think it is
 	- The other two are likely 2 of the 3 other names mentioned in [[Museum Heist]] map
+- ![[Pasted image 20251227231819.png]]
 # Train Metro Map ![[Pasted image 20251210050343.png]] ^de2066
 1. [[Oris Train Hall]]
 2. [[East Depot]]

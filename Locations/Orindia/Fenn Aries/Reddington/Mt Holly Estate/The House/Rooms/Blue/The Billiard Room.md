@@ -10,4 +10,7 @@
 - Order of operations are inside out
 - If the center is a colored square, you multiply ALL numbers of that color by itself before moving on.
 - There is also a squiggly sign that can show up, that means round (upward bias).  One squiggle means round to the first digit, 2 means round to the 2nd digit, and so on.
+- On the side of the jukebox is a note scratched into it:
+	- ![[Pasted image 20251227154943.png]]
+	- "hanging out here once again  really reminds me of the  good old days at \"The Mice will Play\""
 - "This smoky backroom, featuring a pool table and fully stocked bar, has served as a retreat on more than one occasion for guests lacking the social wit required for after-dinner conversation. A rather curious game of darts provided the less competitive players a unique opportunity to ponder over its unusual rules."

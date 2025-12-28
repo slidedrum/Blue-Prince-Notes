@@ -1,0 +1,4 @@
+- "The elephant belongs in this bin"
+- Found in the "wrath" bin
+- ![[Pasted image 20251227220002.png]]
+- 

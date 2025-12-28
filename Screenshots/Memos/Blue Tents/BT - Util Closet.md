@@ -1,0 +1,3 @@
+-  "D.C. Power's designs for the V.A.C controls were partly inspired by the gift they received from their client: an original [[Mora Jai]] [[Mora Jai Puzzle Boxes|Box]]"
+- Found behind the VAC indicators after opening the secret door.
+- ![[Pasted image 20251227150755.png]]

@@ -1,0 +1,4 @@
+- "The [[Baron Herbert.S. Sinclair|Baron]] began and ended his travels in the same realm."
+- Found in a white fire chest
+- This is true.
+- ![[Pasted image 20251227161946.png]]

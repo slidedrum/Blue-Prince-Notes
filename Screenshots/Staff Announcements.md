@@ -72,7 +72,7 @@
 - ![[Pasted image 20251220214102.png]]
 	- Friday, April 8th, 1994 
 	- I can confirm that this morning, as I was driving up to the estate to reset the house, I did see that the satellite was up. So, it appears the young master does, in fact, have complete mastery of the house.  
-	- -[[Anne Babbage]]
+	- -[[Mrs Anne Babbage|Anne Babbage]]
 - ![[Pasted image 20251224195629.png]]
 	- Saturday, April 9th, 1994  
 	- Yay! I'm going to guess that means he's likely already reached [[ROOM 46]] then! I knew he would pull it off, I just knew it!  Congratulations [[Simon P. Jones|Simon]] !!!  
@@ -100,7 +100,7 @@
 - ![[Pasted image 20251225162836.png]]
 	- Tuesday, April 19th, 1994  
 	- Yes, I've heard [[Lady Clara Epsen|Her Ladyship]] talk about this as well, when  she was still with us. So I can confirm that there's some  validity in it and it's not just another case of [[Hartley Ruota|Harley]] rambling on. (or maybe it can be both?)  
-	- -[[Anne Babbage|Anne]]
+	- -[[Mrs Anne Babbage|Anne]]
 - ![[Pasted image 20251226144933.png]]
 	- Saturday, April 23rd, 1994  
 	- [[Simon P. Jones|Simon]], remind me when I come back to work to create you a [[BlackBridge Terminal|Blackbridge]] Admin Key, as you are obviously very technically proficient, perhaps even more so than most of my staff here! Funny enough, following our format the naming of your Admin Key would theoretically be JoneS which might be the first one where the Admin Key is the same as the last name.  
@@ -109,3 +109,23 @@
 	- Thursday, April 28th, 1994 
 	- We had an informal staff meeting today in [[Reddington]], and we all agreed that providing you with more assistance will expedite our return to work. We feel we've had more than enough vacation! Of course, if you prefer to work independently, please feel free to disregard our more "helpful" messages on these boards.  
 	- -[[Kimberly Thompson]]
+- ![[Pasted image 20251227145049.png]]
+	- Monday, May 2nd, 1994  
+	- [[Randolph Moore|Randolph]], Can you see on the network how many [[Upgrade Disk|Upgrade Disks]] [[Simon P. Jones|Simon]] has found? I thought it might be helpful to him if he knew how many were still left on the estate. According to the last backup I did, I believe there were a total of 16 Upgrade Disks that we produced for the estate.  
+	- -[[Kimberly Thompson]]
+- ![[Pasted image 20251227180151.png]]
+	- Tuesday, May 3rd, 1994  
+	- Surprisingly, according to the network records, [[Simon P. Jones|Simon]] has actually found and used all 16 [[Upgrade Disk|upgrade discs]]! Which is  crazy, because I'm not even sure I knew where half of them were kept.  
+	- -[[Randolph Moore|Randolph]]
+- ![[Pasted image 20251227180159.png]]
+	- Friday, May 6th, 1994  
+	- [[Simon P. Jones|Simon]], Last weekend, I started making a list of [[Upgrade Disk|Upgrade disks]] I knew of. It's only half of them, but hopefully it will be of some help!  [[Her Ladyship's Chamber]] - [[The Mechanarium|Mechanarium]] - [[The Freezer|Freezer]] - [[The Morning Room|Morning Room]] - [[The Tomb|Tomb]] - [[The Great Hall|Great Hall]] - [[The Vault|Vault]] - [[The Garage|Garage]]  
+	- -[[Kimberly Thompson|Kimberly]]
+- ![[Pasted image 20251227203907.png]]
+	- Saturday, May 7th, 1994
+	- Oh and I think there's one in [[the Archives]], but it's locked in a [[Filing Cabinets|file cabinet]]. [[Mrs Anne Babbage|Anne]] might know where that [[File Cabinet Key|key]] is.  
+	- -[[Kimberly Thompson|Kimberly]]
+- ![[Pasted image 20251227212257.png]]
+	- Sunday, May 8th, 1994  
+	- There's actually two [[File Cabinet Key|file cabinet keys]] I hid for [[Baron Herbert.S. Sinclair|the Baron]], but I think the one you're talking about is buried by the grill in [[the patio]].  I'd have to double check [[the Aquarium]] to be certain.  
+	- -[[Anne Babbage|Anne Babbage]]

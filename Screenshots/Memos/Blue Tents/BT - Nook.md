@@ -1,7 +1,7 @@
 - "The rook can perform a special move with another piece."
 - Found on the bottom right side shelf.
 - ![[Pasted image 20251226153226.png]]
-- this is referring to the [[Chess Pieces]].  
+- this is referring to the [[Chess Pieces]].  It leads to [[Unknown tomb]]
 - The other rook rooms are 
 	- [[The Vault]]
 	- [[The Clock Tower]]
@@ -9,4 +9,3 @@
 - The king rooms are
 	- [[The Office]]
 	- [[The Throne room]]
-- Surely this means I can swap rooms around somehow? But like, why tho?

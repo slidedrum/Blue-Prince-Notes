@@ -1,6 +1,6 @@
 - "The high pressure condenser box is connected to not one, but two remote power boxes."
 	- This is referring to the red box.
 	- One of them takes you to the 2nd floor of the [[The Rotating Gear Room]]
-	- the other is one of the locked doors in [[Unknown]]
+	- the other is one of the locked doors in [[Door test]]
 - Found on the side of one of the pillars on the bottom floor.
 - ![[Pasted image 20251226174654.png]]

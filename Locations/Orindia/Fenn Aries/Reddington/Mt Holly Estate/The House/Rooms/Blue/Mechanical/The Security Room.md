@@ -19,7 +19,8 @@
 	- Any questions or concerns regarding this process should be directed as always to our House Manager Mrs. Babbage.  
 	- TERMINAL PASSWORD: ~~SWANSONG~~
 - ![[Pasted image 20251210045716.png]]
-	- see [[The Safehouse - Royal Station]]
+	- see [[Museum Heist#^316f57]]
+	- and [[The Attic#^fcdd4e]]
 - ![[Pasted image 20251213062738.png]]
 	- UNTIL FURTHER NOTICE, THE ANTECHAMBER HAS BEEN 'UNLOCKED' AND ACCESS LEVERS ARE NO LONGER REQUIRED TO GRANT ENTRY
 - ![[Pasted image 20251213062746.png]]
