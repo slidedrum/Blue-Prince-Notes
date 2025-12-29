@@ -1,0 +1,3 @@
+- "The figure of eight, in it's symbolic guise as infinity, has come a long served as a vessel of both death and the unfathomable."
+- Found on the bottom of one of the shelves
+- ![[Pasted image 20251228172013.png]]

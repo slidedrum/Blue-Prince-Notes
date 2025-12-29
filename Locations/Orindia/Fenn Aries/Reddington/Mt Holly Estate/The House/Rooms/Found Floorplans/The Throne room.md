@@ -4,7 +4,7 @@
 
 - Has a northern lever for [[The Antechamber]] behind the throne.
 - Contained a [[Sanctum Key]]
-- Once I take [[Blue Prints Crown]], [[Royal Scepter]] and [[cursed effigy]], gets upgraded to "Throne of the blue prince"
+- Once I take [[Blue Prints Crown]], [[Royal Scepter]] and [[cursed effigy]] into this room, it gets upgraded to "Throne of the blue prince"
 	- After ascension a mount holly [[Mora Jai Puzzle Boxes]] appears.
 		- ![[Pasted image 20251228005108.png]]
 		- ![[Pasted image 20251228005127.png]]

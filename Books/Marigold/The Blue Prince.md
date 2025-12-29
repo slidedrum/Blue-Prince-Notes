@@ -1,0 +1,53 @@
+- ![[Pasted image 20251228151706.png]]
+- ![[Pasted image 20251228151712.png]]
+	- The Blue Prince
+	- By [[Marion Marigold - Mary Matthew Epsen|Mary Matthew Jones]]
+- ![[Pasted image 20251228151717.png]]
+	- To my son [[Simon P. Jones|Simon]]
+	- In whose eyes I see the world anew.
+- ![[Pasted image 20251228151723.png]]
+	- There was a Blue Prince,
+	- Who sat on a Blue Throne,
+	- He had a blue crown made of sapphires,
+	- And a blue castle made of stone.
+- ![[Pasted image 20251228151727.png]]
+	- The prince had a love,
+	- For all things Blue,
+	- \"it's the only true color,
+	- In my humble view.\"
+- ![[Pasted image 20251228151747.png]]
+	- He couldn't stand the tint,
+	- of a hallway or a shop.
+	- He couldn't stand the shade 
+	- Of trees the green rooms brought.
+- ![[Pasted image 20251228151759.png]]
+	- He seldom talked to others,
+	- For they rarely shared this view.
+	- He never went to town,
+	- Nor saw the flags they flew,
+- ![[Pasted image 20251228151805.png]]
+	- And do you know wich game,
+	- The prince instead would play?
+	- The one that made him happy,
+	- Whenever skies were gray?
+- ![[Pasted image 20251228151811.png]]
+	- A game he had played,
+	- In the house and the grounds,
+	- And maybe you can guess,
+	- From the clues that we have found,
+- ![[Pasted image 20251228151815.png]]
+	- It was a game full of rooms,
+	- And the stories that we climb,
+	- About a house full of lies,
+	- and the truth that one prince finds.
+- ![[Pasted image 20251228151819.png]]
+	- And as you my reader
+	- might already assume,
+	- this game is quite near you
+	- in fact in the same room.
+- ![[Pasted image 20251228151826.png]]
+	- A game about you, and the plans that you made,
+	- About a blue prince and his blueprints,
+	- The blue game we just played.
+- ![[Pasted image 20251228151831.png]]
+	- The End

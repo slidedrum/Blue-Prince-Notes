@@ -1,0 +1,1 @@
+- "The scientific foundation of architectural drafting, combining advanced principles of spatial suspension and temporal anchoring, was developed and refined at the Pharias High Institute of [[Corarica]] at the beginning of their realm's 15th era."

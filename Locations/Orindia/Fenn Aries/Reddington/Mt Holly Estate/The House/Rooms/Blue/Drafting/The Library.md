@@ -19,5 +19,5 @@
 			- [[Moraven]]
 - All of my [[The Workshop]] contraptions
 	- ![[Pasted image 20251225164400.png]]
-	- 
+- There are two empty books in the corners, they are used for [[Auravei's square word puzzle]]
 - "Two stories of wall-to-wall books surround the reader in this room, exhibiting either a bountiful spring of knowledge or typical interior design sensibilities of the wealthy. A few books have been withdrawn from the shelves and placed on rostrum stands in various corners of the library."

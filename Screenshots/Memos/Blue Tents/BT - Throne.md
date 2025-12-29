@@ -1,0 +1,3 @@
+- "The family core is kept in the family vault."
+- Found behind the pillar to the right of the throne
+- ![[Pasted image 20251228154328.png]]
