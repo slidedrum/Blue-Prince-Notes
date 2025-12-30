@@ -28,7 +28,7 @@
 			- [[Sleeping Mask]]
 			- [[Sledgehammer]]
 		- ![[Pasted image 20251221151130.png]]
-			- If you would like to get a specific brand of gum or your favorite fruit, [[the Commissary]] is now taking Special Orders for all members of the staff.
+			- If you would like to get a specific brand of gum or your favorite fruit, [[The Commissary]] is now taking Special Orders for all members of the staff.
 			- (Special Orders can take 1 - 3 days)
 			- I think this just means the items is guaranteed to be buyable in [[The Commissary]], not that you directly get the [[Items]]
 	- [[Glossary of Terms]]

@@ -75,7 +75,7 @@
 	- -[[Mrs Anne Babbage|Anne Babbage]]
 - ![[Pasted image 20251224195629.png]]
 	- Saturday, April 9th, 1994  
-	- Yay! I'm going to guess that means he's likely already reached [[ROOM 46]] then! I knew he would pull it off, I just knew it!  Congratulations [[Simon P. Jones|Simon]] !!!  
+	- Yay! I'm going to guess that means he's likely already reached [[Room 46]] then! I knew he would pull it off, I just knew it!  Congratulations [[Simon P. Jones|Simon]] !!!  
 	- -[[Kimberly Thompson]]
 - ![[Pasted image 20251224195731.png]]
 	- Sunday, April 10th, 1994  
@@ -91,7 +91,7 @@
 	- -[[Randolph Moore]]
 - ![[Pasted image 20251224213705.png]]
 	- Friday, April 15th, 1994  
-	- Simon, now that you have a [[The Satellite Dish|satellite connection]], you should be able to connect to [[SYNKA]] to download some new experimental data packets for [[the lab]]. We've been working on a lot of interesting and innovative [[Lab Experiments|experiments]] here, and it would be great if you could try them out for us and provide us with some valuable data.  
+	- Simon, now that you have a [[The Satellite Dish|satellite connection]], you should be able to connect to [[SYNKA]] to download some new experimental data packets for [[The Lab]]. We've been working on a lot of interesting and innovative [[Lab Experiments|experiments]] here, and it would be great if you could try them out for us and provide us with some valuable data.  
 	- -[[Randolph Moore|Moore]]
 - ![[Pasted image 20251224233003.png]]
 	- Monday, April 18th, 1994  
@@ -123,9 +123,9 @@
 	- -[[Kimberly Thompson|Kimberly]]
 - ![[Pasted image 20251227203907.png]]
 	- Saturday, May 7th, 1994
-	- Oh and I think there's one in [[the Archives]], but it's locked in a [[Filing Cabinets|file cabinet]]. [[Mrs Anne Babbage|Anne]] might know where that [[File Cabinet Key|key]] is.  
+	- Oh and I think there's one in [[The Archives]], but it's locked in a [[Filing Cabinets|file cabinet]]. [[Mrs Anne Babbage|Anne]] might know where that [[File Cabinet Key|key]] is.  
 	- -[[Kimberly Thompson|Kimberly]]
 - ![[Pasted image 20251227212257.png]]
 	- Sunday, May 8th, 1994  
-	- There's actually two [[File Cabinet Key|file cabinet keys]] I hid for [[Baron Herbert.S. Sinclair|the Baron]], but I think the one you're talking about is buried by the grill in [[the patio]].  I'd have to double check [[the Aquarium]] to be certain.  
+	- There's actually two [[File Cabinet Key|file cabinet keys]] I hid for [[Baron Herbert.S. Sinclair|the Baron]], but I think the one you're talking about is buried by the grill in [[The Patio]].  I'd have to double check [[The Aquarium]] to be certain.  
 	- -[[Anne Babbage|Anne Babbage]]

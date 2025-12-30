@@ -41,7 +41,7 @@
 	- Although these past few months of exploration have yet to yield the fruit I seek, I have, in that time, gained a much greater mastery of the estate and have stolen many glimpses behind the black curtain that veils her many secrets.  
 	- Among the more exciting of my recent finds was the discovery of a hidden chamber in one of the outer rooms, sealed shut behind a false wall. The stale quality of the air and the unmistakable aroma of corroded metal lead me to believe that this chamber has remained sealed for many decades. Within it, I found a large vat and a copper still, their timeworn surfaces streaked with creeping veins of oxidation and rust. ^f45d6d
 	- ==Resealed in January after deal in Reddington fell through==
-	- I am unsure if these instruments can be restored to working condition, but if they can, I may yet find a use for the sugar beets and potato stores rotting away in [[the Root Cellar]].
+	- I am unsure if these instruments can be restored to working condition, but if they can, I may yet find a use for the sugar beets and potato stores rotting away in [[The Root Cellar]].
 - ![[Pasted image 20251215062001.png]]
 	- August 4th, 1991  
 	- At last! I have finally discovered a location of one of the north levers! It is deep underground in a location so far removed from any of the estate's plant life that had I been discovered, I would have been completely vulnerable without any excuse but curiosity to offer to my captor.  

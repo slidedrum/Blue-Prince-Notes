@@ -5,7 +5,7 @@
 	- Green swaps across center
 	- White turns adjacent tiles, white -> grey, grey -> white
 	- Red turns black to red, and white to black
-	- Orange turns to whatever color it is surrounded by?
+	- Orange turns to whatever color it is surrounded by
 	- Pink, rotates the outer squares
 	- Violet swaps down
 - There seems to be one behind every door in the [[The Inner Sanctum]]

@@ -1,14 +1,14 @@
 1. ![[Pasted image 20251222101206.png]]
 	- DATE: NOV. 5 1986. Subject: Another Request.
 	- [[Kirk Darren|Mr. Darren]], 
-	- If you have any more of those red and blue memo-sheets, [[Baron Herbert.S. Sinclair|the Baron]] has requested a handful of each for a new project he is working on in [[the Clock Tower]].
+	- If you have any more of those red and blue memo-sheets, [[Baron Herbert.S. Sinclair|the Baron]] has requested a handful of each for a new project he is working on in [[The Clock Tower]].
 		- This is referring to the [[The Clock Tower#^fe5215|1:30 puzzle]]
 	- For my part, I can't understand for the life of me why you and [[Baron Herbert.S. Sinclair|the Baron]] continually insist on confounding my staff and every other person who stumbles upon one of your colored memos. I'm not confident confusion is the best security, but it's not my department so Ill leave that up to you and [[Baron Herbert.S. Sinclair|the Baron]]  
 	- -[[Mrs Anne Babbage|Anne Babbage]]  
 2. ![[Pasted image 20251222101225.png]]
 	- Date: Jan. 24 1987.  Subject: security measures
 	- [[Mrs Anne Babbage|Mrs. Babbage]],  
-	- I'd like to address one potential security vulnerability of having an [[The Antechamber|antechamber]] lever in [[the Weight Room]]. As the years have gone by, [[Baron Herbert.S. Sinclair|the Baron]]'s frequency of working out in this room has gone from once in a red moon to as rare as a man without self-pity.  
+	- I'd like to address one potential security vulnerability of having an [[The Antechamber|antechamber]] lever in [[The Weight Room]]. As the years have gone by, [[Baron Herbert.S. Sinclair|the Baron]]'s frequency of working out in this room has gone from once in a red moon to as rare as a man without self-pity.  
 	- As such, we find this room mostly relegated to guest use and given that, an [[The Antechamber|antechamber]] lever is not only unsuited but also poses a security risk. I advise we either remove or conceal it and install a secondary lever to control the south entrance.  
 		- South lever was moved to [[The Greenhouse]]
 	- -[[Kirk Darren]]

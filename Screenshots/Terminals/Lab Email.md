@@ -1,7 +1,7 @@
 1. ![[Pasted image 20251222103828.png]]
 	- Date: Apr. 4 1987.  Subject: freezer access
 	- [[Randolph Moore|Randolph]], 
-	- As I know you've been conducting temperature-related experiments this past week, I've tried my best to avoid accessing my frozen stock during your normal working hours, however, on Friday I was making my famous black truffle pizza and had to visit [[the freezer]] for a few ingredients. I hope I didn't mess anything up!  
+	- As I know you've been conducting temperature-related experiments this past week, I've tried my best to avoid accessing my frozen stock during your normal working hours, however, on Friday I was making my famous black truffle pizza and had to visit [[The Freezer]] for a few ingredients. I hope I didn't mess anything up!  
 	- -[[Chef DeCamp]]
 2. ![[Pasted image 20251222103848.png]]
 	- Date: Apr. 5 1987.  RE: freezer access

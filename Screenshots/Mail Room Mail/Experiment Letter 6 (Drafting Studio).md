@@ -6,5 +6,5 @@
 	- About a week before [[Baron Herbert.S. Sinclair|Sinclair]] died, something rather curious happened. A few lab assistants were called by [[Mrs Anne Babbage|Mrs. Babbage]], the house manager, to remove several floorplans from Sinclair's [[The Drafting Studio|Drafting Studio]]. Typically all of the unused floorplans are kept there and I have never heard of them being moved to another location, nor would I presume to guess the reason for such an action. I'm not sure which floorplans were removed or where they were moved to, save one, which I was instructed to remove myself.
 - ![[Pasted image 20251217144044.png]]
 	- Assuming it was not moved again after I hid it, you should be able to find it in [[The Observatory]], hidden within the lens compartment of the telescope therein.  
-	- If there was a reason behind the removal of these floorplans from [[the Drafting Studio]], hopefully this will serve as the first illuminating step toward finding out why.  
+	- If there was a reason behind the removal of these floorplans from [[The Drafting Studio]], hopefully this will serve as the first illuminating step toward finding out why.  
 	- -[[Randolph Moore|Randolph]]

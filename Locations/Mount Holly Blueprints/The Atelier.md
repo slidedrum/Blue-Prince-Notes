@@ -1,0 +1,12 @@
+- After pouring still water from the hole in [[The Trading Post]] onto one of the books in [[The Secret Passage]] after drafting it in the [[Outer Room]] via the monk blessing from [[The Shrine]].  I can enter this room.
+- It is a room full of blue prints for the house, it seems like where the design plans were originally laid.  
+- In the center is a drafting table with a note on it:
+	- ![[Pasted image 20251229195618.png]]
+		- When first I embarked upon this project, it was my intent to craft inviting rooms that might appeal to the citizens of the realm. I had even secured an arrangement with a local firm which was to oversee the mass production of the floorplans. yet now, after walking the halls of my work, I must confess that I have grown altogether too attached to these rooms. They have become a part of me, and knowing how little regard is often shown for that which I hold sacred, I find myself unequal to the selfless task of sharing them with the world.  
+		- I am content with this resolution, for this house and the forty-five rooms therein are more than the fest work of my career. They are home.  
+		- [[Baroness Auravei|Lady Auravei]]
+		- Project compleated November 1913
+- At the end of the room, is a door, it leads to [[The Mount Holly Blueprints]]
+- On the door is a map of the house, not all rooms are labeled, but the ones that are, match the actual layout of the house.
+	- ![[Pasted image 20251229221050.png]]
+- I have a map of the following area here [[Map of the blueprints.canvas|Map of the blueprints]]

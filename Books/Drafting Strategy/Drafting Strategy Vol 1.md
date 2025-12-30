@@ -106,7 +106,7 @@
 - ![[Pasted image 20251209210347.png]] ^6b99dd
 # PRISMATIC ROOMS
 - Architectural Digest's Guide to [[Prismatic Rooms|Multicolored Floorplans]]
-- You may, on rare occasions, notice some floorplans that have more than one color in their design. These rooms are unique in that they simultaneously share all the characteristics of each type of room associated with those colors. For example, a floorplan with a [[Bedroom|violet]] and [[Shop|gold]] border would be best described as a bedroom shop, while an [[Hallway|orange]] and [[Green Room|green]] one might contain a corridor of greenery and plants. [[The AQUARIUM]] is a very useful, [[Prismatic Rooms|multicolored floorplan]], as it supports all of the color-based strategies listed in this volume. For example, it can give you bonus [[steps]] for having a [[The Nursery|NURSERY]] as well as being unlocked for having a [[The Foyer|FOYER]].
+- You may, on rare occasions, notice some floorplans that have more than one color in their design. These rooms are unique in that they simultaneously share all the characteristics of each type of room associated with those colors. For example, a floorplan with a [[Bedroom|violet]] and [[Shop|gold]] border would be best described as a bedroom shop, while an [[Hallway|orange]] and [[Green Room|green]] one might contain a corridor of greenery and plants. [[The Aquarium]] is a very useful, [[Prismatic Rooms|multicolored floorplan]], as it supports all of the color-based strategies listed in this volume. For example, it can give you bonus [[steps]] for having a [[The Nursery|NURSERY]] as well as being unlocked for having a [[The Foyer|FOYER]].
 - Pictured [[The Aquarium]]
 - Pictured [[The Maid's Chamber]] 
 - ![[Pasted image 20251209210353.png]] ^33d142

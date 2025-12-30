@@ -1,0 +1,5 @@
+- ![[Pasted image 20251230010914.png]]
+- ![[Pasted image 20251230010922.png]]
+- ![[Pasted image 20251230010932.png]]
+	- "TO"
+	- ![[Pasted image 20251230011055.png]]

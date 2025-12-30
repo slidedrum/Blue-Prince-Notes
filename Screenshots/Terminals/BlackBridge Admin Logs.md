@@ -12,7 +12,7 @@ See [[Thoughts on Black Bridge Admin Logs]]
 		- I only hope that our servers do not suffer that same fate that befell those in [[The Curse Of BlackBridge|the story]]!
 - ![[Pasted image 20251222125623.png]]
 	- 07-01-86 - [[Randolph Moore|MoorR]] (All)
-		- Regular maintenance Report - Fixed a connection error that was occurring between [[the office]] and [[The Security Room|security]] [[terminal]]. We have also added electronic mail capabilities to each [[terminal]] that can be accessed via the network.
+		- Regular maintenance Report - Fixed a connection error that was occurring between [[The Office]] and [[The Security Room|security]] [[terminal]]. We have also added electronic mail capabilities to each [[terminal]] that can be accessed via the network.
 - ![[Pasted image 20251222135255.png]]
 	- 02-10-87 - [[Bo Lee|LeeB]] (Delisted)
 		- Three new admin keys have been added to the network's user database. \[[[Bo Lee|LeeB]]\] \[[[ProvC|ProvC]]\] and \[[[HounU|HounU]]\].
