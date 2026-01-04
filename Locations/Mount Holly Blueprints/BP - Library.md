@@ -1,5 +1,15 @@
 - ![[Pasted image 20260104093023.png]]
+	- Pearls
+	- Necklace
+	- ==Beads==
+	- Chain
 - ![[Pasted image 20260104093030.png]]
+	- Bunk
+	- ==Beds==
+	- Sleep
+	- Ladder
+	- Pillow
+	A
 - ![[Pasted image 20260104093048.png]]
 - ![[Pasted image 20260104093154.png]]
 	- "What's"

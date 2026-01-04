@@ -1,4 +1,9 @@
 - ![[Pasted image 20260104082006.png]]
+- ![[Music Drawing Names]]
+- ==Bar==
 - ![[Pasted image 20260104082015.png]]
+- ![[Pig Drawing names]]
+	- ==Boar==
 - ![[Pasted image 20260104082026.png]]
-- How could I possibly get more blue tiles?  It must be a unique interaction with the white tiles, similar to red.
+- ![[Pasted image 20260104153230.png]]
+	- "Shade"

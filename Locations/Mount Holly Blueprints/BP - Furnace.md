@@ -1,3 +1,11 @@
 - ![[Pasted image 20251230010258.png]]
+	- Ear
+	- Listen
+	- Hear
+	- ==Lobe==
 - ![[Pasted image 20251230010304.png]]
+	- ==Globe==
+	- 
 - ![[Pasted image 20251230010311.png]]
+- ![[Pasted image 20260104154007.png]]
+	- "Truth"

@@ -1,0 +1,3 @@
+- "The family core can be found in a red room with a 5-letter name."
+- This has to be a lie, there are no [[Red Room]] with 5 letter names
+- ![[Pasted image 20260104150131.png]]

@@ -1,5 +1,13 @@
 - ![[Pasted image 20251230010914.png]]
+	- First
+	- Medal
+	- Gold
+	- One
+	- Necklace
+	- ==Place==
 - ![[Pasted image 20251230010922.png]]
+	- ![[Lace Drawing Names]]
+	- ==Lace==
 - ![[Pasted image 20251230010932.png]]
 	- "TO"
 	- ![[Pasted image 20251230011055.png]]

@@ -9,8 +9,7 @@
 	- Pink, rotates the outer squares
 	- Violet swaps down
 	- Blue copies ability of center tile
-		- Changes some abilities too
-		- Red: black -> blue instead of red.
+		- If it would change to the copied color, it changes to blue instead.
 - There seems to be one behind every door in the [[The Inner Sanctum]]
 - There was one in the [[The Trading Post]] and [[The Master Bedroom]]
 - ![[Puzzle box - Orinda Aries Variation]]

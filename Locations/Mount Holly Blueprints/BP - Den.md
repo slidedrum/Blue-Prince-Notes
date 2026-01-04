@@ -1,5 +1,15 @@
 - ![[Pasted image 20260104073432.png]]
+	- Graph
+	- Stocks
+	- Chart
+	- Plot
+	- Line
+	- Axis
+	- Number
+	- ==Spike==
 - ![[Pasted image 20260104073448.png]]
+	- ![[Spear Drawing names]]
+	- Pike
 - ![[Pasted image 20260104073457.png]]
 - ![[Pasted image 20260104073706.png]]
 	- A

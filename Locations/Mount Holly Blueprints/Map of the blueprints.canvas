@@ -142,7 +142,6 @@
 		{"id":"14480df5d4c8c374","type":"file","file":"Locations/Mount Holly Blueprints/BP - Trophy Room.md","x":-756,"y":-3400,"width":480,"height":480,"color":"5"},
 		{"id":"c3bd512aa6fb2b09","type":"file","file":"Locations/Mount Holly Blueprints/BP - Billiard Room.md","x":-1476,"y":-3400,"width":480,"height":480,"color":"5"},
 		{"id":"d067dda6a8df8e88","type":"file","file":"Locations/Mount Holly Blueprints/BP - Ballroom.md","x":684,"y":-3400,"width":480,"height":480,"color":"5"},
-		{"id":"e37ac4515ed774bb","type":"file","file":"Locations/Mount Holly Blueprints/BP - Spare Room.md","x":1404,"y":-3400,"width":480,"height":480,"color":"5"},
 		{"id":"7be30a8888847552","type":"file","file":"Locations/Mount Holly Blueprints/BP - Passageway.md","x":-756,"y":-4120,"width":480,"height":480,"color":"2"},
 		{"id":"97c448a42482ba18","type":"file","file":"Locations/Mount Holly Blueprints/BP - West wing hall.md","x":-1476,"y":-4120,"width":480,"height":480,"color":"2"},
 		{"id":"4c22ef12204ef87e","type":"file","file":"Locations/Mount Holly Blueprints/BP - Darkroom.md","x":-36,"y":-4120,"width":480,"height":480,"color":"1"},
@@ -164,7 +163,8 @@
 		{"id":"a6d6040599107d24","type":"file","file":"Locations/Mount Holly Blueprints/BP - Chapel.md","x":-756,"y":-6280,"width":480,"height":480,"color":"1"},
 		{"id":"362140abbb7601b7","type":"file","file":"Locations/Mount Holly Blueprints/BP - Archives.md","x":-1476,"y":-6280,"width":480,"height":480,"color":"1"},
 		{"id":"e007f71727609fdc","type":"file","file":"Locations/Mount Holly Blueprints/BP - Dining Room.md","x":-36,"y":-1960,"width":480,"height":480,"color":"5"},
-		{"id":"1174ae9166135a1e","type":"text","text":"","x":-36,"y":-6460,"width":480,"height":120}
+		{"id":"1174ae9166135a1e","type":"text","text":"","x":-36,"y":-6460,"width":480,"height":120},
+		{"id":"e37ac4515ed774bb","type":"file","file":"Locations/Mount Holly Blueprints/BP - Spare Room.md","x":1404,"y":-3400,"width":480,"height":480,"color":"5"}
 	],
 	"edges":[
 		{"id":"7e8e0608038e4459","fromNode":"8ede99332c3bdc2e","fromSide":"right","toNode":"b195ef5d98922de4","toSide":"left","toEnd":"none"},

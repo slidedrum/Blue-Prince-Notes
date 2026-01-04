@@ -1,5 +1,16 @@
 - ![[Pasted image 20260104082629.png]]
+	- ==Rook==
+	- Piece 
+	- Castle
+	- Chess
 - ![[Pasted image 20260104082635.png]]
+	- Cane
+	- stick
+	- staff
+	- Rod
+	- Stake
+	- Pole
+	- ==Crook==
 - ![[Pasted image 20260104082643.png]]
 - ![[Pasted image 20260104083024.png]]
 	- "Rain"

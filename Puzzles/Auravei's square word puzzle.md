@@ -38,7 +38,7 @@ This is telling me to take the [[The Original Gardener's Logbook#^f45d6d|still]]
 	- From prism pristine, three paths convene.
 		- [[Prism Key]]
 		- [[Drafting]] 3 rooms
-	- Three lines of light.  Three shades forseen.
+	- Three lines of light.  Three shades foreseen.
 	- Three colors to count, a sum of eighteen.
 		- room numbers add to 18
 	- But the one left hidden, remains to be seen.

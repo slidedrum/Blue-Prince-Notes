@@ -1,5 +1,10 @@
 - ![[Pasted image 20251230010050.png]]
+	- ==Pin==
+	- Bowling
 - ![[Pasted image 20251230010057.png]]
+	- ==Pi==
+	- Math
+	- Circle
 - ![[Pasted image 20251230010105.png]]
 	- "OF"
 	- ![[Pasted image 20251230010236.png]]

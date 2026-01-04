@@ -1,5 +1,14 @@
 - ![[Pasted image 20251229234451.png]]
+	- Weight
+	- ==Three==
+	- Dumbbell
+	- Heavy
 - ![[Pasted image 20251229234459.png]]
+	- ==Tree==
+	- Christmas
+	- Preset
+	- Ornament
+	- 
 - ![[Pasted image 20251229234414.png]]
 - ![[Pasted image 20251229234427.png]]
 - "LANTERN"

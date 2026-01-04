@@ -1,5 +1,27 @@
 - ![[Pasted image 20260104074838.png]]
+	- ==Book==
+	- Read
+	- Tome
+	- Novel
+	- Story
+	- Notes
+	- Log
+	- Chronicle
+	- Diary
+	- Journal
 - ![[Pasted image 20260104074847.png]]
+	- Valley
+	- Stream
+	- Mountain
+	- Trees
+	- Creek
+	- River
+	- Water
+	- Flow
+	- Landscape
+	- Current
+	- Runoff
+	- ==brook==
 - ![[Pasted image 20260104074853.png]]
 - ![[Pasted image 20260104075050.png]]
 	- "Wisdom"

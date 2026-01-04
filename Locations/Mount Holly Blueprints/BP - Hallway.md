@@ -1,3 +1,23 @@
 - ![[Pasted image 20260104090055.png]]
+	- Goat
+	- Kid
+	- Child
+	- Baby
+	- Newborn
+	- Animal
+	- Bovidae
+	- Hoof
+	- ==Lamb==
+	- Sheep
 - ![[Pasted image 20260104090103.png]]
+	- Science
+	- ==Lab==
+	- Vile
+	- Glass
+	- Beaker
+	- Microscope
+	- Table
+	- Research
 - ![[Pasted image 20260104090118.png]]
+- ![[Pasted image 20260104151943.png]]
+	- "Lantern"

@@ -1,5 +1,9 @@
 - ![[Pasted image 20251230005504.png]]
+	- Worm
+	- ==Bait==
 - ![[Pasted image 20251230005517.png]]
+	- ==Bat==
+	- Baseball
 - ![[Pasted image 20251230005528.png]]
 	- "TINT"
 	- ![[Pasted image 20251230010004.png]]

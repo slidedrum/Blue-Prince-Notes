@@ -1,4 +1,11 @@
 - ![[Pasted image 20260104085600.png]]
+	- ![[Horse Drawing Names]]
+	- ==trot==
+
+	- Moon
+	- Crescent
+	- Card
+	- ==Tarot==
 - ![[Pasted image 20260104085629.png]]
 - ![[Pasted image 20260104090003.png]]
 	- "Through"

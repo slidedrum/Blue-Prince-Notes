@@ -1,5 +1,8 @@
 - ![[Pasted image 20260104082346.png]]
+	- ![[Boat Drawing names]]
+	- ==sail==
 - ![[Pasted image 20260104082355.png]]
+	- ==Snail==
 - ![[Pasted image 20260104082404.png]]
 - ![[Pasted image 20260104082455.png]]
 	- "Of"

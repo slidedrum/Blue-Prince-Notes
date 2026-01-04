@@ -1,0 +1,9 @@
+- Graph
+- Stocks
+- Chart
+- Plot
+- Line
+- Axis
+- Number
+- Spike
+- ==Rate==

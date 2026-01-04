@@ -1,5 +1,21 @@
 - ![[Pasted image 20260104074228.png]]
+	- ==Pen==
+	- Write
+	- Ink
+	- Lid
+	- Cap
+	- Fountain
+	- Clip
+	- Draw
+	- Tip
+	- Nib
 - ![[Pasted image 20260104074235.png]]
+	- Can
+	- ==Open==
+	- Metal
+	- Tab
+	- Pry
+	- Lid
 - ![[Pasted image 20260104074245.png]]
 - ![[Pasted image 20260104074802.png]]
 - "Of"

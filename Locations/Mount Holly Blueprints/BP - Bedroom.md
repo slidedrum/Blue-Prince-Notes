@@ -1,11 +1,5 @@
 - ![[Pasted image 20260104091756.png]]
-	- Boat
-	- Dock
-	- Water
-	- Sail
-	- travel
-	- Port
-	- Wind
+	![[Boat Drawing names]]
 	- ==harbor==
 - ![[Pasted image 20260104091804.png]]
 	- Wood

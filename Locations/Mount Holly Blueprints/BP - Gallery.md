@@ -6,9 +6,11 @@ In place of the names, are one letter each
 
 - ![[Pasted image 20260104092849.png]]
 	- Three
+	- ==Weight==
 
-	- Eight
+	- ==Eight==
 	- Date
+  W
 - ![[Pasted image 20260104092859.png]]
 - ![[Pasted image 20260104092935.png]]
 	- "Seek"

@@ -1,5 +1,32 @@
 - ![[Pasted image 20251230004128.png]]
+	- Book
+	- Read
+	- Tome
+	- ==Novel==
+	- Story
+	- Notes
+	- Log
+	- Chronicle
+	- Diary
+	- Journal
+	- Bookmark
+	- Mark
 - ![[Pasted image 20251230004139.png]]
+	- Tree
+	- Christmas
+	- Present
+	- Ornament
+	- Decorate
+	- Star
+	- Yule
+	- Gift
+	- Wrap
+	- Bow
+	- Strap
+	- Ribbon
+	- Twine
+	- Bauble
+	- ==Noel==
 - ![[Pasted image 20251230004147.png]]
 	- "CAST"
 	- ![[Pasted image 20251230004443.png]]

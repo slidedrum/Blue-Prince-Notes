@@ -1,4 +1,18 @@
 - ![[Pasted image 20260104091540.png]]
+	- Cog
+	- ==Gear==
+	- Teeth
+	- Spokes
 - ![[Pasted image 20260104091610.png]]
+	- Corn
+	- Cob
+	- Food
+	- Kernel 
+	- Husk
+	- Plant
+	- Crop
+	- Harvest
+	- ==Ear==
 - ![[Pasted image 20260104091618.png]]
-- 
+- ![[Pasted image 20260104151632.png]]
+	- "Shadows"

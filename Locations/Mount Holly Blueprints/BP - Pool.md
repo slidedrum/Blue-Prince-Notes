@@ -1,5 +1,14 @@
 - ![[Pasted image 20251230004837.png]]
+	- ==Ear==
+	- Listen
+	- Hear
+	- Lobe
 - ![[Pasted image 20251230004849.png]]
+	- Date
+	- Eight
+	- Calendar
+	- ==Year==
+	- Month
 - ![[Pasted image 20251230004920.png]]
 	- "A"
 	- ![[Pasted image 20251230005414.png]]

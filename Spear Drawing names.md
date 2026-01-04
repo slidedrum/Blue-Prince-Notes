@@ -1,0 +1,17 @@
+- Spear
+- Weapon
+- Poke
+- Stab
+- Cut
+- Handle
+- Tip
+- Blade
+- Head
+- Shaft
+- Ferrule
+- Spine
+- Neck
+- Socket
+- Tang
+- Pike
+- spike

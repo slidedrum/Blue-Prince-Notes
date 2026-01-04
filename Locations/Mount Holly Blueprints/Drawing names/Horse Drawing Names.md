@@ -1,0 +1,11 @@
+- Horse
+- Gate
+- Gallop
+- Ride
+- Stride
+- Main
+- Run
+- Move
+- Equestrian
+- Trot
+- Steed

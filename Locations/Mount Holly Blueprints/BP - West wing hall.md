@@ -1,5 +1,11 @@
 - ![[Pasted image 20260104073945.png]]
+	- ![[Farm Drawing Names]]
+	- ==Farm==
 - ![[Pasted image 20260104073958.png]]
+	- ==Arm==
+	- Muscle
+	- Fist
+	- 
 - ![[Pasted image 20260104074006.png]]
 - ![[Pasted image 20260104074129.png]]
 - "Hue"

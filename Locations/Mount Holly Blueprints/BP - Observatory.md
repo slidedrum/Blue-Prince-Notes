@@ -1,5 +1,9 @@
 - ![[Pasted image 20260104091409.png]]
+	- ![[Lace Drawing Names]]
+	- ==Lace==
 - ![[Pasted image 20260104091423.png]]
+	- ![[Spear Drawing names]]
+	- ==lance==
 - ![[Pasted image 20260104091433.png]]
 - ![[Pasted image 20260104091513.png]]
 	- "In"

@@ -1,4 +1,13 @@
 - ![[Pasted image 20260104080113.png]]
+	- ==Bone==
+	- 
 - ![[Pasted image 20260104080120.png]]
+	- First
+	- Medal
+	- Gold
+	- ==One==
+	- Necklace
+	- Place
 - ![[Pasted image 20260104080128.png]]
-- How could I possibly get the pink tiles out of the corners?
+- ![[Pasted image 20260104152635.png]]
+	- "Us"

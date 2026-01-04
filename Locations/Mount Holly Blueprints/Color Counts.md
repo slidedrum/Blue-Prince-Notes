@@ -1,0 +1,14 @@
+- Hallways
+	- Blue - 1
+	- Red - 28
+	- Purple - 26
+	- Orange - 22
+	- Yellow - 12
+	- Green - 8
+- Rooms
+	- Blue - 24
+	- Red - 6
+	- Purple - 3
+	- Orange - 7
+	- Yellow - 1
+	- Green - 3

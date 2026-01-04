@@ -1,5 +1,16 @@
 - ![[Pasted image 20251230011627.png]]
+	- ![[Pot Drawing names]]
+	- ==Steam==
+	- 
 - ![[Pasted image 20251230011638.png]]
+	- Vine
+	- Thorn
+	- Plant
+	- Vertical
+	- Green
+	- Prickle
+	- Briar
+	- ==Stem==
 - ![[Pasted image 20251230011645.png]]
 	- "OUR"
 	- ![[Pasted image 20251230012007.png]]

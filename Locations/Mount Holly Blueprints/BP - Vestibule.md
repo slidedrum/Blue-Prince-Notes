@@ -1,5 +1,23 @@
-![[Pasted image 20251229230151.png]]
-![[Pasted image 20251229230158.png]]
+- ![[Pasted image 20251229230151.png]]
+	- ==Wine==
+	- Bottle
+	- Drink
+	- Drank
+	- Liquid
+	- Glass
+	- Vintage
+	- Drunk
+	- Alcohol
+- ![[Pasted image 20251229230158.png]]
+	- Medal
+	- Award
+	- One
+	- First
+	- Gold
+	- Necklace
+	- Trophy
+	- Rank
+	- ==win==
 - ![[Pasted image 20251229230134.png]]
 	- ![[Pasted image 20251229230938.png]]
 	- "LIGHT"
