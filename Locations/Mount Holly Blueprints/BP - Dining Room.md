@@ -1,0 +1,5 @@
+- ![[Pasted image 20260104090417.png]]
+- ![[Pasted image 20260104090423.png]]
+- ![[Pasted image 20260104090432.png]]
+- ![[Pasted image 20260104091329.png]]
+	- "Light"

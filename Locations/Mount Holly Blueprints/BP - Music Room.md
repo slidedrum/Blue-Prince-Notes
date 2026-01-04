@@ -1,0 +1,5 @@
+- ![[Pasted image 20260104084215.png]]
+- ![[Pasted image 20260104084225.png]]
+- ![[Pasted image 20260104084241.png]]
+- ![[Pasted image 20260104084801.png]]
+	- "The"

@@ -18,7 +18,7 @@ I see chess pieces fucking everywhere!
 	- [ ] [[The Bunk Room]]: 2 #Black-pawn
 	- [ ] [[The Parlor]]: #Black-pawn
 	- [ ] [[The Guest bedroom]]: #White-pawn
-	- [x] [[The Den]]: #White-pawn
+	- [ ] [[The Den]]: #White-pawn
 	- [ ] [[The Freezer]] #White-pawn 
 	- [ ] [[The Storeroom]]: #White-Pawn
 	- [ ] [[The Drawing room]]: #White-pawn

@@ -1,0 +1,5 @@
+- ![[Pasted image 20260104074838.png]]
+- ![[Pasted image 20260104074847.png]]
+- ![[Pasted image 20260104074853.png]]
+- ![[Pasted image 20260104075050.png]]
+	- "Wisdom"

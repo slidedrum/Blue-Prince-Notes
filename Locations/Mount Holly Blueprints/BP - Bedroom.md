@@ -1,0 +1,21 @@
+- ![[Pasted image 20260104091756.png]]
+	- Boat
+	- Dock
+	- Water
+	- Sail
+	- travel
+	- Port
+	- Wind
+	- ==harbor==
+- ![[Pasted image 20260104091804.png]]
+	- Wood
+	- Plants
+	- Vines
+	- Bush
+	- Creeper
+	- Arch
+	- Overhang
+	- ==Arbor==
+- ![[Pasted image 20260104091840.png]]
+- ![[Pasted image 20260104092214.png]]
+	- "Past"

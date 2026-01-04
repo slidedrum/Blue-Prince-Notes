@@ -1,0 +1,16 @@
+- ![[Pasted image 20260104095212.png]]
+	- Conch
+	- Shell
+	- Mirror
+	- Duplicate
+	- Copy
+	- ==Horn==?
+- ![[Pasted image 20260104095219.png]]
+	- Vine
+	- ==Thorn==
+	- Plant
+	- Green
+	- 
+- ![[Pasted image 20260104095229.png]]
+- ![[Pasted image 20260104095320.png]]
+	- "Cast"

@@ -1,0 +1,8 @@
+- ![[Pasted image 20260104092253.png]]
+	- Pie
+- ![[Pasted image 20260104092300.png]]
+	- Pi
+- E
+- ![[Pasted image 20260104092330.png]]
+- ![[Pasted image 20260104092740.png]]
+	- "We"

@@ -1,3 +1,5 @@
 - ![[Pasted image 20251230012031.png]]
 - ![[Pasted image 20251230012050.png]]
-	- 
+- ![[Pasted image 20260104073743.png]]
+- ![[Pasted image 20260104073850.png]]
+	- Path

@@ -1,0 +1,3 @@
+- "The power must shift to perform the ritual of castling"
+- Found in a blue moon chest
+- ![[Pasted image 20260104071401.png]]

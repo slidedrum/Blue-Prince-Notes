@@ -1,0 +1,7 @@
+- ![[Pasted image 20260104094130.png]]
+- Clog
+- Cog
+- L
+- ![[Pasted image 20260104094143.png]]
+- ![[Pasted image 20260104094316.png]]
+	- "The"

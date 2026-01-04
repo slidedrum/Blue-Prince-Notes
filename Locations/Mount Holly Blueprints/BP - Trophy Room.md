@@ -1,0 +1,5 @@
+- ![[Pasted image 20260104081013.png]]
+- ![[Pasted image 20260104081021.png]]
+- ![[Pasted image 20260104081032.png]]
+	- ![[Pasted image 20260104081312.png]]
+	- "Right"

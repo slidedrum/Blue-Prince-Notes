@@ -1,0 +1,17 @@
+- ![[Pasted image 20260104094904.png]]
+	- ==Harp==
+	- instrument
+	- Strings
+	- Play
+	- Music
+
+	- harpoon
+	- Stab
+	- Weapon
+	- ==Sharp==
+	- Long
+	- Tall
+- S
+- ![[Pasted image 20260104094912.png]]
+- ![[Pasted image 20260104095058.png]]
+	- "We"

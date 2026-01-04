@@ -1,0 +1,8 @@
+- ![[Pasted image 20260104094533.png]]
+	- Cane
+- ![[Pasted image 20260104094539.png]]
+	- Can
+- E
+- ![[Pasted image 20260104094550.png]]
+- ![[Pasted image 20260104094826.png]]
+	- "Lies"

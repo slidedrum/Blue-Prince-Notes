@@ -1,0 +1,4 @@
+- ![[Pasted image 20260104080113.png]]
+- ![[Pasted image 20260104080120.png]]
+- ![[Pasted image 20260104080128.png]]
+- How could I possibly get the pink tiles out of the corners?

@@ -66,7 +66,7 @@
 		{"id":"e2b7115da2e8ecb6","type":"text","text":"","x":-1476,"y":-2140,"width":480,"height":120,"color":"6"},
 		{"id":"9c36a0d12c85505f","type":"text","text":"","x":1944,"y":-2680,"width":120,"height":480,"color":"1"},
 		{"id":"f4faa8c9b6a42695","type":"text","text":"","x":1404,"y":-2860,"width":480,"height":120,"color":"3"},
-		{"id":"888b9b04d2d3d1fe","type":"text","text":"","x":1224,"y":-2680,"width":120,"height":480},
+		{"id":"888b9b04d2d3d1fe","type":"text","text":"","x":1224,"y":-2680,"width":120,"height":480,"color":"6"},
 		{"id":"c49d8b23506e97e0","type":"text","text":"","x":684,"y":-2860,"width":480,"height":120,"color":"3"},
 		{"id":"cd79e086196ab0dc","type":"text","text":"","x":504,"y":-2680,"width":120,"height":480,"color":"2"},
 		{"id":"3ae743576e65ca52","type":"text","text":"","x":-36,"y":-2860,"width":480,"height":120,"color":"1"},
@@ -124,7 +124,6 @@
 		{"id":"c53abed051318008","type":"text","text":"","x":1224,"y":-6280,"width":120,"height":480,"color":"6"},
 		{"id":"fca27cd2235329a6","type":"text","text":"","x":684,"y":-6460,"width":480,"height":120,"color":"6"},
 		{"id":"a533e50c368f0e47","type":"text","text":"","x":504,"y":-6280,"width":120,"height":480,"color":"6"},
-		{"id":"1174ae9166135a1e","type":"text","text":"","x":-36,"y":-6460,"width":480,"height":120},
 		{"id":"9286843a557c4010","type":"text","text":"","x":-216,"y":-6280,"width":120,"height":480,"color":"2"},
 		{"id":"f5dc114ae300eb36","type":"text","text":"","x":-756,"y":-6460,"width":480,"height":120,"color":"2"},
 		{"id":"765d41802d098b3d","type":"text","text":"","x":-1656,"y":-6280,"width":120,"height":480,"color":"1"},
@@ -132,7 +131,6 @@
 		{"id":"14866596380949dd","type":"text","text":"","x":-1476,"y":-6460,"width":480,"height":120,"color":"2"},
 		{"id":"d726c59d8f20012a","type":"file","file":"Locations/Mount Holly Blueprints/BP - East Wing Hall.md","x":1404,"y":-1960,"width":480,"height":480,"color":"2"},
 		{"id":"ff5e3107e733845f","type":"file","file":"Locations/Mount Holly Blueprints/BP - Observatory.md","x":684,"y":-1960,"width":480,"height":480,"color":"5"},
-		{"id":"e007f71727609fdc","type":"file","file":"Locations/Mount Holly Blueprints/BP - Dining Room.md","x":-36,"y":-1960,"width":480,"height":480,"color":"5"},
 		{"id":"9e9b3bc240dffe95","type":"file","file":"Locations/Mount Holly Blueprints/BP - Hallway.md","x":-756,"y":-1960,"width":480,"height":480,"color":"2"},
 		{"id":"45079ca773436e16","type":"file","file":"Locations/Mount Holly Blueprints/BP - Solarium.md","x":-1476,"y":-1960,"width":480,"height":480,"color":"4"},
 		{"id":"f6ce4f5a8e26e687","type":"file","file":"Locations/Mount Holly Blueprints/BP - Nook.md","x":-1476,"y":-2680,"width":480,"height":480,"color":"5"},
@@ -164,7 +162,9 @@
 		{"id":"b23ddcb2fa84334a","type":"file","file":"Locations/Mount Holly Blueprints/BP - Coat Check.md","x":684,"y":-6280,"width":480,"height":480,"color":"5"},
 		{"id":"348a388066903272","type":"file","file":"Locations/Mount Holly Blueprints/BP - Vestibule.md","x":-36,"y":-6280,"width":480,"height":480,"color":"2"},
 		{"id":"a6d6040599107d24","type":"file","file":"Locations/Mount Holly Blueprints/BP - Chapel.md","x":-756,"y":-6280,"width":480,"height":480,"color":"1"},
-		{"id":"362140abbb7601b7","type":"file","file":"Locations/Mount Holly Blueprints/BP - Archives.md","x":-1476,"y":-6280,"width":480,"height":480,"color":"1"}
+		{"id":"362140abbb7601b7","type":"file","file":"Locations/Mount Holly Blueprints/BP - Archives.md","x":-1476,"y":-6280,"width":480,"height":480,"color":"1"},
+		{"id":"e007f71727609fdc","type":"file","file":"Locations/Mount Holly Blueprints/BP - Dining Room.md","x":-36,"y":-1960,"width":480,"height":480,"color":"5"},
+		{"id":"1174ae9166135a1e","type":"text","text":"","x":-36,"y":-6460,"width":480,"height":120}
 	],
 	"edges":[
 		{"id":"7e8e0608038e4459","fromNode":"8ede99332c3bdc2e","fromSide":"right","toNode":"b195ef5d98922de4","toSide":"left","toEnd":"none"},
