@@ -3,10 +3,14 @@
 - In the center is a drafting table with a note on it:
 	- ![[Pasted image 20251229195618.png]]
 		- When first I embarked upon this project, it was my intent to craft inviting rooms that might appeal to the citizens of the realm. I had even secured an arrangement with a local firm which was to oversee the mass production of the floorplans. yet now, after walking the halls of my work, I must confess that I have grown altogether too attached to these rooms. They have become a part of me, and knowing how little regard is often shown for that which I hold sacred, I find myself unequal to the selfless task of sharing them with the world.  
-		- I am content with this resolution, for this house and the forty-five rooms therein are more than the fest work of my career. They are home.  
+		- I am content with this resolution, for this house and the forty-five rooms therein are more than the best work of my career. They are home.  
 		- [[Baroness Auravei|Lady Auravei]]
 		- Project completed November 1913
 - At the end of the room, is a door, it leads to [[The Mount Holly Blueprints]]
 - On the door is a map of the house, not all rooms are labeled, but the ones that are, match the actual layout of the house.
 	- ![[Pasted image 20251229221050.png]]
+- ![[Pasted image 20260105101014.png]]
+	- Three primary colors - 
+	- - three primary paths - 
+	- First draft
 - I have a map of the following area here [[Map of the blueprints.canvas|Map of the blueprints]]

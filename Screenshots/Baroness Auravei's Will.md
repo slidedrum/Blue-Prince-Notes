@@ -1,0 +1,30 @@
+Found in [[BP - Room 46]]
+- ![[Pasted image 20260105130116.png]]
+	- The last WILL and TESTAMENT, of me, The Baroness Auravei  
+	- ---
+	- I, Auravei of Mount Holly, architect, mother, and reluctant baroness, being weak of body but of perfect mind and memory, thanks be to Orinda, do make and ordain this document my last will and testament; As I commit my final wishes to paper, may it be done so in the tapestry and color of my life's work. May it be written under the tree of creativity and in the shade of truth that has sheltered my loved ones from the villainy of country and countrymen. In that same spirit of defiance, I hereby revoke all wills and codicils heretofore printed on common hueless parchment.  
+	- --- 
+	- I, first, being somewhat religious, give my soul to Rynna, my ashes to Veia, and my remainder to man - as will be detailed in the pages and clauses that follow this foolishly superstitious passage.
+	- ---
+- ![[Pasted image 20260105130123.png]]
+	- ---
+	- In the second order, should my husband, Baron Tomas Sinclair, survive me, I grant to him his choice of sentimental keepsake he may wish to retain in remembrance of me. As our union was never founded on material dependency, I make no provision for his future, nor for my eldest son, Herbert S. Sinclair, as he will, in due course, inherit his father's titles, enterprises and fortune. However, the estate of Mount Holly, its many floorplans, and storied secrets, are mine and mine alone to grant, and I have neither pledged nor suggested it will be granted to either of my children. (Further details concerning its disposition to follow.)  
+	- ---
+	- I do, in the third order, bestow upon my youngest son, Simon, my library, including its books, manuscripts, and musings. For I have long believed that Simon, much like myself, finds greater delight in the realm of imagination than in the mundane realities of everyday life. I hope he cherishes these books, for within their pages lie doorways to endless worlds of wonder and knowledge.
+	- ---
+- ![[Pasted image 20260105130127.png]]
+	- ---
+	- In the fourth order - one that I suspect will intrigue those I leave behind far more than the previous provisions - I hereby bequeath the entirety of the aforementioned estate, Mount Holly, to the individual that discovers the hidden room that contains the blue pages of this document, hence styled The Blue Testament of Auravei. It is my firm belief that the challenge of uncovering this secret far outweighs any other measures of worthiness, and thus, I entrust my beloved home to that deserving successor, without regard to the years that may pass or their familial connection to my descendants who may have incidentally assumed possession of the estate in the interim.  
+	- In the event that any of my relations or future kin are living on the estate when this worthy successor locates The Blue Testament, measures shall be taken to ensure their continued residence, without fear of eviction ^or forced removal.
+	- ---
+- ![[Pasted image 20260105130132.png]]
+	- The estate, being of generous size, is more than capable of accommodating multiple parties without inconvenience. It is with the understanding, however, that preparations for eventual relocation should be made, as such leniency will not be afforded to subsequent generations  
+	- ---
+	- I do hereby constitute and appoint my colleague and fellow practitioner of architecture, Quarteress Alicias Erin of Trinsdale, the exclusive charge and office of executrix of this instrument. If ever the forty-sixth room of my Mount Holly is discovered and The Blue Testament of Auravei be delivered unto her hands, or unto any of her descendants, I do ordain that they shall bear sole dominion and discretion to override and render null any and all prior arrangements heretofore made in my stead or in the name of my seed. I trust in her, and in the generations that follow her, to fulfill this role faithfully, in steadfast adherence to the wishes laid out in the foregoing pages of this document.
+	- ---
+- ![[Pasted image 20260105130144.png]]
+	- ---
+	- Lastly, I leave a final message to my worthy successor- you, who have reached this final room. You, who unearthed these pages hidden amidst the blueprints, buried beneath cryptic words and the prophecies of the past. You, who have spent countless days wandering the chambers and passageways of your own curiosity. Scouring for clues. Hoping for answers. Striving for that which you knew might forever elude you. To you, for whom satisfaction is a fleeting companion. To you, who stands now at the end of your journey- triumphant, exhausted, and justly proud. To you, I grant that which, in life, I have given to no other: My esteem.
+	- "In witness whereof, I have hereunto set my hand this 16th day of April 1952,"
+	- [[Baroness Auravei|Auravei]]
+	- of Mouut Holly

@@ -7,3 +7,41 @@
 	- The corners are
 - There are colored lanterns in the hallways on the celling.  The colors seem to be correlated with the color of the room.
 - The layout of this place seems to be organized differently.
+- If I go to the [[BP - Vestibule]] via only orange lanterns, the moon door is orange and when opened, I get this message: 
+	- ![[Pasted image 20260105111916.png]]
+	- To get here I went through:
+		- [[BP - Cloister]]
+		- [[BP - Drawing Room]]
+		- [[BP - Foundation]]
+		- [[BP - Archives]]
+		- [[BP - Chapel]]
+		- [[BP - Vestibule]]
+	- I tried the same thing with a red path, and got the same message. 
+	- To get there through the red path, I went through:
+		- [[BP - Cloister]]
+		- [[BP - Gymnasium]]
+		- [[BP - Archives]]
+		- [[BP - Pool]]
+		- [[BP - Vestibule]]
+	- I tried the same thing with a purple path, and got the same message.
+	- To get there through the purple path, I went through:
+		- [[BT - Maid's Chamber]]
+		- [[BP - Drawing Room]]
+		- [[BP - West wing hall]]
+		- [[BP - Passageway]]
+		- [[BP - Den]]
+		- [[BP - Pump room]]
+		- [[BP - Vestibule]]
+- After following all 4 paths, they spell out:
+	- Blue:
+		- SWANSONG
+		- We seek what's in the shade of blue
+	- Red:
+		- MPTYE (Empty)
+		- Left To Through A Light
+	- Orange:
+		- MORTHE (Mother)
+		- Left Light A Through Lantern Light
+	- Purple:
+		- LEFOSNE (Oneself)
+		- The We Hue Of A Of Light

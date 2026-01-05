@@ -21,7 +21,7 @@
 	- [[Sanctum Door 2]]
 3. [[Arch Aries]]
 	- The Core: Mountain
-	- Transportation: Train
+	- Transportation: Train3
 	- Weather: Stormy
 	- Motes: Industrial
 	- Color: Yellow

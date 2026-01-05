@@ -7,7 +7,7 @@
 	- Green - 8
 - Rooms
 	- Blue - 24
-	- Red - 6
+	- Red - 7
 	- Purple - 3
 	- Orange - 7
 	- Yellow - 1

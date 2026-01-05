@@ -27,3 +27,5 @@
 	- KEYCARD ACCESS SECURITY DOORS  ARE MORE LIKELY TO APPEAR IN THE  HIGHER RANKS OF THE ESTATE.  LIKEWISE, AS A REDUNDANT SECURITY  MEASURE, NORMAL DOORS IN THE  ESTATE WILL ALSO BE MORE LIKELY TO  BE LOCKED AS YOU PROGRESS NORTH.
 - See ![[Security Email]]
 - "A control room with state of the art surveillance equipment, inventory system, and access control via an electronic computer [[terminal]]. This room is where the estate's patrol guards kick up their feet and thank their stars they are living in a modern era."
+
+- SWANSONGHSS

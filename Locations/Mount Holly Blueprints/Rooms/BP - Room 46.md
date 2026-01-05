@@ -1,0 +1,6 @@
+- After following the Blue Path as described in [[Blueprints puzzle box words]], I reach the [[room 46]] of the [[The Mount Holly Blueprints]]. 
+- Inside I found [[Baroness Auravei's Will]] 
+- and one final [[Mora Jai Puzzle Boxes]]
+	- ![[Pasted image 20260105130621.png]]
+	- ![[Pasted image 20260105130730.png]]
+	- "Blue"

@@ -1,0 +1,3 @@
+- "Calendars never hide important dates."
+- ![[Pasted image 20260105095014.png]]
+- Found in a white fire chest
